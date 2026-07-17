@@ -1,0 +1,19 @@
+,Value
+model_name,LightGBM LambdaRank
+auc_roc,0.8052
+baseline_auc,0.753
+auc_improvement,0.0522
+P@5,0.6
+R@5,0.0009
+NDCG@5,0.7227
+P@8,0.75
+R@8,0.0019
+NDCG@8,0.7932
+P@10,0.8
+R@10,0.0025
+NDCG@10,0.8201
+avg_extra_items_per_session,1.704
+avg_aov_lift_inr,454.04
+train_samples,95613
+test_samples,23904
+num_features,34

@@ -1,0 +1,2001 @@
+user_id,city,zone,segment,is_veg,avg_order_value,orders_per_month,preferred_cuisine,registration_date,is_cold_start
+U00001,Delhi,Connaught Place,budget,False,120.04,3,Fast Food,2024-02-28,False
+U00002,Kolkata,Park Street,budget,True,133.21,1,Italian,2024-01-23,False
+U00003,Chennai,Velachery,occasional,True,146.86,1,Desserts,2022-04-15,False
+U00004,Bangalore,Indiranagar,budget,False,105.28,2,Chinese,2024-10-07,False
+U00005,Mumbai,Bandra,budget,False,127.58,1,Biryani,2023-09-15,True
+U00006,Mumbai,Bandra,premium,False,417.34,7,North Indian,2023-02-03,False
+U00007,Mumbai,Andheri,mid_range,True,289.43,3,Street Food,2024-04-08,True
+U00008,Pune,Hinjewadi,premium,False,720.75,6,Chinese,2022-10-09,False
+U00009,Hyderabad,Jubilee Hills,budget,False,142.03,3,Beverages,2024-01-30,False
+U00010,Hyderabad,Madhapur,mid_range,False,209.46,4,Continental,2022-02-13,False
+U00011,Mumbai,Powai,budget,False,108.79,1,Continental,2024-07-08,False
+U00012,Kolkata,Park Street,budget,False,127.07,3,Street Food,2023-05-06,False
+U00013,Pune,Koregaon Park,occasional,False,241.16,1,South Indian,2023-11-29,False
+U00014,Mumbai,Andheri,budget,True,107.79,1,Italian,2022-08-31,False
+U00015,Mumbai,Bandra,mid_range,False,297.59,4,Biryani,2024-01-12,False
+U00016,Mumbai,Bandra,mid_range,True,284.25,4,Chinese,2024-04-25,False
+U00017,Delhi,Dwarka,mid_range,True,166.25,7,North Indian,2023-06-03,True
+U00018,Bangalore,Jayanagar,occasional,True,148.12,1,Fast Food,2023-11-08,True
+U00019,Bangalore,Koramangala,budget,True,148.41,3,Street Food,2023-05-15,False
+U00020,Delhi,Dwarka,premium,True,729.71,8,South Indian,2024-09-06,False
+U00021,Hyderabad,Banjara Hills,frequent,True,459.83,11,Continental,2023-06-30,False
+U00022,Mumbai,Thane,mid_range,True,243.54,6,North Indian,2024-07-10,False
+U00023,Delhi,Rohini,frequent,False,323.36,13,Continental,2024-05-27,False
+U00024,Delhi,Lajpat Nagar,budget,True,103.12,2,Desserts,2023-03-26,False
+U00025,Bangalore,HSR Layout,mid_range,False,320.11,4,Street Food,2022-09-09,False
+U00026,Chennai,OMR,budget,True,145.41,3,South Indian,2023-03-21,False
+U00027,Mumbai,Dadar,premium,False,811.64,8,Fast Food,2024-06-23,False
+U00028,Bangalore,Koramangala,frequent,False,433.86,8,Beverages,2022-09-07,True
+U00029,Bangalore,Indiranagar,budget,False,137.29,1,South Indian,2023-07-29,False
+U00030,Mumbai,Powai,premium,False,844.96,11,Biryani,2024-06-01,False
+U00031,Hyderabad,Gachibowli,budget,True,100.58,1,Fast Food,2023-01-23,False
+U00032,Mumbai,Dadar,mid_range,False,303.07,4,Chinese,2023-12-05,True
+U00033,Mumbai,Bandra,mid_range,False,323.11,3,South Indian,2022-09-26,False
+U00034,Kolkata,Salt Lake,frequent,False,237.79,19,Fast Food,2022-04-30,False
+U00035,Kolkata,New Town,mid_range,False,284.77,7,Chinese,2024-05-19,True
+U00036,Chennai,T Nagar,mid_range,True,214.87,6,South Indian,2022-04-19,False
+U00037,Delhi,Connaught Place,budget,False,121.6,2,North Indian,2022-10-25,False
+U00038,Mumbai,Powai,budget,True,127.78,2,Beverages,2024-07-25,False
+U00039,Hyderabad,Jubilee Hills,budget,False,110.03,1,North Indian,2023-01-15,False
+U00040,Bangalore,Whitefield,budget,True,133.8,1,Biryani,2024-12-01,False
+U00041,Mumbai,Dadar,occasional,False,244.62,1,Fast Food,2024-12-08,False
+U00042,Bangalore,Jayanagar,mid_range,True,275.07,6,Chinese,2022-10-21,False
+U00043,Mumbai,Dadar,mid_range,True,193.74,3,Desserts,2022-02-14,False
+U00044,Pune,Koregaon Park,budget,False,89.17,2,South Indian,2024-02-12,False
+U00045,Delhi,Rohini,occasional,False,272.9,1,Desserts,2023-05-09,True
+U00046,Hyderabad,Madhapur,premium,False,767.08,6,South Indian,2022-04-21,False
+U00047,Delhi,Connaught Place,budget,True,113.5,3,Biryani,2024-02-14,False
+U00048,Bangalore,HSR Layout,premium,True,565.99,7,Desserts,2022-02-04,False
+U00049,Bangalore,Koramangala,mid_range,False,152.74,3,Chinese,2024-08-10,False
+U00050,Mumbai,Thane,budget,False,98.1,1,Italian,2022-06-01,False
+U00051,Kolkata,New Town,mid_range,False,276.28,5,North Indian,2022-05-20,True
+U00052,Chennai,OMR,mid_range,True,259.63,3,Chinese,2022-07-12,True
+U00053,Kolkata,New Town,budget,False,100.72,2,Continental,2024-11-17,False
+U00054,Pune,Hinjewadi,frequent,False,489.59,8,Street Food,2024-01-30,False
+U00055,Bangalore,Indiranagar,occasional,True,280.27,1,Biryani,2024-05-27,False
+U00056,Pune,Koregaon Park,premium,False,681.96,8,Beverages,2023-03-12,False
+U00057,Mumbai,Andheri,mid_range,False,163.88,3,South Indian,2023-01-04,False
+U00058,Mumbai,Bandra,mid_range,False,270.18,4,Chinese,2022-09-14,False
+U00059,Mumbai,Dadar,premium,False,858.63,7,Desserts,2023-06-11,False
+U00060,Delhi,Connaught Place,mid_range,True,178.66,6,Street Food,2023-08-28,True
+U00061,Delhi,Lajpat Nagar,budget,True,100.53,2,Italian,2023-11-23,False
+U00062,Delhi,Connaught Place,mid_range,True,289.57,7,Continental,2022-10-09,False
+U00063,Chennai,Adyar,occasional,True,262.59,1,Desserts,2024-11-04,True
+U00064,Delhi,Saket,mid_range,True,285.93,7,North Indian,2022-07-05,False
+U00065,Delhi,Rohini,budget,True,100.71,1,Italian,2024-11-23,True
+U00066,Bangalore,Whitefield,premium,False,535.98,5,Street Food,2022-01-17,True
+U00067,Mumbai,Bandra,budget,False,126.33,2,Fast Food,2023-06-11,False
+U00068,Chennai,Velachery,budget,False,121.54,1,Fast Food,2023-01-01,False
+U00069,Mumbai,Dadar,budget,False,131.01,1,Street Food,2023-05-07,False
+U00070,Kolkata,Salt Lake,mid_range,False,283.01,5,Fast Food,2023-09-17,False
+U00071,Chennai,Velachery,premium,False,571.37,5,Biryani,2023-04-22,False
+U00072,Mumbai,Andheri,mid_range,False,168.88,7,Chinese,2023-03-31,False
+U00073,Mumbai,Thane,budget,False,144.29,2,South Indian,2024-03-13,False
+U00074,Chennai,Anna Nagar,occasional,True,138.62,1,Chinese,2024-01-22,True
+U00075,Hyderabad,Madhapur,occasional,False,251.21,1,Continental,2024-07-01,False
+U00076,Hyderabad,Banjara Hills,occasional,True,141.28,1,Chinese,2022-10-01,False
+U00077,Chennai,Anna Nagar,budget,True,129.85,2,Chinese,2023-10-30,False
+U00078,Mumbai,Powai,mid_range,False,200.9,3,North Indian,2023-10-03,True
+U00079,Delhi,Rohini,frequent,True,362.09,18,South Indian,2023-02-09,True
+U00080,Mumbai,Dadar,premium,False,878.82,8,Chinese,2023-06-17,False
+U00081,Pune,Hinjewadi,budget,False,116.01,1,South Indian,2022-12-10,False
+U00082,Hyderabad,Banjara Hills,budget,False,118.42,2,Beverages,2022-06-05,False
+U00083,Delhi,Saket,mid_range,False,271.43,4,Fast Food,2022-08-23,False
+U00084,Mumbai,Andheri,occasional,False,163.25,1,Desserts,2022-04-26,False
+U00085,Delhi,Lajpat Nagar,mid_range,True,212.98,3,North Indian,2024-01-18,False
+U00086,Delhi,Connaught Place,mid_range,False,185.38,7,Fast Food,2023-12-25,False
+U00087,Hyderabad,Gachibowli,budget,False,111.09,2,South Indian,2024-11-06,False
+U00088,Hyderabad,Hitech City,premium,False,836.81,11,Fast Food,2024-03-09,False
+U00089,Pune,Wakad,occasional,False,224.89,1,Chinese,2022-02-26,False
+U00090,Bangalore,Koramangala,mid_range,True,215.39,4,Desserts,2024-08-26,False
+U00091,Mumbai,Bandra,premium,True,601.35,9,Chinese,2024-08-02,False
+U00092,Hyderabad,Madhapur,frequent,True,404.66,11,Continental,2023-05-01,False
+U00093,Chennai,Velachery,budget,True,89.32,2,Chinese,2023-10-04,False
+U00094,Bangalore,Indiranagar,mid_range,False,175.67,5,Desserts,2024-12-04,False
+U00095,Chennai,Adyar,budget,False,128.54,3,Italian,2023-08-06,False
+U00096,Bangalore,HSR Layout,premium,True,776.74,10,Beverages,2024-09-18,False
+U00097,Bangalore,HSR Layout,mid_range,True,249.99,6,South Indian,2022-04-01,False
+U00098,Bangalore,Indiranagar,mid_range,False,273.83,3,Beverages,2022-07-29,False
+U00099,Mumbai,Dadar,premium,True,412.84,6,Continental,2023-04-28,True
+U00100,Mumbai,Bandra,mid_range,True,238.61,6,Beverages,2023-10-03,False
+U00101,Mumbai,Bandra,occasional,False,272.99,1,Fast Food,2024-06-12,False
+U00102,Hyderabad,Madhapur,mid_range,False,175.11,7,Street Food,2024-12-18,False
+U00103,Delhi,Dwarka,budget,False,87.56,2,North Indian,2023-03-02,False
+U00104,Bangalore,Whitefield,premium,True,692.78,8,Desserts,2022-02-21,False
+U00105,Pune,Hinjewadi,premium,False,443.02,4,North Indian,2024-05-27,False
+U00106,Delhi,Rohini,mid_range,True,171.1,5,Desserts,2023-10-24,True
+U00107,Delhi,Dwarka,occasional,True,217.98,1,South Indian,2022-08-06,False
+U00108,Chennai,Adyar,occasional,True,234.8,1,Beverages,2023-06-26,False
+U00109,Delhi,Saket,budget,True,82.91,2,South Indian,2024-03-23,False
+U00110,Mumbai,Bandra,frequent,True,406.79,11,Chinese,2024-04-23,False
+U00111,Delhi,Lajpat Nagar,budget,True,101.54,2,Chinese,2023-07-02,False
+U00112,Mumbai,Thane,budget,True,142.86,3,North Indian,2022-12-01,False
+U00113,Pune,Baner,budget,False,120.82,3,Biryani,2024-12-02,False
+U00114,Chennai,T Nagar,occasional,True,185.67,1,Biryani,2023-12-28,False
+U00115,Hyderabad,Jubilee Hills,premium,True,633.09,5,Street Food,2023-03-24,False
+U00116,Pune,Koregaon Park,budget,True,129.12,2,Biryani,2022-11-04,False
+U00117,Chennai,Anna Nagar,mid_range,True,221.72,7,Continental,2024-03-11,False
+U00118,Mumbai,Bandra,mid_range,False,154.19,4,Fast Food,2022-09-23,True
+U00119,Pune,Baner,budget,True,83.98,3,Fast Food,2022-07-08,True
+U00120,Bangalore,Jayanagar,occasional,False,246.38,1,Chinese,2023-08-04,False
+U00121,Chennai,T Nagar,occasional,True,241.62,1,Biryani,2022-11-14,False
+U00122,Pune,Baner,mid_range,True,301.25,5,Street Food,2023-11-20,False
+U00123,Delhi,Rohini,frequent,False,323.68,19,Desserts,2022-05-10,False
+U00124,Mumbai,Thane,mid_range,False,200.18,3,Chinese,2023-12-19,False
+U00125,Delhi,Rohini,frequent,True,375.36,19,South Indian,2022-11-07,False
+U00126,Bangalore,Jayanagar,premium,False,588.92,4,Biryani,2022-01-01,False
+U00127,Chennai,Velachery,mid_range,True,217.86,5,Chinese,2022-05-19,False
+U00128,Pune,Hinjewadi,budget,False,91.33,2,Biryani,2024-10-19,False
+U00129,Mumbai,Andheri,occasional,False,299.59,1,Continental,2024-08-07,False
+U00130,Bangalore,Koramangala,mid_range,False,220.95,5,Street Food,2022-09-13,False
+U00131,Delhi,Dwarka,budget,False,88.06,3,North Indian,2024-05-02,False
+U00132,Delhi,Saket,budget,True,109.04,2,Italian,2023-10-29,False
+U00133,Mumbai,Dadar,mid_range,False,281.94,5,Street Food,2024-11-29,False
+U00134,Delhi,Connaught Place,mid_range,False,279.65,3,Biryani,2023-02-14,False
+U00135,Kolkata,New Town,premium,True,806.86,11,South Indian,2024-01-17,False
+U00136,Delhi,Rohini,occasional,True,236.78,1,South Indian,2022-03-11,False
+U00137,Bangalore,Indiranagar,budget,True,90.6,2,North Indian,2023-03-10,False
+U00138,Hyderabad,Hitech City,premium,False,700.9,8,Beverages,2024-11-21,True
+U00139,Delhi,Connaught Place,budget,False,108.1,2,South Indian,2023-08-14,False
+U00140,Kolkata,New Town,occasional,False,142.83,1,Chinese,2022-11-12,False
+U00141,Kolkata,Howrah,occasional,True,149.28,1,South Indian,2022-05-12,False
+U00142,Delhi,Lajpat Nagar,mid_range,False,191.77,3,Italian,2024-02-10,True
+U00143,Bangalore,Jayanagar,premium,False,676.18,8,North Indian,2023-12-08,False
+U00144,Delhi,Connaught Place,mid_range,False,324.38,5,Chinese,2023-02-14,False
+U00145,Delhi,Saket,mid_range,False,219.1,7,Biryani,2024-11-07,False
+U00146,Mumbai,Thane,occasional,False,217.25,1,Street Food,2022-01-25,True
+U00147,Hyderabad,Madhapur,mid_range,False,263.17,7,North Indian,2022-11-29,False
+U00148,Bangalore,Indiranagar,mid_range,True,229.26,4,Italian,2024-10-05,False
+U00149,Mumbai,Bandra,mid_range,False,178.69,3,Fast Food,2022-12-18,False
+U00150,Delhi,Saket,occasional,False,197.9,1,Italian,2022-10-04,False
+U00151,Pune,Kothrud,mid_range,False,166.12,7,Desserts,2023-08-08,False
+U00152,Delhi,Dwarka,budget,True,132.86,2,Desserts,2024-06-21,True
+U00153,Mumbai,Thane,premium,True,814.22,4,Fast Food,2022-04-23,False
+U00154,Bangalore,Koramangala,occasional,True,205.83,1,Continental,2024-10-29,False
+U00155,Kolkata,Howrah,budget,False,138.01,3,South Indian,2024-05-20,False
+U00156,Delhi,Saket,budget,False,99.39,3,Street Food,2022-07-18,False
+U00157,Hyderabad,Hitech City,budget,True,88.7,3,Beverages,2024-02-19,False
+U00158,Chennai,T Nagar,mid_range,True,344.19,3,Beverages,2023-02-26,False
+U00159,Delhi,Connaught Place,mid_range,False,294.41,3,Street Food,2023-03-17,False
+U00160,Hyderabad,Gachibowli,premium,False,602.71,8,Italian,2024-05-07,True
+U00161,Delhi,Saket,premium,False,690.32,11,Fast Food,2024-11-20,False
+U00162,Hyderabad,Banjara Hills,mid_range,False,284.45,5,Fast Food,2022-05-19,False
+U00163,Hyderabad,Jubilee Hills,mid_range,False,311.94,7,Biryani,2023-04-06,False
+U00164,Bangalore,Indiranagar,occasional,True,123.97,1,North Indian,2023-06-11,False
+U00165,Mumbai,Thane,mid_range,False,167.23,7,Chinese,2023-02-17,False
+U00166,Pune,Koregaon Park,frequent,True,284.1,9,Desserts,2023-02-02,True
+U00167,Delhi,Connaught Place,mid_range,False,237.97,6,Beverages,2022-02-27,False
+U00168,Mumbai,Powai,budget,True,106.67,1,South Indian,2024-01-21,False
+U00169,Mumbai,Andheri,premium,False,699.73,11,Chinese,2023-04-23,False
+U00170,Bangalore,Jayanagar,mid_range,True,226.64,4,Italian,2022-08-02,False
+U00171,Hyderabad,Banjara Hills,premium,False,621.29,4,Biryani,2024-06-12,False
+U00172,Mumbai,Bandra,budget,True,137.43,3,Chinese,2024-05-28,False
+U00173,Bangalore,HSR Layout,budget,True,121.16,2,Biryani,2023-06-17,False
+U00174,Delhi,Dwarka,occasional,True,263.96,1,Beverages,2022-11-23,False
+U00175,Hyderabad,Banjara Hills,budget,True,137.82,2,Beverages,2023-11-30,False
+U00176,Mumbai,Dadar,occasional,True,261.19,1,South Indian,2022-11-12,False
+U00177,Hyderabad,Madhapur,budget,False,108.99,3,Fast Food,2022-09-16,False
+U00178,Delhi,Dwarka,mid_range,False,258.22,6,Italian,2024-03-10,False
+U00179,Kolkata,Ballygunge,premium,False,510.24,9,Continental,2022-02-14,False
+U00180,Mumbai,Bandra,mid_range,False,264.32,3,Street Food,2022-04-14,False
+U00181,Delhi,Dwarka,mid_range,False,161.92,6,South Indian,2022-01-08,False
+U00182,Mumbai,Bandra,budget,False,133.46,2,Beverages,2022-06-17,False
+U00183,Pune,Wakad,budget,False,95.87,2,North Indian,2022-03-17,False
+U00184,Pune,Baner,mid_range,False,166.02,5,Fast Food,2024-12-26,False
+U00185,Delhi,Saket,premium,False,481.68,5,Street Food,2022-11-13,False
+U00186,Hyderabad,Hitech City,frequent,False,260.69,12,North Indian,2022-06-13,False
+U00187,Chennai,OMR,occasional,False,129.21,1,South Indian,2022-09-21,False
+U00188,Bangalore,HSR Layout,premium,False,655.85,7,Chinese,2024-10-22,True
+U00189,Bangalore,Koramangala,premium,True,591.39,10,Continental,2023-07-24,False
+U00190,Delhi,Lajpat Nagar,premium,True,472.66,8,Biryani,2023-02-04,False
+U00191,Mumbai,Bandra,budget,False,84.34,1,Street Food,2024-08-14,True
+U00192,Pune,Koregaon Park,occasional,True,223.3,1,Street Food,2023-03-09,False
+U00193,Pune,Wakad,premium,True,839.02,8,South Indian,2023-01-02,False
+U00194,Hyderabad,Jubilee Hills,mid_range,False,341.96,3,Street Food,2022-08-15,False
+U00195,Delhi,Dwarka,budget,True,86.86,1,Biryani,2023-02-18,False
+U00196,Delhi,Dwarka,mid_range,False,187.06,5,Biryani,2022-12-13,False
+U00197,Hyderabad,Banjara Hills,mid_range,False,279.11,3,North Indian,2024-01-12,True
+U00198,Pune,Hinjewadi,occasional,False,290.27,1,Chinese,2022-11-14,False
+U00199,Pune,Kothrud,mid_range,True,209.32,3,Biryani,2023-09-25,False
+U00200,Chennai,T Nagar,mid_range,True,183.98,3,Continental,2022-03-14,False
+U00201,Hyderabad,Jubilee Hills,frequent,False,236.99,14,Street Food,2022-07-29,False
+U00202,Mumbai,Andheri,budget,True,97.21,2,North Indian,2023-03-23,False
+U00203,Mumbai,Bandra,mid_range,True,347.9,6,Beverages,2024-10-22,False
+U00204,Pune,Koregaon Park,budget,True,146.43,1,North Indian,2023-02-18,False
+U00205,Hyderabad,Jubilee Hills,premium,True,591.07,8,Continental,2023-12-29,False
+U00206,Mumbai,Dadar,occasional,True,133.82,1,Fast Food,2022-10-07,False
+U00207,Mumbai,Andheri,budget,False,126.93,2,North Indian,2022-05-20,True
+U00208,Hyderabad,Madhapur,occasional,True,193.94,1,Beverages,2022-03-06,False
+U00209,Mumbai,Bandra,budget,True,109.08,1,Biryani,2022-12-01,True
+U00210,Mumbai,Dadar,occasional,False,180.37,1,Desserts,2022-06-22,False
+U00211,Bangalore,HSR Layout,premium,False,449.21,11,Desserts,2022-07-10,False
+U00212,Hyderabad,Banjara Hills,occasional,True,227.88,1,Desserts,2024-04-13,False
+U00213,Hyderabad,Madhapur,budget,True,102.08,2,Fast Food,2022-01-18,True
+U00214,Delhi,Lajpat Nagar,frequent,False,271.08,9,Beverages,2023-09-03,False
+U00215,Hyderabad,Madhapur,premium,False,489.52,10,Continental,2023-02-20,False
+U00216,Delhi,Dwarka,mid_range,False,285.51,5,South Indian,2023-07-09,False
+U00217,Delhi,Rohini,occasional,False,205.52,1,Desserts,2023-09-09,False
+U00218,Chennai,Anna Nagar,budget,True,85.09,1,South Indian,2022-12-10,False
+U00219,Hyderabad,Hitech City,occasional,False,182.99,1,Fast Food,2022-11-20,False
+U00220,Pune,Baner,budget,True,149.48,1,South Indian,2024-03-14,False
+U00221,Hyderabad,Banjara Hills,premium,False,837.15,10,Street Food,2024-08-12,False
+U00222,Bangalore,Koramangala,mid_range,False,194.93,4,Fast Food,2022-07-30,False
+U00223,Mumbai,Andheri,budget,False,108.68,3,South Indian,2022-04-17,False
+U00224,Delhi,Rohini,budget,True,92.66,3,North Indian,2024-09-10,False
+U00225,Delhi,Saket,budget,True,103.39,3,Desserts,2023-01-19,False
+U00226,Delhi,Rohini,mid_range,False,234.0,5,Chinese,2023-08-27,False
+U00227,Kolkata,Ballygunge,mid_range,False,316.52,7,Italian,2023-01-29,False
+U00228,Delhi,Rohini,mid_range,False,323.28,3,Fast Food,2022-05-18,True
+U00229,Pune,Koregaon Park,budget,True,128.44,1,Biryani,2023-10-08,False
+U00230,Hyderabad,Jubilee Hills,budget,True,109.11,2,Italian,2023-07-30,False
+U00231,Chennai,T Nagar,premium,True,601.37,8,Continental,2022-08-11,False
+U00232,Bangalore,HSR Layout,budget,True,149.76,1,Fast Food,2023-05-10,False
+U00233,Bangalore,Whitefield,occasional,False,241.58,1,Fast Food,2024-05-22,False
+U00234,Bangalore,Koramangala,occasional,True,143.94,1,South Indian,2023-10-09,True
+U00235,Mumbai,Bandra,premium,False,874.64,11,Fast Food,2022-04-17,False
+U00236,Hyderabad,Banjara Hills,mid_range,False,331.41,7,Desserts,2023-08-24,False
+U00237,Delhi,Lajpat Nagar,occasional,False,157.5,1,Beverages,2024-02-09,False
+U00238,Mumbai,Thane,budget,True,126.85,2,Beverages,2024-05-18,False
+U00239,Hyderabad,Hitech City,budget,False,109.29,2,Continental,2023-11-20,False
+U00240,Mumbai,Bandra,budget,True,121.56,2,Street Food,2022-06-17,False
+U00241,Kolkata,Ballygunge,premium,False,480.73,7,Chinese,2024-02-17,False
+U00242,Kolkata,Salt Lake,budget,True,118.74,2,Street Food,2024-01-12,False
+U00243,Pune,Wakad,mid_range,False,192.02,6,Desserts,2022-01-27,False
+U00244,Delhi,Rohini,frequent,True,207.56,12,Desserts,2023-03-27,False
+U00245,Mumbai,Bandra,occasional,True,260.44,1,North Indian,2022-12-31,False
+U00246,Pune,Koregaon Park,mid_range,False,202.23,6,Beverages,2024-01-04,False
+U00247,Bangalore,HSR Layout,budget,True,119.72,3,Italian,2022-08-25,False
+U00248,Kolkata,Howrah,occasional,False,252.3,1,Biryani,2023-10-10,True
+U00249,Kolkata,Park Street,mid_range,False,247.64,3,Fast Food,2024-09-26,False
+U00250,Pune,Koregaon Park,budget,True,98.29,2,Chinese,2024-05-23,False
+U00251,Delhi,Dwarka,budget,False,121.95,2,Biryani,2024-10-05,False
+U00252,Delhi,Connaught Place,occasional,True,171.87,1,Street Food,2024-12-07,True
+U00253,Pune,Koregaon Park,premium,True,648.12,6,Biryani,2022-01-12,False
+U00254,Delhi,Lajpat Nagar,occasional,False,252.23,1,North Indian,2023-11-13,False
+U00255,Mumbai,Bandra,occasional,False,225.27,1,Chinese,2023-03-29,False
+U00256,Bangalore,HSR Layout,mid_range,True,184.88,5,Chinese,2024-07-30,True
+U00257,Kolkata,Ballygunge,mid_range,False,168.28,6,North Indian,2022-10-03,False
+U00258,Hyderabad,Hitech City,mid_range,False,260.11,5,Desserts,2024-12-10,True
+U00259,Bangalore,Indiranagar,mid_range,False,254.28,7,North Indian,2023-11-04,False
+U00260,Mumbai,Powai,mid_range,True,189.26,3,Desserts,2024-05-18,False
+U00261,Hyderabad,Jubilee Hills,premium,False,830.83,8,Italian,2022-04-04,False
+U00262,Kolkata,Salt Lake,mid_range,False,328.13,5,Continental,2022-07-20,False
+U00263,Mumbai,Powai,occasional,False,265.83,1,Desserts,2024-04-10,False
+U00264,Bangalore,Koramangala,mid_range,False,299.97,7,Biryani,2022-01-25,False
+U00265,Pune,Baner,mid_range,False,264.42,3,Desserts,2024-06-13,False
+U00266,Chennai,Velachery,mid_range,True,203.76,3,Continental,2022-01-16,True
+U00267,Hyderabad,Hitech City,mid_range,False,199.37,4,Street Food,2023-12-21,False
+U00268,Hyderabad,Gachibowli,premium,False,677.57,8,Fast Food,2023-02-04,False
+U00269,Delhi,Rohini,budget,True,109.85,2,North Indian,2023-11-01,False
+U00270,Delhi,Dwarka,mid_range,False,166.31,3,Fast Food,2024-02-02,False
+U00271,Chennai,Adyar,budget,True,92.03,2,North Indian,2023-01-11,False
+U00272,Chennai,Anna Nagar,mid_range,True,192.8,4,Italian,2022-04-29,False
+U00273,Pune,Kothrud,mid_range,False,230.06,7,Beverages,2022-03-18,False
+U00274,Pune,Wakad,premium,True,406.93,9,Biryani,2023-10-07,True
+U00275,Bangalore,Indiranagar,frequent,False,400.66,17,Biryani,2023-07-25,True
+U00276,Bangalore,Koramangala,mid_range,True,336.55,3,Street Food,2024-03-23,False
+U00277,Chennai,OMR,premium,False,476.89,11,Beverages,2023-07-13,False
+U00278,Hyderabad,Madhapur,mid_range,False,241.7,5,Beverages,2023-04-08,True
+U00279,Hyderabad,Jubilee Hills,mid_range,False,282.61,6,North Indian,2023-03-12,False
+U00280,Chennai,Velachery,budget,True,145.22,3,Biryani,2022-01-29,False
+U00281,Pune,Koregaon Park,budget,False,130.41,1,Biryani,2023-01-03,False
+U00282,Delhi,Connaught Place,mid_range,False,325.95,3,Beverages,2024-12-04,False
+U00283,Delhi,Dwarka,mid_range,False,196.22,7,North Indian,2024-08-14,False
+U00284,Mumbai,Powai,budget,False,97.93,1,Desserts,2022-12-27,False
+U00285,Bangalore,Jayanagar,budget,True,89.67,3,Desserts,2023-10-06,False
+U00286,Mumbai,Thane,budget,True,115.0,3,Continental,2024-07-16,False
+U00287,Bangalore,Indiranagar,frequent,True,271.72,17,South Indian,2023-04-29,True
+U00288,Bangalore,Koramangala,mid_range,True,302.0,4,Chinese,2022-01-20,False
+U00289,Delhi,Dwarka,mid_range,False,232.14,4,Italian,2022-03-23,False
+U00290,Bangalore,Koramangala,budget,True,148.36,2,North Indian,2023-07-13,False
+U00291,Mumbai,Bandra,mid_range,False,336.91,4,Desserts,2024-11-27,False
+U00292,Mumbai,Andheri,budget,True,134.73,3,Street Food,2024-01-30,True
+U00293,Chennai,OMR,budget,True,128.42,3,Chinese,2022-03-19,False
+U00294,Delhi,Connaught Place,mid_range,False,228.71,3,Chinese,2022-07-27,False
+U00295,Mumbai,Bandra,budget,False,127.02,3,Chinese,2024-04-24,False
+U00296,Bangalore,HSR Layout,budget,False,120.25,1,Beverages,2024-07-10,True
+U00297,Chennai,T Nagar,budget,False,115.31,1,Continental,2023-11-08,True
+U00298,Mumbai,Thane,budget,False,109.92,2,Street Food,2023-12-07,False
+U00299,Hyderabad,Banjara Hills,budget,True,132.17,1,South Indian,2022-02-01,False
+U00300,Mumbai,Thane,mid_range,False,231.07,4,Street Food,2024-06-26,True
+U00301,Mumbai,Thane,occasional,False,155.75,1,Street Food,2024-05-13,False
+U00302,Bangalore,Koramangala,mid_range,False,331.85,4,North Indian,2022-10-11,False
+U00303,Bangalore,Jayanagar,mid_range,True,300.26,7,Continental,2024-02-16,True
+U00304,Hyderabad,Jubilee Hills,budget,False,139.23,1,Fast Food,2022-08-24,False
+U00305,Hyderabad,Hitech City,frequent,True,486.89,12,Continental,2022-02-14,False
+U00306,Kolkata,Howrah,mid_range,False,217.85,3,Fast Food,2022-08-09,False
+U00307,Bangalore,Jayanagar,budget,False,114.03,1,South Indian,2022-07-15,False
+U00308,Delhi,Dwarka,mid_range,True,199.71,4,North Indian,2023-01-05,False
+U00309,Chennai,Velachery,budget,False,136.62,3,Beverages,2023-04-04,False
+U00310,Delhi,Saket,mid_range,True,210.49,7,Chinese,2023-07-11,False
+U00311,Bangalore,Indiranagar,mid_range,False,321.45,6,North Indian,2023-06-07,False
+U00312,Mumbai,Dadar,occasional,True,146.41,1,Beverages,2022-10-24,False
+U00313,Mumbai,Bandra,mid_range,False,339.0,6,North Indian,2022-02-01,False
+U00314,Kolkata,New Town,premium,True,565.81,8,Beverages,2023-10-25,False
+U00315,Pune,Baner,frequent,False,393.72,14,North Indian,2023-03-10,False
+U00316,Hyderabad,Banjara Hills,budget,False,88.4,1,Continental,2022-11-24,False
+U00317,Delhi,Saket,budget,False,136.17,3,Continental,2024-08-07,False
+U00318,Mumbai,Powai,mid_range,True,177.46,7,Continental,2024-03-28,False
+U00319,Mumbai,Dadar,mid_range,False,215.76,6,Chinese,2024-07-28,False
+U00320,Delhi,Connaught Place,mid_range,True,300.37,7,Italian,2023-06-27,False
+U00321,Bangalore,Koramangala,occasional,True,290.23,1,Biryani,2022-05-24,False
+U00322,Hyderabad,Hitech City,premium,True,829.25,5,Fast Food,2024-02-02,True
+U00323,Hyderabad,Madhapur,mid_range,False,291.01,6,Continental,2022-08-14,False
+U00324,Delhi,Dwarka,mid_range,True,285.54,4,Italian,2023-04-29,False
+U00325,Kolkata,Park Street,occasional,True,277.15,1,Fast Food,2022-03-13,False
+U00326,Chennai,T Nagar,frequent,True,216.09,16,North Indian,2024-06-22,False
+U00327,Bangalore,Jayanagar,occasional,True,205.59,1,South Indian,2022-05-18,False
+U00328,Hyderabad,Banjara Hills,budget,True,106.84,1,Beverages,2024-09-15,False
+U00329,Delhi,Dwarka,mid_range,False,317.29,5,Italian,2024-08-04,False
+U00330,Delhi,Saket,budget,False,93.24,3,Street Food,2023-05-24,True
+U00331,Delhi,Lajpat Nagar,budget,False,115.78,2,Desserts,2024-03-26,False
+U00332,Chennai,Velachery,budget,True,112.26,3,Italian,2023-11-10,False
+U00333,Mumbai,Andheri,mid_range,True,315.91,6,Continental,2024-05-29,False
+U00334,Mumbai,Bandra,premium,False,452.7,10,Continental,2023-04-18,True
+U00335,Mumbai,Dadar,budget,True,126.97,3,Italian,2024-05-10,False
+U00336,Mumbai,Dadar,mid_range,False,222.6,7,Beverages,2023-05-22,False
+U00337,Pune,Kothrud,mid_range,True,295.07,3,Fast Food,2024-10-27,False
+U00338,Hyderabad,Hitech City,mid_range,False,231.56,7,North Indian,2023-06-17,False
+U00339,Bangalore,Jayanagar,budget,True,83.3,3,Desserts,2023-05-22,False
+U00340,Mumbai,Dadar,mid_range,False,285.83,6,North Indian,2024-05-09,False
+U00341,Bangalore,Jayanagar,premium,True,535.28,5,Chinese,2024-06-18,False
+U00342,Bangalore,Jayanagar,budget,True,145.94,1,Beverages,2023-08-31,False
+U00343,Mumbai,Andheri,budget,True,134.29,2,Continental,2022-07-16,False
+U00344,Bangalore,Jayanagar,mid_range,False,177.85,3,Chinese,2023-05-28,True
+U00345,Delhi,Saket,frequent,False,363.28,19,North Indian,2024-11-26,False
+U00346,Hyderabad,Jubilee Hills,premium,False,584.57,6,North Indian,2024-04-04,True
+U00347,Hyderabad,Banjara Hills,premium,False,572.05,8,Desserts,2024-06-07,False
+U00348,Mumbai,Dadar,mid_range,False,238.13,7,Biryani,2022-02-05,False
+U00349,Delhi,Connaught Place,mid_range,False,251.1,5,North Indian,2023-05-28,False
+U00350,Hyderabad,Jubilee Hills,budget,False,89.69,3,Fast Food,2023-12-10,False
+U00351,Bangalore,Jayanagar,mid_range,True,199.99,3,Fast Food,2024-06-27,False
+U00352,Pune,Kothrud,occasional,False,239.37,1,Italian,2022-02-23,False
+U00353,Hyderabad,Gachibowli,mid_range,True,233.03,5,Desserts,2024-07-22,False
+U00354,Mumbai,Dadar,occasional,False,261.31,1,Desserts,2023-08-24,True
+U00355,Mumbai,Thane,premium,False,810.13,9,Continental,2022-08-05,False
+U00356,Hyderabad,Banjara Hills,budget,True,109.33,2,North Indian,2022-12-14,False
+U00357,Mumbai,Dadar,occasional,False,166.2,1,Biryani,2022-11-05,False
+U00358,Bangalore,Indiranagar,budget,True,115.9,1,Street Food,2023-08-05,True
+U00359,Kolkata,New Town,mid_range,True,269.21,7,Chinese,2022-02-26,False
+U00360,Bangalore,Jayanagar,budget,False,110.47,3,Desserts,2022-06-23,False
+U00361,Delhi,Rohini,budget,False,104.15,1,Italian,2024-06-08,False
+U00362,Hyderabad,Gachibowli,mid_range,False,190.85,5,Italian,2022-05-26,False
+U00363,Bangalore,Koramangala,budget,False,95.37,1,North Indian,2022-09-13,False
+U00364,Bangalore,Koramangala,mid_range,False,333.0,7,North Indian,2023-05-12,False
+U00365,Kolkata,Ballygunge,mid_range,True,298.46,3,Street Food,2023-07-21,False
+U00366,Delhi,Saket,budget,False,88.43,1,South Indian,2024-04-16,False
+U00367,Kolkata,Park Street,budget,False,130.68,3,South Indian,2023-05-05,False
+U00368,Pune,Koregaon Park,mid_range,False,236.11,3,North Indian,2024-05-14,True
+U00369,Mumbai,Dadar,mid_range,False,252.48,4,Beverages,2023-11-09,False
+U00370,Mumbai,Bandra,premium,False,587.41,8,Fast Food,2022-05-04,True
+U00371,Mumbai,Dadar,premium,False,759.36,4,Fast Food,2022-06-21,False
+U00372,Mumbai,Bandra,occasional,False,126.41,1,Street Food,2023-04-24,False
+U00373,Mumbai,Powai,premium,False,516.36,4,Street Food,2023-03-11,True
+U00374,Hyderabad,Madhapur,mid_range,False,187.98,3,Continental,2024-03-25,True
+U00375,Mumbai,Powai,premium,False,595.91,10,Biryani,2023-09-28,False
+U00376,Delhi,Dwarka,budget,False,103.89,2,Italian,2023-03-02,False
+U00377,Pune,Koregaon Park,mid_range,True,285.12,5,Fast Food,2022-07-06,False
+U00378,Mumbai,Andheri,premium,False,830.72,10,Beverages,2022-09-06,False
+U00379,Chennai,T Nagar,mid_range,False,151.98,6,North Indian,2023-09-23,True
+U00380,Delhi,Lajpat Nagar,premium,False,630.37,11,Desserts,2023-04-09,False
+U00381,Mumbai,Thane,occasional,False,206.98,1,Beverages,2023-07-18,False
+U00382,Hyderabad,Jubilee Hills,occasional,False,255.82,1,Continental,2022-07-06,False
+U00383,Hyderabad,Gachibowli,occasional,True,216.91,1,Beverages,2023-12-27,False
+U00384,Pune,Hinjewadi,mid_range,False,321.51,3,Desserts,2024-07-22,False
+U00385,Chennai,OMR,mid_range,False,291.27,4,Chinese,2022-10-10,False
+U00386,Chennai,Anna Nagar,mid_range,True,151.4,5,South Indian,2023-06-23,False
+U00387,Delhi,Rohini,mid_range,True,196.95,7,Chinese,2024-12-04,False
+U00388,Mumbai,Bandra,mid_range,False,217.47,7,Italian,2022-12-31,False
+U00389,Chennai,T Nagar,premium,False,400.3,6,Italian,2023-10-14,True
+U00390,Chennai,Velachery,premium,False,520.58,5,Fast Food,2022-04-09,False
+U00391,Kolkata,New Town,mid_range,False,163.64,3,Desserts,2023-10-26,False
+U00392,Delhi,Connaught Place,budget,False,118.89,1,Italian,2022-04-09,False
+U00393,Delhi,Saket,mid_range,False,233.48,4,Street Food,2024-11-16,True
+U00394,Chennai,Anna Nagar,budget,True,141.31,3,Fast Food,2024-02-23,False
+U00395,Delhi,Lajpat Nagar,occasional,True,208.73,1,Continental,2024-05-13,False
+U00396,Kolkata,Park Street,mid_range,False,171.36,7,Fast Food,2024-02-10,False
+U00397,Pune,Wakad,budget,False,84.22,1,Chinese,2023-10-08,False
+U00398,Bangalore,Jayanagar,budget,False,100.86,1,North Indian,2023-05-08,False
+U00399,Chennai,Adyar,mid_range,True,182.86,6,Street Food,2024-07-28,False
+U00400,Chennai,OMR,mid_range,True,174.5,6,Street Food,2024-11-13,False
+U00401,Mumbai,Bandra,mid_range,True,174.77,3,Biryani,2023-07-01,False
+U00402,Pune,Kothrud,budget,True,143.66,1,Street Food,2024-10-17,False
+U00403,Bangalore,Indiranagar,mid_range,True,314.25,5,Street Food,2023-10-01,True
+U00404,Chennai,Anna Nagar,mid_range,True,165.57,7,Chinese,2023-08-13,False
+U00405,Delhi,Rohini,premium,False,523.48,10,Beverages,2023-05-13,False
+U00406,Pune,Koregaon Park,mid_range,True,183.76,7,Street Food,2022-08-18,False
+U00407,Delhi,Lajpat Nagar,mid_range,True,152.65,5,North Indian,2022-01-05,False
+U00408,Mumbai,Dadar,budget,False,133.86,3,South Indian,2022-09-22,False
+U00409,Pune,Baner,frequent,False,472.76,17,Chinese,2023-07-13,False
+U00410,Mumbai,Bandra,mid_range,True,327.64,3,Chinese,2023-02-21,True
+U00411,Delhi,Saket,premium,False,542.09,6,Beverages,2023-05-07,False
+U00412,Kolkata,Salt Lake,budget,False,106.39,2,Biryani,2024-12-09,False
+U00413,Kolkata,Park Street,mid_range,True,258.91,3,Beverages,2023-01-19,False
+U00414,Bangalore,HSR Layout,budget,True,128.39,1,Fast Food,2023-05-11,False
+U00415,Hyderabad,Jubilee Hills,mid_range,False,212.06,5,South Indian,2022-05-27,False
+U00416,Bangalore,HSR Layout,frequent,False,438.93,16,Italian,2022-02-22,False
+U00417,Delhi,Lajpat Nagar,mid_range,False,279.11,3,Continental,2024-04-29,False
+U00418,Delhi,Lajpat Nagar,budget,True,118.29,1,Italian,2023-09-17,False
+U00419,Hyderabad,Hitech City,budget,False,106.42,2,Biryani,2024-04-12,False
+U00420,Chennai,Velachery,mid_range,True,157.96,4,Biryani,2022-06-14,False
+U00421,Chennai,Velachery,budget,True,146.9,3,Street Food,2023-09-19,False
+U00422,Chennai,Anna Nagar,budget,True,104.66,1,Beverages,2022-10-05,False
+U00423,Mumbai,Bandra,premium,False,489.55,7,Fast Food,2022-09-07,False
+U00424,Bangalore,Koramangala,mid_range,True,339.56,3,Street Food,2022-01-13,False
+U00425,Mumbai,Bandra,budget,False,133.45,1,Desserts,2022-05-23,True
+U00426,Bangalore,HSR Layout,occasional,False,296.63,1,Fast Food,2022-12-05,False
+U00427,Bangalore,Whitefield,budget,True,134.27,2,Biryani,2022-05-08,True
+U00428,Pune,Wakad,frequent,False,388.3,10,Biryani,2024-12-15,False
+U00429,Delhi,Connaught Place,mid_range,True,179.2,7,Chinese,2022-12-04,False
+U00430,Mumbai,Dadar,occasional,False,285.18,1,Desserts,2022-05-23,False
+U00431,Mumbai,Dadar,mid_range,True,275.09,7,Street Food,2022-08-06,False
+U00432,Chennai,OMR,occasional,True,132.43,1,Biryani,2023-10-06,False
+U00433,Hyderabad,Hitech City,frequent,False,294.11,15,Desserts,2022-03-12,True
+U00434,Mumbai,Thane,budget,False,104.92,1,South Indian,2024-08-02,False
+U00435,Mumbai,Dadar,frequent,False,378.94,17,Continental,2024-11-18,True
+U00436,Hyderabad,Jubilee Hills,mid_range,False,226.42,3,Beverages,2022-09-28,True
+U00437,Mumbai,Andheri,mid_range,True,189.34,4,Biryani,2023-05-08,True
+U00438,Chennai,Velachery,mid_range,True,209.98,6,South Indian,2022-01-25,False
+U00439,Hyderabad,Banjara Hills,mid_range,False,270.19,6,Fast Food,2023-12-03,False
+U00440,Mumbai,Thane,budget,True,105.38,3,Beverages,2023-03-30,False
+U00441,Mumbai,Dadar,mid_range,False,190.82,5,Desserts,2022-10-23,False
+U00442,Kolkata,Park Street,mid_range,False,310.19,3,Beverages,2022-08-15,False
+U00443,Delhi,Connaught Place,premium,False,454.93,11,Italian,2023-12-18,False
+U00444,Delhi,Dwarka,occasional,False,181.73,1,Chinese,2023-04-01,False
+U00445,Chennai,Adyar,mid_range,True,155.07,6,Desserts,2022-07-16,False
+U00446,Kolkata,New Town,mid_range,False,213.22,3,South Indian,2024-01-25,False
+U00447,Kolkata,New Town,budget,False,122.69,1,Biryani,2023-09-11,True
+U00448,Chennai,Adyar,budget,False,107.08,1,Desserts,2024-07-29,True
+U00449,Delhi,Dwarka,budget,False,90.3,1,North Indian,2022-05-09,False
+U00450,Mumbai,Thane,mid_range,False,167.95,7,Italian,2024-05-10,False
+U00451,Chennai,T Nagar,budget,False,80.42,2,South Indian,2024-01-08,False
+U00452,Bangalore,HSR Layout,frequent,False,236.97,11,Fast Food,2022-05-06,False
+U00453,Bangalore,Jayanagar,mid_range,False,335.21,3,North Indian,2024-01-31,False
+U00454,Pune,Kothrud,mid_range,False,343.17,4,Desserts,2023-04-29,False
+U00455,Mumbai,Dadar,mid_range,False,298.31,5,Chinese,2024-10-31,False
+U00456,Bangalore,Koramangala,budget,True,141.91,2,North Indian,2022-06-05,False
+U00457,Mumbai,Powai,mid_range,True,256.91,3,Beverages,2023-12-05,False
+U00458,Bangalore,Koramangala,mid_range,True,183.25,7,Desserts,2023-02-23,False
+U00459,Mumbai,Thane,mid_range,True,215.57,4,South Indian,2024-11-13,False
+U00460,Mumbai,Thane,mid_range,False,301.96,4,Desserts,2022-12-28,False
+U00461,Mumbai,Bandra,frequent,False,485.62,16,Chinese,2024-11-19,False
+U00462,Hyderabad,Gachibowli,occasional,False,227.54,1,Continental,2024-09-14,False
+U00463,Chennai,Adyar,mid_range,False,159.92,4,Beverages,2022-10-24,False
+U00464,Bangalore,Koramangala,mid_range,False,243.01,4,Biryani,2024-05-29,True
+U00465,Kolkata,New Town,mid_range,True,298.78,7,Desserts,2024-12-26,False
+U00466,Delhi,Dwarka,budget,False,109.66,2,Chinese,2022-10-04,True
+U00467,Delhi,Saket,mid_range,False,342.31,5,North Indian,2023-04-24,False
+U00468,Pune,Koregaon Park,budget,False,114.23,2,North Indian,2023-07-24,False
+U00469,Delhi,Saket,mid_range,False,331.91,5,South Indian,2022-11-19,False
+U00470,Kolkata,Howrah,mid_range,False,302.43,7,Beverages,2022-01-17,False
+U00471,Mumbai,Dadar,budget,False,103.93,2,North Indian,2022-08-30,False
+U00472,Kolkata,Ballygunge,frequent,False,454.54,12,Biryani,2022-11-05,False
+U00473,Mumbai,Dadar,occasional,False,262.91,1,Continental,2023-05-01,False
+U00474,Pune,Baner,premium,True,711.61,9,Continental,2022-07-07,True
+U00475,Bangalore,Whitefield,mid_range,False,311.02,7,South Indian,2024-08-14,True
+U00476,Kolkata,Howrah,occasional,False,191.11,1,Desserts,2024-02-11,True
+U00477,Mumbai,Bandra,budget,True,108.13,3,North Indian,2022-04-04,False
+U00478,Bangalore,Indiranagar,premium,True,625.18,9,Chinese,2023-12-13,False
+U00479,Kolkata,Ballygunge,budget,False,104.99,2,Fast Food,2023-12-17,False
+U00480,Bangalore,HSR Layout,premium,True,493.21,9,Continental,2024-11-13,False
+U00481,Hyderabad,Banjara Hills,budget,True,118.2,1,Street Food,2022-01-04,False
+U00482,Hyderabad,Madhapur,occasional,False,172.54,1,South Indian,2022-09-29,False
+U00483,Bangalore,Jayanagar,frequent,False,344.78,10,Desserts,2024-10-12,False
+U00484,Hyderabad,Gachibowli,budget,True,147.71,3,Italian,2024-10-17,False
+U00485,Bangalore,HSR Layout,mid_range,True,341.43,5,South Indian,2024-02-29,False
+U00486,Pune,Hinjewadi,frequent,False,342.53,18,Chinese,2024-04-18,True
+U00487,Mumbai,Andheri,mid_range,True,255.01,6,Fast Food,2022-04-11,True
+U00488,Delhi,Saket,occasional,False,165.39,1,Street Food,2023-07-17,False
+U00489,Kolkata,New Town,mid_range,False,174.69,4,Continental,2022-09-11,False
+U00490,Pune,Kothrud,mid_range,True,150.19,3,Beverages,2022-07-18,True
+U00491,Bangalore,HSR Layout,budget,True,148.41,1,Street Food,2024-06-06,False
+U00492,Hyderabad,Madhapur,budget,True,126.43,3,Continental,2022-05-28,False
+U00493,Delhi,Dwarka,premium,True,675.33,5,Italian,2023-05-29,True
+U00494,Mumbai,Dadar,mid_range,True,295.62,6,Italian,2024-10-24,False
+U00495,Bangalore,HSR Layout,mid_range,False,296.25,6,Continental,2022-07-23,False
+U00496,Delhi,Rohini,mid_range,True,345.08,5,Beverages,2024-12-06,True
+U00497,Bangalore,HSR Layout,mid_range,True,218.33,6,South Indian,2024-12-24,False
+U00498,Mumbai,Bandra,occasional,False,132.32,1,Beverages,2023-09-01,False
+U00499,Kolkata,Howrah,frequent,True,235.81,11,North Indian,2022-07-06,False
+U00500,Kolkata,Ballygunge,mid_range,True,313.15,5,Continental,2022-12-13,False
+U00501,Hyderabad,Banjara Hills,occasional,True,190.85,1,Continental,2023-04-10,False
+U00502,Bangalore,Koramangala,premium,True,827.27,6,Beverages,2022-12-05,False
+U00503,Delhi,Saket,mid_range,False,323.93,3,Biryani,2022-11-04,False
+U00504,Chennai,OMR,frequent,True,433.04,18,Biryani,2024-11-30,False
+U00505,Hyderabad,Madhapur,budget,False,92.73,2,Chinese,2022-06-17,False
+U00506,Mumbai,Dadar,budget,False,91.58,3,Biryani,2024-03-13,False
+U00507,Pune,Koregaon Park,occasional,False,216.36,1,Italian,2022-01-01,False
+U00508,Chennai,Anna Nagar,mid_range,True,189.3,4,North Indian,2023-10-15,False
+U00509,Kolkata,New Town,occasional,False,127.47,1,Continental,2024-09-29,False
+U00510,Hyderabad,Banjara Hills,occasional,True,220.75,1,Street Food,2022-11-12,False
+U00511,Hyderabad,Banjara Hills,budget,True,126.68,2,Italian,2022-07-23,False
+U00512,Delhi,Lajpat Nagar,occasional,False,291.56,1,Chinese,2023-12-15,False
+U00513,Kolkata,Park Street,mid_range,True,336.03,5,Fast Food,2024-02-20,False
+U00514,Pune,Koregaon Park,mid_range,False,201.78,3,North Indian,2024-01-24,False
+U00515,Mumbai,Bandra,mid_range,False,295.22,3,Biryani,2022-12-16,False
+U00516,Mumbai,Powai,frequent,False,290.83,14,Desserts,2022-10-04,False
+U00517,Delhi,Dwarka,budget,False,119.51,2,South Indian,2024-11-12,False
+U00518,Chennai,T Nagar,mid_range,True,183.25,4,Street Food,2024-10-08,False
+U00519,Kolkata,Ballygunge,premium,False,708.6,11,Continental,2023-05-16,False
+U00520,Mumbai,Powai,premium,False,763.82,11,Fast Food,2024-07-15,False
+U00521,Bangalore,Jayanagar,premium,True,781.11,8,South Indian,2023-05-11,True
+U00522,Delhi,Lajpat Nagar,budget,False,93.44,3,Beverages,2023-04-10,False
+U00523,Kolkata,Ballygunge,budget,False,123.64,2,Beverages,2022-06-21,False
+U00524,Pune,Baner,mid_range,False,247.96,5,North Indian,2023-04-12,True
+U00525,Pune,Baner,occasional,False,180.2,1,North Indian,2023-08-12,False
+U00526,Bangalore,Indiranagar,budget,False,93.83,3,North Indian,2022-01-25,False
+U00527,Delhi,Lajpat Nagar,budget,False,93.0,1,Italian,2023-05-02,False
+U00528,Delhi,Connaught Place,frequent,True,330.87,15,Italian,2024-05-05,False
+U00529,Mumbai,Andheri,budget,False,110.64,1,Beverages,2024-01-15,False
+U00530,Pune,Baner,frequent,True,367.45,12,North Indian,2023-11-27,False
+U00531,Chennai,Anna Nagar,premium,False,866.43,11,Street Food,2024-09-22,False
+U00532,Kolkata,Salt Lake,occasional,False,210.43,1,Chinese,2022-01-20,False
+U00533,Kolkata,Howrah,budget,False,131.6,1,North Indian,2023-09-02,False
+U00534,Bangalore,HSR Layout,budget,True,113.23,2,Continental,2024-05-12,False
+U00535,Chennai,T Nagar,premium,True,860.27,4,Street Food,2023-08-16,True
+U00536,Kolkata,Howrah,occasional,False,219.51,1,Continental,2022-12-21,False
+U00537,Pune,Kothrud,premium,True,642.51,4,Desserts,2022-05-30,False
+U00538,Delhi,Connaught Place,budget,True,148.07,2,Beverages,2024-08-29,False
+U00539,Bangalore,HSR Layout,premium,True,707.09,5,North Indian,2023-05-31,False
+U00540,Mumbai,Bandra,premium,False,641.75,7,Biryani,2024-08-19,False
+U00541,Kolkata,Ballygunge,premium,True,437.45,4,South Indian,2023-10-04,False
+U00542,Hyderabad,Madhapur,premium,False,818.74,5,North Indian,2024-01-09,False
+U00543,Delhi,Dwarka,occasional,False,155.09,1,Chinese,2024-05-30,False
+U00544,Hyderabad,Madhapur,mid_range,False,303.75,3,Desserts,2023-12-23,False
+U00545,Hyderabad,Gachibowli,budget,False,120.38,1,North Indian,2023-03-12,False
+U00546,Delhi,Rohini,mid_range,False,157.29,3,South Indian,2023-07-17,False
+U00547,Mumbai,Thane,budget,False,138.39,1,South Indian,2024-05-29,False
+U00548,Hyderabad,Madhapur,mid_range,False,159.03,5,Italian,2023-02-14,False
+U00549,Bangalore,HSR Layout,mid_range,True,318.8,4,Chinese,2023-03-01,False
+U00550,Chennai,OMR,budget,True,109.52,1,Chinese,2022-04-15,False
+U00551,Bangalore,HSR Layout,mid_range,True,239.82,5,Street Food,2024-09-28,False
+U00552,Pune,Kothrud,budget,False,119.96,1,Biryani,2022-04-10,False
+U00553,Bangalore,HSR Layout,occasional,True,176.8,1,Chinese,2023-12-11,False
+U00554,Bangalore,HSR Layout,frequent,True,310.04,9,Desserts,2023-03-29,False
+U00555,Pune,Wakad,budget,False,133.66,3,Biryani,2023-03-21,False
+U00556,Delhi,Lajpat Nagar,frequent,False,491.02,18,Italian,2024-01-15,True
+U00557,Mumbai,Dadar,mid_range,True,270.16,6,Chinese,2022-03-15,False
+U00558,Mumbai,Thane,budget,False,99.96,2,Italian,2023-10-13,False
+U00559,Chennai,Adyar,budget,True,111.9,2,South Indian,2024-04-25,False
+U00560,Hyderabad,Banjara Hills,mid_range,False,301.56,4,North Indian,2024-06-25,False
+U00561,Hyderabad,Gachibowli,premium,True,559.02,11,Chinese,2022-07-06,False
+U00562,Mumbai,Powai,premium,False,428.11,7,South Indian,2024-09-09,False
+U00563,Mumbai,Andheri,budget,True,143.9,2,North Indian,2023-12-20,False
+U00564,Mumbai,Dadar,budget,True,118.25,1,North Indian,2024-08-23,True
+U00565,Delhi,Lajpat Nagar,mid_range,True,218.66,7,South Indian,2023-06-16,False
+U00566,Bangalore,Whitefield,budget,False,119.15,2,Continental,2023-08-17,True
+U00567,Delhi,Saket,budget,False,86.97,1,Biryani,2024-10-03,False
+U00568,Bangalore,Whitefield,budget,True,147.46,2,Continental,2024-09-12,False
+U00569,Pune,Hinjewadi,occasional,False,228.58,1,Beverages,2023-05-06,False
+U00570,Delhi,Connaught Place,frequent,False,404.93,19,Fast Food,2022-10-28,False
+U00571,Bangalore,Indiranagar,mid_range,False,265.13,3,North Indian,2023-03-07,False
+U00572,Chennai,Anna Nagar,occasional,False,224.71,1,Street Food,2023-03-01,False
+U00573,Delhi,Lajpat Nagar,mid_range,True,231.28,7,Biryani,2022-11-11,False
+U00574,Hyderabad,Hitech City,mid_range,False,279.74,7,North Indian,2022-10-22,True
+U00575,Pune,Kothrud,budget,False,123.65,1,Desserts,2024-07-31,False
+U00576,Kolkata,Salt Lake,mid_range,False,211.94,4,Street Food,2022-03-18,False
+U00577,Mumbai,Andheri,frequent,False,472.65,17,Beverages,2024-01-12,True
+U00578,Pune,Baner,mid_range,False,285.28,4,Beverages,2022-07-09,False
+U00579,Bangalore,HSR Layout,mid_range,True,186.81,6,Desserts,2023-01-13,False
+U00580,Delhi,Saket,mid_range,False,244.83,4,South Indian,2022-03-09,False
+U00581,Bangalore,Jayanagar,budget,True,123.16,1,Biryani,2022-10-23,False
+U00582,Kolkata,Ballygunge,occasional,False,178.71,1,Italian,2024-04-21,False
+U00583,Bangalore,HSR Layout,mid_range,True,179.59,7,Biryani,2024-08-27,False
+U00584,Delhi,Connaught Place,mid_range,False,191.82,3,Street Food,2022-08-31,True
+U00585,Hyderabad,Banjara Hills,mid_range,False,190.71,6,Continental,2023-05-23,False
+U00586,Delhi,Rohini,mid_range,True,235.1,5,Italian,2023-05-31,False
+U00587,Mumbai,Powai,budget,True,81.47,1,Beverages,2024-08-14,False
+U00588,Mumbai,Thane,premium,False,622.91,10,Beverages,2024-04-15,False
+U00589,Mumbai,Andheri,budget,False,141.97,1,South Indian,2023-07-16,False
+U00590,Mumbai,Thane,premium,True,669.18,11,Fast Food,2024-01-05,False
+U00591,Mumbai,Powai,occasional,False,189.84,1,Biryani,2024-07-16,False
+U00592,Hyderabad,Hitech City,occasional,False,144.07,1,South Indian,2022-01-11,False
+U00593,Mumbai,Andheri,mid_range,False,300.28,7,Street Food,2023-03-18,False
+U00594,Delhi,Saket,mid_range,True,285.32,4,Italian,2024-09-20,False
+U00595,Pune,Wakad,budget,False,145.67,1,Desserts,2024-03-21,True
+U00596,Bangalore,HSR Layout,premium,False,566.09,9,North Indian,2023-08-18,False
+U00597,Hyderabad,Hitech City,budget,False,133.57,3,Continental,2023-08-03,False
+U00598,Mumbai,Thane,mid_range,False,190.96,6,Street Food,2023-01-16,False
+U00599,Mumbai,Thane,budget,True,131.7,1,North Indian,2023-07-24,False
+U00600,Mumbai,Thane,budget,False,107.11,1,Biryani,2023-12-19,False
+U00601,Mumbai,Bandra,mid_range,True,210.9,7,Desserts,2023-04-04,False
+U00602,Delhi,Rohini,budget,True,124.99,3,Beverages,2024-02-21,False
+U00603,Mumbai,Bandra,premium,False,888.31,7,South Indian,2024-08-01,False
+U00604,Mumbai,Dadar,mid_range,False,310.37,5,Italian,2022-06-19,False
+U00605,Mumbai,Powai,budget,False,140.87,1,South Indian,2023-05-10,False
+U00606,Bangalore,HSR Layout,mid_range,True,339.54,4,Italian,2023-03-23,True
+U00607,Mumbai,Andheri,budget,False,102.84,3,Fast Food,2024-01-23,True
+U00608,Delhi,Rohini,budget,False,107.56,2,Fast Food,2022-10-01,True
+U00609,Bangalore,Whitefield,premium,False,622.29,9,South Indian,2023-12-03,False
+U00610,Hyderabad,Hitech City,budget,False,95.98,1,Italian,2024-08-18,True
+U00611,Mumbai,Bandra,occasional,False,173.99,1,Italian,2023-04-03,False
+U00612,Chennai,Adyar,budget,False,91.76,2,North Indian,2024-09-24,False
+U00613,Hyderabad,Banjara Hills,budget,True,108.0,1,South Indian,2024-12-23,False
+U00614,Mumbai,Thane,premium,True,691.65,11,Chinese,2022-04-27,False
+U00615,Pune,Hinjewadi,mid_range,False,180.35,5,Biryani,2022-09-13,False
+U00616,Pune,Koregaon Park,budget,False,126.53,2,Beverages,2024-11-06,False
+U00617,Mumbai,Powai,mid_range,False,290.22,5,Fast Food,2024-11-15,False
+U00618,Delhi,Dwarka,budget,False,115.32,1,Chinese,2022-04-17,True
+U00619,Chennai,OMR,occasional,True,244.51,1,Fast Food,2022-01-17,False
+U00620,Chennai,T Nagar,mid_range,True,157.68,4,Desserts,2022-06-26,False
+U00621,Mumbai,Andheri,premium,False,889.52,7,Fast Food,2024-12-26,False
+U00622,Mumbai,Powai,occasional,True,210.35,1,Street Food,2022-07-17,False
+U00623,Delhi,Lajpat Nagar,mid_range,False,293.45,5,Fast Food,2023-07-05,False
+U00624,Bangalore,HSR Layout,occasional,False,263.6,1,North Indian,2024-07-18,False
+U00625,Hyderabad,Banjara Hills,mid_range,False,241.38,5,Chinese,2022-01-23,True
+U00626,Delhi,Connaught Place,frequent,False,315.82,19,Desserts,2023-10-24,False
+U00627,Bangalore,Whitefield,budget,False,128.8,1,Italian,2022-10-31,True
+U00628,Chennai,Adyar,premium,True,831.48,7,Italian,2024-08-02,False
+U00629,Mumbai,Dadar,mid_range,True,163.75,5,Desserts,2022-11-07,False
+U00630,Delhi,Lajpat Nagar,mid_range,False,233.43,7,Continental,2024-01-22,False
+U00631,Hyderabad,Hitech City,mid_range,False,190.8,7,South Indian,2024-01-09,False
+U00632,Pune,Wakad,premium,False,678.84,4,Continental,2022-08-31,False
+U00633,Bangalore,Whitefield,budget,True,148.03,2,Chinese,2022-02-08,False
+U00634,Bangalore,HSR Layout,budget,True,100.36,2,Fast Food,2023-03-25,False
+U00635,Mumbai,Dadar,premium,False,828.93,6,Italian,2022-11-13,False
+U00636,Bangalore,HSR Layout,premium,False,496.34,5,North Indian,2024-06-04,False
+U00637,Bangalore,Whitefield,frequent,True,289.36,17,Continental,2024-05-26,False
+U00638,Delhi,Connaught Place,premium,False,635.81,5,Fast Food,2023-05-16,True
+U00639,Delhi,Rohini,frequent,False,249.86,11,Beverages,2023-10-27,False
+U00640,Delhi,Connaught Place,premium,True,869.96,6,South Indian,2023-10-24,False
+U00641,Mumbai,Thane,budget,False,149.17,2,Desserts,2024-06-24,True
+U00642,Delhi,Connaught Place,budget,False,92.54,3,Fast Food,2023-04-11,True
+U00643,Mumbai,Dadar,premium,False,630.18,9,South Indian,2022-10-29,False
+U00644,Delhi,Lajpat Nagar,mid_range,False,346.74,3,South Indian,2022-10-18,False
+U00645,Mumbai,Andheri,budget,True,86.77,3,Italian,2023-08-11,False
+U00646,Pune,Koregaon Park,mid_range,True,206.37,3,Italian,2023-05-07,False
+U00647,Bangalore,Koramangala,frequent,False,211.81,8,Chinese,2023-04-27,False
+U00648,Hyderabad,Banjara Hills,mid_range,False,304.9,3,Beverages,2022-04-10,False
+U00649,Chennai,Anna Nagar,mid_range,False,243.54,6,Desserts,2024-02-26,False
+U00650,Bangalore,Koramangala,mid_range,False,235.67,3,South Indian,2022-08-23,False
+U00651,Mumbai,Thane,budget,False,134.85,1,Chinese,2022-08-04,False
+U00652,Bangalore,Indiranagar,mid_range,False,302.38,7,Street Food,2023-03-28,False
+U00653,Bangalore,Indiranagar,mid_range,False,236.57,5,Continental,2022-09-07,False
+U00654,Chennai,Anna Nagar,budget,True,113.39,2,Biryani,2023-10-02,False
+U00655,Bangalore,HSR Layout,premium,True,843.71,11,South Indian,2023-02-11,False
+U00656,Mumbai,Andheri,mid_range,False,217.16,6,Chinese,2023-05-07,True
+U00657,Delhi,Dwarka,occasional,False,286.84,1,Beverages,2023-08-12,True
+U00658,Delhi,Lajpat Nagar,occasional,False,211.61,1,Italian,2022-08-11,False
+U00659,Hyderabad,Hitech City,budget,False,99.51,3,South Indian,2022-06-20,False
+U00660,Bangalore,Whitefield,premium,True,471.41,8,South Indian,2024-08-22,False
+U00661,Delhi,Saket,mid_range,False,206.51,4,Fast Food,2023-04-20,False
+U00662,Kolkata,Salt Lake,occasional,True,192.89,1,Beverages,2023-03-28,True
+U00663,Hyderabad,Madhapur,budget,False,83.85,2,Desserts,2022-02-08,True
+U00664,Delhi,Dwarka,premium,False,441.29,5,Italian,2023-06-30,False
+U00665,Mumbai,Andheri,mid_range,False,237.91,5,South Indian,2023-08-30,False
+U00666,Mumbai,Bandra,budget,True,98.12,1,Continental,2023-09-04,False
+U00667,Delhi,Saket,budget,True,86.09,1,Italian,2024-02-14,False
+U00668,Mumbai,Andheri,premium,True,883.28,11,Continental,2022-07-14,False
+U00669,Mumbai,Thane,premium,False,567.44,8,Biryani,2022-10-04,False
+U00670,Delhi,Connaught Place,mid_range,True,331.92,3,Desserts,2024-06-06,False
+U00671,Mumbai,Dadar,mid_range,False,312.14,7,Biryani,2024-11-03,False
+U00672,Pune,Hinjewadi,mid_range,True,168.27,3,South Indian,2022-05-29,False
+U00673,Mumbai,Powai,premium,True,880.37,8,Fast Food,2023-06-29,False
+U00674,Bangalore,HSR Layout,budget,True,80.99,1,Desserts,2022-08-23,True
+U00675,Delhi,Lajpat Nagar,occasional,True,200.99,1,Fast Food,2022-03-07,True
+U00676,Kolkata,Park Street,budget,False,131.32,3,Chinese,2022-12-23,True
+U00677,Mumbai,Thane,mid_range,False,207.5,5,Street Food,2022-06-07,True
+U00678,Delhi,Lajpat Nagar,budget,False,117.33,2,Beverages,2024-02-17,False
+U00679,Kolkata,Park Street,budget,True,91.84,3,Chinese,2023-08-08,False
+U00680,Pune,Wakad,mid_range,True,320.66,5,Biryani,2022-06-07,False
+U00681,Chennai,OMR,budget,True,122.23,1,Continental,2022-01-11,False
+U00682,Delhi,Connaught Place,occasional,False,217.88,1,Biryani,2024-06-03,False
+U00683,Mumbai,Thane,budget,True,116.06,3,Desserts,2022-07-12,False
+U00684,Hyderabad,Jubilee Hills,mid_range,False,272.27,4,Desserts,2023-10-26,False
+U00685,Pune,Wakad,mid_range,False,304.43,3,Biryani,2023-01-04,False
+U00686,Bangalore,Jayanagar,budget,True,106.92,2,South Indian,2023-10-04,False
+U00687,Bangalore,HSR Layout,budget,True,110.23,3,Biryani,2022-12-12,False
+U00688,Delhi,Saket,mid_range,True,246.83,6,Desserts,2022-04-06,False
+U00689,Chennai,T Nagar,mid_range,False,265.3,4,Desserts,2022-09-02,False
+U00690,Mumbai,Thane,mid_range,True,312.0,4,Italian,2022-07-25,False
+U00691,Delhi,Saket,mid_range,False,194.88,5,North Indian,2023-04-14,False
+U00692,Bangalore,Koramangala,mid_range,True,202.17,3,Fast Food,2023-12-22,True
+U00693,Bangalore,HSR Layout,budget,False,125.38,2,Chinese,2022-10-16,True
+U00694,Delhi,Rohini,mid_range,True,239.1,7,Biryani,2022-01-14,False
+U00695,Mumbai,Andheri,frequent,False,371.36,18,Italian,2023-07-23,False
+U00696,Hyderabad,Hitech City,mid_range,False,177.89,5,South Indian,2023-10-26,False
+U00697,Delhi,Saket,premium,False,833.99,8,Desserts,2024-11-20,True
+U00698,Bangalore,HSR Layout,mid_range,True,293.6,4,Biryani,2023-10-08,False
+U00699,Mumbai,Bandra,premium,False,446.22,7,Desserts,2023-05-31,False
+U00700,Bangalore,HSR Layout,premium,True,597.24,10,Continental,2023-09-20,False
+U00701,Bangalore,Indiranagar,mid_range,True,198.8,7,Italian,2024-10-13,False
+U00702,Mumbai,Thane,frequent,False,487.44,10,Biryani,2024-06-26,False
+U00703,Delhi,Saket,budget,True,104.36,3,Continental,2022-12-20,False
+U00704,Mumbai,Thane,budget,False,147.66,2,Street Food,2022-09-17,False
+U00705,Mumbai,Thane,premium,True,560.5,8,Italian,2022-10-15,False
+U00706,Kolkata,Ballygunge,occasional,False,243.8,1,Biryani,2023-07-07,True
+U00707,Delhi,Rohini,budget,False,131.55,1,Biryani,2024-03-25,False
+U00708,Chennai,Adyar,budget,True,83.45,2,Beverages,2023-07-06,False
+U00709,Delhi,Dwarka,budget,False,104.74,1,Italian,2022-03-16,False
+U00710,Hyderabad,Gachibowli,budget,True,114.37,1,Italian,2024-03-03,False
+U00711,Chennai,Velachery,premium,True,496.13,6,Desserts,2024-06-01,False
+U00712,Bangalore,Indiranagar,mid_range,True,344.98,5,Biryani,2022-11-14,False
+U00713,Bangalore,Koramangala,mid_range,False,238.94,5,Fast Food,2023-12-29,False
+U00714,Delhi,Saket,mid_range,False,346.67,4,Fast Food,2023-04-13,True
+U00715,Delhi,Rohini,budget,False,127.69,3,Fast Food,2024-08-31,False
+U00716,Pune,Kothrud,budget,True,122.51,1,Street Food,2024-07-14,False
+U00717,Pune,Baner,mid_range,True,285.37,3,Biryani,2023-07-30,False
+U00718,Kolkata,Howrah,frequent,True,378.84,16,Biryani,2024-01-28,False
+U00719,Mumbai,Thane,occasional,True,157.97,1,Continental,2024-08-25,False
+U00720,Chennai,Adyar,budget,True,82.12,3,Beverages,2023-06-27,False
+U00721,Kolkata,New Town,occasional,False,202.86,1,Italian,2022-12-10,False
+U00722,Mumbai,Andheri,premium,True,466.89,11,Desserts,2024-04-05,False
+U00723,Mumbai,Powai,premium,False,436.33,5,Beverages,2022-08-29,False
+U00724,Chennai,Velachery,mid_range,False,219.56,6,Continental,2023-03-02,False
+U00725,Bangalore,Indiranagar,mid_range,False,258.96,3,Biryani,2024-08-05,False
+U00726,Pune,Baner,mid_range,False,207.95,4,Chinese,2024-03-04,False
+U00727,Mumbai,Bandra,budget,False,94.95,2,Italian,2023-03-19,False
+U00728,Chennai,Velachery,budget,True,129.28,1,Street Food,2022-08-24,False
+U00729,Mumbai,Dadar,budget,True,105.67,2,Fast Food,2023-01-25,False
+U00730,Mumbai,Dadar,mid_range,False,345.29,7,Street Food,2022-11-08,False
+U00731,Mumbai,Dadar,premium,False,800.07,5,Biryani,2022-07-12,False
+U00732,Chennai,OMR,mid_range,False,163.61,4,Continental,2024-03-24,False
+U00733,Hyderabad,Gachibowli,budget,False,98.68,2,Chinese,2022-10-04,True
+U00734,Bangalore,Jayanagar,frequent,False,433.32,18,South Indian,2023-05-13,False
+U00735,Delhi,Connaught Place,frequent,False,453.46,12,Fast Food,2023-02-27,False
+U00736,Pune,Hinjewadi,premium,True,743.62,6,Desserts,2024-12-11,False
+U00737,Delhi,Lajpat Nagar,frequent,False,218.27,16,Biryani,2023-03-05,False
+U00738,Chennai,T Nagar,mid_range,True,151.97,5,North Indian,2022-03-29,True
+U00739,Bangalore,Indiranagar,frequent,True,298.81,16,Chinese,2022-04-09,False
+U00740,Delhi,Rohini,budget,True,133.64,1,Chinese,2023-10-09,True
+U00741,Bangalore,HSR Layout,mid_range,True,312.33,4,Italian,2023-10-19,False
+U00742,Delhi,Dwarka,budget,False,111.24,3,Street Food,2023-04-04,False
+U00743,Chennai,Anna Nagar,budget,True,128.5,3,Fast Food,2023-04-18,False
+U00744,Bangalore,HSR Layout,budget,True,95.76,2,Biryani,2022-03-01,True
+U00745,Delhi,Rohini,mid_range,False,271.94,7,North Indian,2023-07-20,False
+U00746,Pune,Baner,premium,False,478.18,10,Fast Food,2023-07-07,False
+U00747,Delhi,Connaught Place,mid_range,False,263.65,4,Continental,2022-06-13,False
+U00748,Bangalore,Koramangala,budget,False,113.21,2,North Indian,2022-04-24,False
+U00749,Pune,Wakad,occasional,False,224.28,1,Beverages,2022-05-16,True
+U00750,Hyderabad,Banjara Hills,mid_range,True,263.86,6,Beverages,2022-04-21,False
+U00751,Mumbai,Powai,mid_range,False,253.75,3,Chinese,2023-10-30,False
+U00752,Kolkata,Salt Lake,premium,False,516.43,7,Continental,2022-08-04,False
+U00753,Hyderabad,Gachibowli,budget,False,101.72,1,Beverages,2022-10-03,True
+U00754,Delhi,Dwarka,mid_range,False,250.83,4,Chinese,2022-07-10,False
+U00755,Mumbai,Dadar,occasional,True,166.46,1,Street Food,2024-11-14,False
+U00756,Chennai,Adyar,budget,False,89.33,3,Biryani,2024-07-24,False
+U00757,Hyderabad,Madhapur,mid_range,True,323.54,6,Chinese,2022-09-10,False
+U00758,Bangalore,Jayanagar,occasional,False,139.12,1,Biryani,2022-12-25,False
+U00759,Pune,Wakad,premium,True,803.98,10,Continental,2022-08-18,False
+U00760,Chennai,Adyar,budget,False,87.98,2,Italian,2023-06-23,False
+U00761,Mumbai,Thane,budget,True,138.4,2,Fast Food,2022-01-22,False
+U00762,Delhi,Saket,budget,False,125.25,2,Chinese,2024-01-06,False
+U00763,Delhi,Saket,mid_range,False,255.74,3,Chinese,2023-07-27,True
+U00764,Chennai,Adyar,mid_range,True,277.79,3,Biryani,2024-09-11,True
+U00765,Mumbai,Dadar,budget,False,110.45,1,Beverages,2022-06-30,False
+U00766,Bangalore,Whitefield,frequent,False,363.63,9,Beverages,2024-05-30,True
+U00767,Chennai,Velachery,mid_range,True,288.33,6,Chinese,2024-05-17,True
+U00768,Pune,Kothrud,budget,False,91.43,1,Beverages,2022-05-20,True
+U00769,Delhi,Connaught Place,mid_range,False,179.1,7,Beverages,2023-03-13,False
+U00770,Chennai,Anna Nagar,premium,True,664.09,7,Chinese,2022-07-06,False
+U00771,Mumbai,Dadar,budget,False,87.47,2,Street Food,2022-10-06,False
+U00772,Pune,Koregaon Park,budget,False,140.76,3,Street Food,2022-10-16,False
+U00773,Mumbai,Thane,occasional,False,232.69,1,South Indian,2023-09-02,False
+U00774,Delhi,Lajpat Nagar,mid_range,True,172.48,3,Street Food,2023-03-27,False
+U00775,Chennai,Anna Nagar,mid_range,True,201.5,3,South Indian,2024-11-03,False
+U00776,Mumbai,Bandra,mid_range,True,202.01,4,Continental,2022-05-19,False
+U00777,Delhi,Rohini,budget,True,146.01,2,Desserts,2024-12-02,True
+U00778,Hyderabad,Gachibowli,budget,False,138.45,3,Fast Food,2022-09-10,True
+U00779,Hyderabad,Madhapur,mid_range,False,172.5,6,Desserts,2024-04-26,True
+U00780,Hyderabad,Madhapur,budget,True,99.26,2,Beverages,2023-01-07,False
+U00781,Hyderabad,Madhapur,budget,False,103.87,3,North Indian,2022-06-06,False
+U00782,Bangalore,Whitefield,occasional,True,167.44,1,Beverages,2024-07-28,False
+U00783,Delhi,Connaught Place,frequent,False,479.2,8,Chinese,2022-12-05,False
+U00784,Delhi,Lajpat Nagar,premium,False,748.34,9,Chinese,2023-12-23,False
+U00785,Mumbai,Dadar,occasional,False,270.55,1,Fast Food,2023-09-13,False
+U00786,Pune,Kothrud,budget,True,148.29,1,Italian,2023-06-01,False
+U00787,Bangalore,Whitefield,frequent,True,446.55,15,Italian,2023-06-27,False
+U00788,Delhi,Lajpat Nagar,budget,True,125.31,1,Italian,2024-03-12,False
+U00789,Bangalore,Whitefield,frequent,False,395.06,19,Street Food,2022-04-07,True
+U00790,Kolkata,Park Street,frequent,True,473.55,13,Continental,2024-01-02,False
+U00791,Mumbai,Thane,premium,False,419.97,6,Beverages,2024-09-07,False
+U00792,Bangalore,Indiranagar,frequent,True,447.92,16,Chinese,2022-03-05,True
+U00793,Bangalore,Whitefield,mid_range,False,241.87,3,North Indian,2022-06-04,False
+U00794,Hyderabad,Jubilee Hills,budget,True,109.88,2,North Indian,2024-02-24,False
+U00795,Mumbai,Andheri,mid_range,True,335.71,6,North Indian,2023-04-24,False
+U00796,Pune,Hinjewadi,mid_range,True,212.33,5,Italian,2023-03-18,False
+U00797,Kolkata,New Town,budget,False,84.62,3,Fast Food,2022-05-30,True
+U00798,Bangalore,Indiranagar,mid_range,True,222.01,5,Italian,2023-07-09,False
+U00799,Hyderabad,Hitech City,frequent,False,306.59,16,Chinese,2022-05-19,False
+U00800,Pune,Koregaon Park,budget,True,126.36,3,Beverages,2023-06-06,False
+U00801,Hyderabad,Jubilee Hills,premium,False,534.07,6,Beverages,2024-04-16,True
+U00802,Mumbai,Thane,occasional,False,142.55,1,Fast Food,2022-10-10,False
+U00803,Bangalore,Whitefield,frequent,True,211.94,15,Continental,2023-06-11,False
+U00804,Hyderabad,Hitech City,frequent,False,460.91,18,Street Food,2024-12-22,False
+U00805,Bangalore,HSR Layout,mid_range,False,239.81,5,North Indian,2024-01-22,False
+U00806,Chennai,Adyar,frequent,True,223.09,16,Beverages,2024-07-10,False
+U00807,Kolkata,New Town,premium,True,810.63,5,Fast Food,2023-03-31,False
+U00808,Pune,Kothrud,budget,False,109.49,3,North Indian,2024-04-20,False
+U00809,Bangalore,Koramangala,mid_range,False,325.42,4,Italian,2022-02-14,False
+U00810,Mumbai,Dadar,premium,False,675.29,5,Biryani,2022-05-15,False
+U00811,Kolkata,Ballygunge,budget,False,87.13,3,Desserts,2022-08-11,True
+U00812,Pune,Koregaon Park,mid_range,False,314.1,6,Beverages,2023-03-17,False
+U00813,Mumbai,Andheri,premium,True,424.38,10,Continental,2024-07-15,False
+U00814,Pune,Baner,budget,False,110.66,2,Fast Food,2023-01-15,False
+U00815,Pune,Baner,mid_range,False,259.3,3,Street Food,2023-12-18,False
+U00816,Bangalore,Koramangala,premium,True,778.32,8,Continental,2024-02-16,False
+U00817,Bangalore,Jayanagar,mid_range,False,187.32,3,Italian,2023-10-04,False
+U00818,Delhi,Connaught Place,budget,False,92.9,1,Beverages,2023-01-27,False
+U00819,Mumbai,Bandra,budget,True,121.15,3,Chinese,2023-09-24,False
+U00820,Delhi,Lajpat Nagar,mid_range,False,153.5,3,Italian,2023-01-10,False
+U00821,Chennai,OMR,frequent,True,371.83,17,Street Food,2022-04-02,False
+U00822,Mumbai,Dadar,budget,True,102.87,2,Italian,2024-12-23,False
+U00823,Delhi,Connaught Place,mid_range,False,269.27,4,Fast Food,2022-05-20,False
+U00824,Delhi,Lajpat Nagar,budget,True,81.86,3,Continental,2022-03-21,False
+U00825,Bangalore,Koramangala,mid_range,False,275.13,5,Fast Food,2024-08-19,False
+U00826,Pune,Hinjewadi,occasional,False,253.5,1,North Indian,2022-11-27,True
+U00827,Delhi,Rohini,premium,True,502.94,6,Biryani,2023-12-14,False
+U00828,Delhi,Dwarka,budget,False,88.83,1,Continental,2022-12-27,False
+U00829,Chennai,OMR,mid_range,False,285.24,7,Biryani,2023-03-05,False
+U00830,Bangalore,Jayanagar,budget,True,147.39,2,Fast Food,2022-10-15,True
+U00831,Delhi,Lajpat Nagar,mid_range,True,186.82,3,Chinese,2023-01-11,False
+U00832,Bangalore,Jayanagar,premium,True,806.43,8,Beverages,2023-03-26,False
+U00833,Mumbai,Powai,budget,False,123.28,3,Street Food,2024-02-28,False
+U00834,Mumbai,Powai,budget,True,129.23,3,Italian,2023-07-15,False
+U00835,Bangalore,HSR Layout,mid_range,True,161.24,6,Italian,2024-10-30,False
+U00836,Delhi,Saket,occasional,False,273.15,1,Biryani,2022-02-15,False
+U00837,Pune,Hinjewadi,frequent,False,392.13,11,Street Food,2023-07-05,True
+U00838,Delhi,Rohini,budget,False,147.06,1,Continental,2023-10-02,False
+U00839,Bangalore,Whitefield,premium,False,689.9,5,Beverages,2024-10-04,True
+U00840,Hyderabad,Madhapur,mid_range,False,292.44,3,Desserts,2022-02-23,False
+U00841,Mumbai,Thane,mid_range,False,197.08,5,Biryani,2023-09-20,False
+U00842,Hyderabad,Jubilee Hills,premium,False,857.42,5,Continental,2024-07-23,False
+U00843,Mumbai,Thane,occasional,False,145.96,1,Continental,2022-09-22,False
+U00844,Kolkata,Park Street,frequent,True,350.19,18,Street Food,2024-08-17,True
+U00845,Mumbai,Bandra,mid_range,True,179.32,6,Street Food,2022-01-21,False
+U00846,Delhi,Lajpat Nagar,mid_range,False,196.58,3,South Indian,2024-03-13,True
+U00847,Mumbai,Dadar,premium,False,741.71,8,Italian,2024-10-18,True
+U00848,Kolkata,Park Street,budget,False,132.84,1,Beverages,2023-12-21,False
+U00849,Bangalore,Indiranagar,mid_range,False,239.59,5,North Indian,2023-04-26,True
+U00850,Bangalore,Indiranagar,mid_range,True,346.82,4,Biryani,2022-02-19,False
+U00851,Mumbai,Bandra,premium,False,547.41,6,Beverages,2024-10-04,False
+U00852,Chennai,OMR,budget,True,119.52,1,South Indian,2023-05-30,True
+U00853,Mumbai,Andheri,budget,False,144.07,1,South Indian,2022-02-01,True
+U00854,Pune,Kothrud,occasional,False,281.25,1,Beverages,2024-01-26,False
+U00855,Mumbai,Andheri,budget,True,125.96,3,Street Food,2023-06-12,False
+U00856,Mumbai,Powai,mid_range,False,183.75,7,Continental,2022-05-17,False
+U00857,Mumbai,Powai,budget,False,111.7,3,Desserts,2022-08-23,False
+U00858,Bangalore,Jayanagar,budget,True,127.38,1,Beverages,2022-03-12,False
+U00859,Bangalore,HSR Layout,budget,False,93.18,1,Biryani,2023-09-21,False
+U00860,Mumbai,Dadar,budget,False,86.51,1,North Indian,2023-11-13,False
+U00861,Chennai,T Nagar,occasional,False,138.84,1,Italian,2023-07-08,False
+U00862,Bangalore,Indiranagar,budget,True,135.69,1,South Indian,2024-06-13,False
+U00863,Bangalore,Whitefield,frequent,True,239.1,15,Chinese,2024-07-31,False
+U00864,Bangalore,Whitefield,mid_range,True,189.44,3,Chinese,2023-11-06,False
+U00865,Delhi,Rohini,mid_range,True,183.37,7,Continental,2022-01-14,False
+U00866,Bangalore,Koramangala,mid_range,False,314.29,4,Street Food,2024-02-01,False
+U00867,Mumbai,Bandra,mid_range,True,281.16,5,Italian,2023-04-03,False
+U00868,Mumbai,Dadar,premium,False,738.56,9,South Indian,2023-09-12,False
+U00869,Pune,Hinjewadi,budget,False,124.01,1,Chinese,2023-12-12,False
+U00870,Kolkata,Salt Lake,mid_range,False,157.8,5,Chinese,2023-01-19,True
+U00871,Delhi,Rohini,occasional,True,280.38,1,Desserts,2024-10-01,False
+U00872,Delhi,Connaught Place,frequent,False,449.72,19,Beverages,2022-05-27,False
+U00873,Hyderabad,Madhapur,occasional,False,149.45,1,Fast Food,2024-01-06,False
+U00874,Delhi,Lajpat Nagar,mid_range,True,284.86,7,Italian,2022-01-05,True
+U00875,Mumbai,Bandra,premium,False,892.8,9,Fast Food,2024-10-09,False
+U00876,Mumbai,Dadar,mid_range,True,198.72,6,North Indian,2022-05-04,True
+U00877,Hyderabad,Banjara Hills,mid_range,False,171.41,6,Street Food,2022-04-14,False
+U00878,Hyderabad,Jubilee Hills,budget,False,143.71,2,Beverages,2022-12-31,False
+U00879,Mumbai,Andheri,mid_range,True,276.13,5,North Indian,2023-02-14,True
+U00880,Delhi,Lajpat Nagar,budget,False,110.64,1,Biryani,2022-08-23,False
+U00881,Delhi,Saket,mid_range,False,302.43,7,South Indian,2023-10-03,False
+U00882,Hyderabad,Madhapur,occasional,True,289.34,1,Fast Food,2023-04-30,False
+U00883,Mumbai,Thane,budget,False,141.23,3,Continental,2022-02-07,False
+U00884,Mumbai,Dadar,budget,False,97.7,1,Biryani,2022-12-17,False
+U00885,Chennai,Adyar,budget,True,98.76,3,Italian,2024-06-06,False
+U00886,Mumbai,Andheri,frequent,False,389.95,16,South Indian,2024-01-26,False
+U00887,Hyderabad,Hitech City,mid_range,True,201.43,6,Chinese,2024-03-04,False
+U00888,Delhi,Saket,mid_range,True,155.62,4,Fast Food,2024-02-04,False
+U00889,Mumbai,Powai,occasional,False,232.82,1,Beverages,2022-12-07,True
+U00890,Delhi,Saket,occasional,True,268.14,1,Beverages,2022-04-20,False
+U00891,Hyderabad,Madhapur,mid_range,False,280.46,5,Biryani,2022-10-26,False
+U00892,Pune,Hinjewadi,premium,True,698.02,4,Biryani,2024-06-29,False
+U00893,Pune,Baner,premium,False,408.46,11,Street Food,2024-12-09,False
+U00894,Delhi,Rohini,premium,False,534.82,10,Chinese,2023-06-25,False
+U00895,Hyderabad,Jubilee Hills,budget,False,149.95,1,Desserts,2022-01-11,False
+U00896,Mumbai,Thane,occasional,True,167.73,1,Fast Food,2022-06-03,False
+U00897,Delhi,Connaught Place,mid_range,True,343.09,7,North Indian,2022-12-19,False
+U00898,Pune,Baner,budget,True,115.2,3,Italian,2023-09-26,False
+U00899,Mumbai,Dadar,mid_range,True,177.15,7,Fast Food,2022-03-24,False
+U00900,Mumbai,Thane,budget,True,147.5,1,Fast Food,2024-10-29,False
+U00901,Mumbai,Dadar,budget,False,100.96,1,Chinese,2023-02-04,False
+U00902,Mumbai,Andheri,premium,False,535.86,10,Fast Food,2024-09-26,False
+U00903,Mumbai,Andheri,budget,False,106.48,1,Street Food,2024-05-04,False
+U00904,Bangalore,Indiranagar,mid_range,False,218.45,7,Fast Food,2024-04-07,True
+U00905,Bangalore,Jayanagar,mid_range,False,275.94,5,Continental,2023-10-27,False
+U00906,Pune,Hinjewadi,budget,False,91.66,3,Continental,2023-11-18,False
+U00907,Chennai,T Nagar,frequent,True,446.25,11,South Indian,2023-11-30,False
+U00908,Delhi,Saket,budget,False,84.9,1,Italian,2023-11-20,False
+U00909,Delhi,Dwarka,mid_range,False,174.08,5,Continental,2023-08-30,False
+U00910,Delhi,Connaught Place,mid_range,True,335.75,5,Italian,2024-12-16,True
+U00911,Bangalore,Indiranagar,budget,True,139.01,2,Beverages,2024-03-12,False
+U00912,Delhi,Rohini,budget,False,129.6,3,Street Food,2024-04-30,False
+U00913,Hyderabad,Madhapur,premium,True,486.98,6,Chinese,2024-08-13,False
+U00914,Delhi,Rohini,frequent,False,391.19,8,Chinese,2022-08-25,False
+U00915,Bangalore,Whitefield,budget,False,105.31,2,Continental,2022-04-02,False
+U00916,Bangalore,Indiranagar,premium,True,898.11,7,Street Food,2023-06-13,False
+U00917,Delhi,Dwarka,premium,True,808.03,7,Beverages,2023-07-17,False
+U00918,Kolkata,Ballygunge,occasional,False,263.35,1,North Indian,2024-06-26,False
+U00919,Chennai,Adyar,mid_range,False,327.32,5,Street Food,2023-05-01,True
+U00920,Mumbai,Andheri,mid_range,True,270.86,6,South Indian,2023-09-18,False
+U00921,Pune,Baner,mid_range,False,233.48,3,Chinese,2023-08-01,False
+U00922,Bangalore,Whitefield,premium,True,446.78,4,South Indian,2022-02-11,False
+U00923,Pune,Baner,occasional,True,277.24,1,Chinese,2023-11-05,False
+U00924,Chennai,Velachery,budget,True,94.81,3,Beverages,2024-06-25,False
+U00925,Bangalore,Whitefield,mid_range,False,214.0,5,Fast Food,2022-06-22,False
+U00926,Mumbai,Andheri,occasional,True,149.25,1,Desserts,2023-10-13,False
+U00927,Delhi,Lajpat Nagar,occasional,False,273.28,1,Street Food,2023-10-13,True
+U00928,Bangalore,Whitefield,frequent,True,322.03,17,Street Food,2022-06-29,False
+U00929,Hyderabad,Hitech City,premium,False,471.94,4,Fast Food,2022-05-16,True
+U00930,Delhi,Rohini,mid_range,False,153.99,5,North Indian,2024-12-09,False
+U00931,Mumbai,Dadar,mid_range,False,241.08,5,Chinese,2023-03-08,True
+U00932,Pune,Baner,premium,False,403.73,7,North Indian,2022-09-07,False
+U00933,Kolkata,Howrah,budget,True,130.26,2,Street Food,2022-07-07,True
+U00934,Bangalore,Koramangala,mid_range,False,296.44,4,Continental,2024-01-02,False
+U00935,Mumbai,Powai,premium,False,806.57,8,Continental,2023-10-30,False
+U00936,Delhi,Connaught Place,budget,True,94.75,1,Biryani,2023-12-06,False
+U00937,Mumbai,Dadar,premium,False,714.02,10,Italian,2022-04-07,False
+U00938,Pune,Wakad,mid_range,True,233.13,4,Continental,2024-09-05,False
+U00939,Mumbai,Dadar,frequent,True,460.1,16,Continental,2023-03-03,False
+U00940,Bangalore,Koramangala,budget,True,111.37,2,Chinese,2022-12-10,True
+U00941,Delhi,Rohini,budget,False,94.3,2,Biryani,2023-05-22,False
+U00942,Bangalore,Jayanagar,mid_range,False,221.75,7,Chinese,2023-03-04,False
+U00943,Hyderabad,Jubilee Hills,budget,True,113.61,2,Street Food,2024-08-03,False
+U00944,Chennai,OMR,premium,True,682.93,11,South Indian,2024-10-14,False
+U00945,Mumbai,Powai,premium,True,800.41,7,North Indian,2022-11-29,False
+U00946,Mumbai,Powai,budget,False,130.31,2,Street Food,2024-08-04,False
+U00947,Mumbai,Andheri,mid_range,True,248.47,3,South Indian,2024-05-05,False
+U00948,Pune,Kothrud,mid_range,False,242.79,4,Beverages,2024-10-16,False
+U00949,Pune,Hinjewadi,mid_range,True,332.97,4,Beverages,2022-09-27,True
+U00950,Bangalore,Whitefield,frequent,False,485.68,14,Chinese,2023-09-24,False
+U00951,Hyderabad,Madhapur,occasional,True,233.68,1,Desserts,2022-10-28,True
+U00952,Hyderabad,Hitech City,premium,False,464.69,7,Desserts,2024-06-21,False
+U00953,Mumbai,Powai,premium,True,449.57,8,South Indian,2022-01-06,False
+U00954,Pune,Koregaon Park,mid_range,True,239.37,6,Continental,2023-09-11,False
+U00955,Delhi,Lajpat Nagar,frequent,False,266.14,9,Chinese,2023-01-07,False
+U00956,Delhi,Saket,premium,False,603.17,11,South Indian,2022-12-20,False
+U00957,Bangalore,Jayanagar,premium,True,755.21,7,Chinese,2023-12-08,False
+U00958,Mumbai,Bandra,occasional,False,213.11,1,South Indian,2024-07-21,False
+U00959,Mumbai,Dadar,budget,False,148.92,2,Beverages,2023-10-30,True
+U00960,Chennai,Adyar,occasional,False,171.37,1,Biryani,2024-07-23,False
+U00961,Mumbai,Powai,budget,True,87.66,3,Chinese,2022-10-17,False
+U00962,Hyderabad,Jubilee Hills,mid_range,False,184.96,6,Biryani,2023-07-23,False
+U00963,Delhi,Connaught Place,mid_range,False,199.09,6,Beverages,2023-05-09,False
+U00964,Delhi,Dwarka,frequent,False,433.05,16,Desserts,2022-01-13,False
+U00965,Delhi,Lajpat Nagar,occasional,False,230.61,1,Fast Food,2023-09-02,False
+U00966,Delhi,Lajpat Nagar,premium,True,439.31,6,North Indian,2023-12-26,False
+U00967,Hyderabad,Gachibowli,premium,True,524.14,11,Street Food,2023-10-11,False
+U00968,Delhi,Dwarka,mid_range,False,227.88,6,North Indian,2024-03-17,False
+U00969,Bangalore,Koramangala,frequent,False,405.42,10,North Indian,2023-09-18,False
+U00970,Bangalore,Jayanagar,mid_range,True,197.8,4,Street Food,2022-03-15,False
+U00971,Hyderabad,Hitech City,mid_range,False,232.23,4,Beverages,2022-05-08,False
+U00972,Kolkata,Park Street,budget,False,81.38,3,Beverages,2023-10-16,False
+U00973,Chennai,Anna Nagar,premium,True,882.8,6,Desserts,2022-10-29,False
+U00974,Mumbai,Andheri,premium,False,569.25,4,Fast Food,2022-03-29,False
+U00975,Mumbai,Powai,mid_range,False,286.05,7,Italian,2023-04-16,False
+U00976,Delhi,Connaught Place,budget,False,90.26,1,North Indian,2023-08-30,False
+U00977,Bangalore,Indiranagar,occasional,False,262.21,1,Continental,2022-12-26,False
+U00978,Mumbai,Powai,budget,False,83.14,2,North Indian,2024-02-28,False
+U00979,Bangalore,Whitefield,premium,True,554.46,6,Italian,2023-12-06,True
+U00980,Bangalore,Jayanagar,frequent,True,430.92,17,Chinese,2022-12-31,False
+U00981,Delhi,Saket,mid_range,False,230.07,7,Desserts,2024-04-06,False
+U00982,Chennai,Adyar,budget,True,108.45,3,Biryani,2023-12-12,False
+U00983,Mumbai,Powai,premium,False,641.94,11,Biryani,2023-11-30,False
+U00984,Mumbai,Powai,occasional,False,283.4,1,Italian,2023-08-30,False
+U00985,Hyderabad,Banjara Hills,mid_range,True,337.3,7,North Indian,2022-01-13,False
+U00986,Bangalore,HSR Layout,frequent,True,437.39,10,Biryani,2024-02-02,False
+U00987,Hyderabad,Madhapur,budget,True,136.36,3,Italian,2023-02-16,False
+U00988,Bangalore,Indiranagar,mid_range,True,207.83,7,Street Food,2024-10-29,False
+U00989,Delhi,Rohini,premium,False,424.93,5,Beverages,2024-06-14,False
+U00990,Chennai,Anna Nagar,occasional,False,216.76,1,South Indian,2023-10-06,False
+U00991,Chennai,OMR,budget,False,125.16,1,Beverages,2022-10-04,False
+U00992,Hyderabad,Madhapur,occasional,False,292.87,1,North Indian,2022-08-12,False
+U00993,Delhi,Lajpat Nagar,mid_range,False,178.61,3,Italian,2023-01-08,False
+U00994,Bangalore,Koramangala,mid_range,True,263.37,7,Chinese,2023-06-06,False
+U00995,Delhi,Saket,budget,False,126.62,3,Biryani,2022-11-21,False
+U00996,Mumbai,Powai,occasional,False,122.39,1,Biryani,2023-07-18,False
+U00997,Pune,Wakad,budget,False,112.17,2,Biryani,2022-07-01,False
+U00998,Mumbai,Thane,mid_range,False,164.44,6,Italian,2024-12-06,True
+U00999,Kolkata,New Town,budget,True,115.23,3,Beverages,2022-04-29,False
+U01000,Bangalore,Koramangala,occasional,True,207.35,1,Chinese,2024-10-17,False
+U01001,Mumbai,Dadar,premium,False,724.13,5,Italian,2024-09-27,False
+U01002,Bangalore,Whitefield,premium,True,836.2,8,North Indian,2023-07-30,False
+U01003,Pune,Hinjewadi,budget,False,91.0,3,Desserts,2024-03-04,False
+U01004,Chennai,OMR,mid_range,True,253.67,3,North Indian,2023-04-23,False
+U01005,Chennai,Adyar,mid_range,True,275.37,4,South Indian,2023-11-21,False
+U01006,Hyderabad,Banjara Hills,occasional,False,264.66,1,Desserts,2023-01-08,True
+U01007,Hyderabad,Hitech City,occasional,False,296.21,1,North Indian,2022-11-26,False
+U01008,Pune,Hinjewadi,budget,False,111.85,3,Chinese,2023-09-26,True
+U01009,Delhi,Rohini,premium,False,466.24,8,Fast Food,2023-06-30,False
+U01010,Bangalore,Whitefield,budget,True,118.24,1,Fast Food,2023-09-27,False
+U01011,Delhi,Saket,mid_range,False,233.6,7,Fast Food,2022-11-10,False
+U01012,Kolkata,Howrah,budget,False,139.93,1,South Indian,2023-02-06,True
+U01013,Kolkata,Howrah,mid_range,False,168.14,4,South Indian,2022-04-02,False
+U01014,Mumbai,Powai,mid_range,True,324.95,3,Fast Food,2022-02-27,False
+U01015,Hyderabad,Hitech City,mid_range,False,294.0,3,Street Food,2022-10-05,False
+U01016,Pune,Wakad,mid_range,False,274.63,4,Biryani,2022-03-23,False
+U01017,Mumbai,Bandra,premium,False,794.46,5,Desserts,2022-04-24,False
+U01018,Bangalore,Indiranagar,mid_range,False,277.84,4,Desserts,2024-06-09,False
+U01019,Pune,Hinjewadi,budget,False,129.96,3,Biryani,2022-02-12,False
+U01020,Mumbai,Powai,premium,False,463.4,10,Beverages,2023-12-23,False
+U01021,Hyderabad,Banjara Hills,budget,False,121.55,1,Street Food,2022-10-26,False
+U01022,Delhi,Rohini,mid_range,True,235.51,3,Fast Food,2024-08-12,False
+U01023,Pune,Koregaon Park,premium,False,750.17,10,Biryani,2023-06-16,False
+U01024,Kolkata,New Town,mid_range,False,171.16,5,Italian,2022-12-01,False
+U01025,Kolkata,Ballygunge,budget,False,137.02,3,Desserts,2023-07-21,True
+U01026,Bangalore,HSR Layout,mid_range,True,252.7,7,Italian,2023-02-23,False
+U01027,Pune,Baner,frequent,True,360.71,12,Biryani,2023-09-10,False
+U01028,Pune,Kothrud,mid_range,False,319.64,5,Biryani,2022-05-06,True
+U01029,Delhi,Rohini,premium,False,635.95,7,North Indian,2024-12-27,False
+U01030,Chennai,T Nagar,mid_range,True,319.36,7,North Indian,2023-04-11,False
+U01031,Mumbai,Bandra,budget,True,108.25,1,Chinese,2023-01-17,False
+U01032,Bangalore,Jayanagar,mid_range,True,248.39,5,Chinese,2024-02-17,False
+U01033,Delhi,Dwarka,premium,False,519.17,10,South Indian,2023-02-03,False
+U01034,Mumbai,Dadar,budget,False,114.05,2,South Indian,2024-07-01,False
+U01035,Mumbai,Andheri,budget,False,87.48,1,Fast Food,2023-05-13,False
+U01036,Hyderabad,Hitech City,budget,False,146.45,1,North Indian,2024-02-27,True
+U01037,Delhi,Connaught Place,mid_range,False,183.77,5,Fast Food,2022-04-28,False
+U01038,Hyderabad,Madhapur,frequent,True,292.13,8,Biryani,2024-07-15,False
+U01039,Mumbai,Powai,budget,False,102.62,2,Fast Food,2024-03-16,False
+U01040,Delhi,Connaught Place,mid_range,False,260.34,4,Biryani,2022-08-20,False
+U01041,Bangalore,Indiranagar,budget,True,111.31,3,Desserts,2022-06-09,False
+U01042,Chennai,Adyar,frequent,False,313.2,11,North Indian,2022-12-13,False
+U01043,Delhi,Lajpat Nagar,budget,False,97.04,2,Chinese,2024-12-04,False
+U01044,Hyderabad,Jubilee Hills,mid_range,False,301.9,4,Fast Food,2022-10-09,False
+U01045,Pune,Baner,premium,False,754.65,4,North Indian,2023-05-15,False
+U01046,Hyderabad,Gachibowli,premium,False,609.47,10,Desserts,2022-02-02,False
+U01047,Delhi,Saket,mid_range,True,217.75,5,Italian,2023-03-11,False
+U01048,Mumbai,Thane,mid_range,False,191.0,6,Chinese,2023-09-18,False
+U01049,Pune,Baner,mid_range,False,160.46,7,Street Food,2024-11-09,True
+U01050,Mumbai,Andheri,budget,True,93.87,3,Continental,2023-07-20,False
+U01051,Pune,Wakad,budget,True,104.68,3,North Indian,2024-06-15,False
+U01052,Bangalore,Jayanagar,mid_range,True,213.85,7,Beverages,2023-08-23,False
+U01053,Kolkata,Ballygunge,budget,False,88.86,1,North Indian,2022-02-14,False
+U01054,Chennai,Velachery,budget,False,114.51,1,Biryani,2022-12-11,False
+U01055,Kolkata,Ballygunge,premium,False,497.99,11,Street Food,2023-09-23,False
+U01056,Delhi,Dwarka,frequent,True,492.95,12,Beverages,2024-11-06,False
+U01057,Chennai,T Nagar,mid_range,True,334.66,5,Fast Food,2024-07-29,False
+U01058,Delhi,Dwarka,budget,False,98.88,3,Desserts,2022-09-08,False
+U01059,Bangalore,Koramangala,budget,True,126.12,3,Beverages,2022-08-30,False
+U01060,Hyderabad,Banjara Hills,frequent,False,279.51,16,Fast Food,2022-08-09,False
+U01061,Pune,Wakad,budget,False,83.64,1,Fast Food,2024-10-07,False
+U01062,Kolkata,Salt Lake,budget,True,80.27,3,Fast Food,2024-07-22,False
+U01063,Chennai,T Nagar,mid_range,False,310.45,6,Biryani,2024-04-28,False
+U01064,Delhi,Rohini,mid_range,False,251.95,4,Beverages,2023-03-07,False
+U01065,Bangalore,Koramangala,mid_range,True,180.25,4,South Indian,2023-07-07,False
+U01066,Chennai,T Nagar,budget,True,106.32,3,Desserts,2023-05-24,False
+U01067,Delhi,Rohini,budget,True,117.78,1,Italian,2022-10-05,False
+U01068,Mumbai,Bandra,frequent,True,205.41,9,North Indian,2023-07-08,False
+U01069,Delhi,Saket,budget,False,108.73,3,Biryani,2022-02-03,False
+U01070,Delhi,Connaught Place,premium,False,718.7,10,Chinese,2022-05-25,False
+U01071,Delhi,Connaught Place,premium,True,633.19,6,Italian,2024-08-28,False
+U01072,Delhi,Saket,mid_range,False,171.68,7,Desserts,2024-04-03,False
+U01073,Mumbai,Andheri,mid_range,False,306.63,3,Biryani,2023-04-09,False
+U01074,Mumbai,Dadar,budget,True,115.86,2,Italian,2023-07-21,False
+U01075,Kolkata,New Town,mid_range,True,275.02,7,North Indian,2023-02-10,False
+U01076,Bangalore,Whitefield,occasional,True,224.36,1,Fast Food,2024-03-22,True
+U01077,Delhi,Rohini,frequent,False,215.1,8,Street Food,2024-05-08,False
+U01078,Hyderabad,Banjara Hills,budget,True,93.11,1,Fast Food,2024-04-15,False
+U01079,Mumbai,Bandra,budget,True,132.03,3,Desserts,2024-03-02,False
+U01080,Kolkata,Howrah,frequent,False,240.82,18,North Indian,2022-08-12,False
+U01081,Chennai,Adyar,premium,False,477.39,6,Italian,2023-01-06,False
+U01082,Mumbai,Thane,occasional,True,164.82,1,Continental,2023-05-30,False
+U01083,Delhi,Lajpat Nagar,budget,False,97.83,2,Street Food,2022-12-29,False
+U01084,Pune,Kothrud,mid_range,False,231.48,7,Fast Food,2024-04-06,False
+U01085,Kolkata,Salt Lake,premium,False,427.96,5,South Indian,2022-12-27,False
+U01086,Bangalore,Koramangala,premium,True,426.41,9,Italian,2022-06-01,False
+U01087,Hyderabad,Madhapur,mid_range,False,160.9,7,Fast Food,2023-03-13,False
+U01088,Mumbai,Powai,budget,False,115.84,2,Italian,2024-12-09,False
+U01089,Kolkata,Howrah,mid_range,False,262.32,3,Street Food,2022-09-05,False
+U01090,Delhi,Lajpat Nagar,budget,False,93.84,1,Desserts,2023-11-02,False
+U01091,Kolkata,Ballygunge,mid_range,False,268.7,4,Chinese,2023-04-20,False
+U01092,Hyderabad,Madhapur,frequent,False,234.9,19,Fast Food,2022-03-19,False
+U01093,Hyderabad,Banjara Hills,mid_range,True,154.4,7,Italian,2023-06-19,False
+U01094,Bangalore,Indiranagar,occasional,True,261.85,1,Chinese,2024-02-08,False
+U01095,Delhi,Rohini,budget,False,89.49,1,Chinese,2023-07-16,False
+U01096,Mumbai,Dadar,premium,True,748.72,9,South Indian,2024-08-12,False
+U01097,Delhi,Rohini,frequent,False,434.82,19,Chinese,2022-11-13,False
+U01098,Mumbai,Dadar,budget,False,128.43,1,Street Food,2022-04-05,False
+U01099,Chennai,T Nagar,budget,False,97.04,3,North Indian,2024-10-22,False
+U01100,Delhi,Rohini,mid_range,False,191.86,3,Chinese,2023-02-19,False
+U01101,Mumbai,Dadar,budget,True,129.23,2,Continental,2023-09-24,False
+U01102,Kolkata,Howrah,premium,False,860.02,9,Italian,2024-05-17,False
+U01103,Pune,Kothrud,occasional,False,136.28,1,Chinese,2022-12-22,False
+U01104,Pune,Koregaon Park,mid_range,False,201.71,4,Beverages,2024-02-24,False
+U01105,Kolkata,Ballygunge,budget,False,108.16,1,North Indian,2022-05-29,False
+U01106,Mumbai,Dadar,mid_range,True,249.3,3,Biryani,2022-11-15,False
+U01107,Delhi,Dwarka,premium,False,600.49,6,North Indian,2022-06-08,False
+U01108,Chennai,Velachery,budget,True,134.1,3,Desserts,2024-06-07,False
+U01109,Hyderabad,Hitech City,mid_range,True,180.68,4,Biryani,2022-09-01,False
+U01110,Mumbai,Dadar,mid_range,False,224.67,3,South Indian,2024-02-25,False
+U01111,Chennai,Adyar,mid_range,False,309.69,6,North Indian,2024-10-29,True
+U01112,Delhi,Saket,budget,True,93.33,2,Desserts,2023-08-01,False
+U01113,Delhi,Lajpat Nagar,premium,True,452.9,9,North Indian,2023-08-15,True
+U01114,Bangalore,HSR Layout,budget,True,88.5,3,Chinese,2023-05-20,False
+U01115,Bangalore,HSR Layout,budget,True,134.65,2,Fast Food,2022-12-23,False
+U01116,Bangalore,Koramangala,occasional,False,224.14,1,Fast Food,2023-06-05,False
+U01117,Mumbai,Bandra,premium,False,677.05,5,Desserts,2023-10-23,False
+U01118,Pune,Baner,budget,False,106.51,3,North Indian,2024-12-15,False
+U01119,Delhi,Dwarka,budget,False,125.09,2,Desserts,2024-10-23,True
+U01120,Mumbai,Dadar,budget,False,140.68,3,South Indian,2024-08-02,False
+U01121,Pune,Hinjewadi,budget,False,144.39,1,Fast Food,2024-08-31,False
+U01122,Kolkata,New Town,budget,True,118.09,3,Beverages,2023-05-28,True
+U01123,Pune,Wakad,budget,False,132.98,2,Biryani,2023-12-21,False
+U01124,Chennai,T Nagar,mid_range,False,183.36,6,Street Food,2024-09-07,False
+U01125,Hyderabad,Hitech City,premium,True,760.06,4,Chinese,2023-03-07,False
+U01126,Bangalore,Whitefield,mid_range,False,242.76,3,Beverages,2024-11-19,False
+U01127,Mumbai,Andheri,premium,False,568.74,4,Beverages,2023-04-01,False
+U01128,Delhi,Dwarka,budget,False,108.02,2,Italian,2023-10-21,True
+U01129,Delhi,Connaught Place,frequent,False,385.87,15,Beverages,2024-02-17,False
+U01130,Delhi,Dwarka,occasional,False,270.53,1,Biryani,2024-11-06,True
+U01131,Hyderabad,Hitech City,occasional,False,141.69,1,Biryani,2022-09-25,False
+U01132,Bangalore,Whitefield,occasional,True,148.19,1,Chinese,2024-03-28,False
+U01133,Mumbai,Bandra,frequent,True,452.76,14,Desserts,2023-07-25,False
+U01134,Delhi,Dwarka,mid_range,False,346.28,3,Continental,2022-10-22,False
+U01135,Hyderabad,Gachibowli,budget,False,101.21,2,Continental,2024-04-30,False
+U01136,Mumbai,Bandra,mid_range,True,220.0,7,North Indian,2023-08-28,False
+U01137,Pune,Kothrud,premium,True,432.81,8,North Indian,2023-12-25,False
+U01138,Bangalore,Jayanagar,premium,False,695.43,9,Street Food,2022-12-20,False
+U01139,Bangalore,Whitefield,mid_range,False,201.13,4,Biryani,2023-06-11,False
+U01140,Bangalore,Indiranagar,budget,False,139.06,1,North Indian,2023-11-08,False
+U01141,Chennai,T Nagar,mid_range,False,315.37,5,Italian,2023-03-20,False
+U01142,Delhi,Connaught Place,frequent,False,428.66,16,North Indian,2022-08-06,False
+U01143,Hyderabad,Gachibowli,mid_range,True,191.5,5,South Indian,2024-11-18,True
+U01144,Bangalore,HSR Layout,mid_range,False,323.54,5,South Indian,2023-07-15,False
+U01145,Delhi,Connaught Place,budget,True,147.66,2,Italian,2024-03-14,False
+U01146,Pune,Hinjewadi,mid_range,False,178.56,4,Beverages,2023-03-27,False
+U01147,Chennai,Velachery,occasional,True,291.31,1,South Indian,2023-01-24,False
+U01148,Hyderabad,Banjara Hills,premium,True,834.05,11,Continental,2023-03-22,True
+U01149,Pune,Koregaon Park,premium,False,575.09,4,Continental,2023-03-25,False
+U01150,Pune,Wakad,mid_range,False,294.91,4,South Indian,2023-08-19,False
+U01151,Hyderabad,Gachibowli,mid_range,True,306.58,5,North Indian,2023-08-19,False
+U01152,Pune,Baner,budget,False,113.97,3,Street Food,2023-06-29,False
+U01153,Hyderabad,Banjara Hills,premium,False,591.18,7,Street Food,2022-05-28,False
+U01154,Hyderabad,Banjara Hills,mid_range,False,225.24,4,Continental,2023-06-28,False
+U01155,Hyderabad,Banjara Hills,mid_range,False,255.19,7,South Indian,2022-07-05,False
+U01156,Chennai,OMR,mid_range,True,222.35,5,Beverages,2022-05-19,True
+U01157,Mumbai,Dadar,frequent,False,401.22,11,Chinese,2024-10-18,False
+U01158,Pune,Hinjewadi,budget,True,99.43,3,North Indian,2023-10-25,True
+U01159,Pune,Hinjewadi,occasional,False,250.24,1,North Indian,2023-12-24,False
+U01160,Mumbai,Dadar,budget,False,125.34,1,Street Food,2023-03-16,False
+U01161,Chennai,Anna Nagar,mid_range,True,273.62,5,South Indian,2024-09-22,False
+U01162,Mumbai,Dadar,budget,True,118.2,2,Desserts,2023-11-30,True
+U01163,Delhi,Rohini,mid_range,False,166.29,3,Fast Food,2024-04-22,False
+U01164,Chennai,Velachery,mid_range,False,340.15,5,South Indian,2023-02-08,False
+U01165,Mumbai,Dadar,budget,True,112.67,1,Italian,2024-11-17,False
+U01166,Chennai,T Nagar,mid_range,True,157.51,6,South Indian,2024-06-17,False
+U01167,Pune,Baner,frequent,True,361.43,14,North Indian,2024-07-24,False
+U01168,Bangalore,Koramangala,budget,True,97.02,3,Chinese,2022-07-08,True
+U01169,Mumbai,Bandra,premium,False,484.12,5,Italian,2022-10-24,False
+U01170,Delhi,Lajpat Nagar,mid_range,True,242.14,4,Street Food,2022-11-09,False
+U01171,Hyderabad,Hitech City,premium,False,523.73,9,Biryani,2022-10-24,False
+U01172,Kolkata,Howrah,budget,False,125.57,3,Biryani,2024-07-25,False
+U01173,Hyderabad,Gachibowli,budget,False,109.24,1,Desserts,2022-02-04,False
+U01174,Delhi,Connaught Place,budget,False,99.16,3,Street Food,2022-03-25,False
+U01175,Hyderabad,Hitech City,budget,False,121.74,3,Beverages,2022-10-27,False
+U01176,Bangalore,Koramangala,budget,True,80.52,2,Continental,2022-08-07,False
+U01177,Chennai,Velachery,premium,False,418.76,8,Desserts,2022-09-11,False
+U01178,Mumbai,Thane,occasional,False,285.74,1,Biryani,2024-05-23,True
+U01179,Chennai,T Nagar,occasional,False,217.3,1,Continental,2023-09-09,False
+U01180,Bangalore,HSR Layout,premium,True,872.51,9,Beverages,2022-01-07,False
+U01181,Kolkata,New Town,budget,False,84.54,2,Street Food,2023-04-16,False
+U01182,Delhi,Saket,budget,False,96.82,2,Continental,2023-03-23,True
+U01183,Hyderabad,Madhapur,mid_range,False,241.09,5,Street Food,2022-05-05,True
+U01184,Kolkata,Ballygunge,budget,False,104.97,1,Beverages,2024-01-11,False
+U01185,Mumbai,Dadar,mid_range,False,250.74,7,Fast Food,2024-02-08,False
+U01186,Kolkata,Park Street,mid_range,False,282.8,4,Italian,2024-02-29,False
+U01187,Hyderabad,Banjara Hills,mid_range,True,337.1,7,Continental,2024-03-08,False
+U01188,Mumbai,Powai,mid_range,False,191.87,3,Continental,2022-01-01,False
+U01189,Delhi,Connaught Place,occasional,True,253.44,1,Street Food,2024-11-10,False
+U01190,Hyderabad,Madhapur,premium,False,883.93,11,Street Food,2024-06-10,False
+U01191,Mumbai,Thane,mid_range,False,270.11,5,Continental,2024-09-16,True
+U01192,Bangalore,Whitefield,occasional,True,125.01,1,Street Food,2022-01-18,False
+U01193,Delhi,Dwarka,frequent,True,337.88,15,Chinese,2024-10-19,False
+U01194,Hyderabad,Banjara Hills,mid_range,False,261.45,6,Chinese,2024-06-05,False
+U01195,Mumbai,Andheri,mid_range,True,205.95,5,Fast Food,2024-07-05,True
+U01196,Pune,Baner,mid_range,True,167.63,5,Fast Food,2022-04-13,False
+U01197,Kolkata,New Town,frequent,False,425.05,16,Fast Food,2024-03-19,False
+U01198,Kolkata,Ballygunge,occasional,True,298.32,1,Biryani,2024-11-17,False
+U01199,Chennai,T Nagar,budget,True,114.87,1,Biryani,2024-01-14,False
+U01200,Mumbai,Bandra,mid_range,False,238.12,7,South Indian,2023-09-17,False
+U01201,Chennai,T Nagar,mid_range,True,286.84,7,Desserts,2024-11-01,False
+U01202,Mumbai,Andheri,mid_range,False,190.7,7,Italian,2023-05-01,False
+U01203,Mumbai,Dadar,budget,False,84.18,3,Chinese,2023-10-19,False
+U01204,Delhi,Rohini,occasional,False,179.23,1,Beverages,2023-06-06,False
+U01205,Bangalore,Koramangala,premium,False,656.04,11,Italian,2024-10-18,False
+U01206,Chennai,T Nagar,occasional,False,128.6,1,Italian,2022-03-25,True
+U01207,Hyderabad,Banjara Hills,occasional,False,274.18,1,Beverages,2023-07-03,False
+U01208,Bangalore,Jayanagar,premium,True,499.58,7,North Indian,2024-01-23,False
+U01209,Delhi,Lajpat Nagar,mid_range,True,227.11,7,Continental,2024-05-17,True
+U01210,Kolkata,Ballygunge,mid_range,False,302.39,5,Desserts,2023-10-01,False
+U01211,Bangalore,HSR Layout,budget,True,149.19,2,South Indian,2024-09-22,False
+U01212,Bangalore,Whitefield,premium,False,429.12,6,Fast Food,2024-10-28,False
+U01213,Mumbai,Thane,budget,False,110.52,1,Beverages,2022-03-12,False
+U01214,Chennai,Adyar,premium,True,873.78,10,Biryani,2023-03-17,False
+U01215,Hyderabad,Madhapur,budget,False,98.78,2,Fast Food,2022-01-26,False
+U01216,Delhi,Lajpat Nagar,budget,True,130.5,3,Street Food,2022-12-27,True
+U01217,Mumbai,Powai,budget,False,141.71,2,Beverages,2023-08-11,False
+U01218,Hyderabad,Jubilee Hills,budget,False,134.23,2,Fast Food,2024-09-24,False
+U01219,Hyderabad,Hitech City,premium,False,676.35,4,Continental,2024-07-15,False
+U01220,Delhi,Dwarka,premium,False,463.07,8,Continental,2022-05-20,False
+U01221,Kolkata,Ballygunge,mid_range,True,203.77,3,Continental,2022-04-12,False
+U01222,Mumbai,Dadar,budget,False,130.6,1,Fast Food,2023-10-08,False
+U01223,Bangalore,Koramangala,budget,False,121.67,2,Continental,2023-08-06,False
+U01224,Kolkata,New Town,budget,False,147.82,2,Chinese,2022-10-19,True
+U01225,Delhi,Lajpat Nagar,budget,False,84.45,2,Biryani,2024-09-11,False
+U01226,Hyderabad,Hitech City,occasional,False,271.4,1,South Indian,2024-10-12,False
+U01227,Delhi,Rohini,budget,False,110.12,1,Beverages,2023-03-17,False
+U01228,Delhi,Lajpat Nagar,mid_range,False,331.33,3,Italian,2024-09-01,False
+U01229,Kolkata,New Town,budget,True,123.08,2,Fast Food,2023-02-25,False
+U01230,Delhi,Connaught Place,budget,False,82.88,2,Fast Food,2024-03-17,False
+U01231,Pune,Wakad,mid_range,False,203.05,6,Biryani,2023-06-06,False
+U01232,Delhi,Dwarka,mid_range,False,339.76,4,North Indian,2022-05-15,False
+U01233,Mumbai,Dadar,budget,True,136.8,1,Desserts,2024-10-13,False
+U01234,Mumbai,Andheri,budget,False,117.67,1,Street Food,2023-05-13,False
+U01235,Hyderabad,Hitech City,mid_range,True,336.81,6,Beverages,2024-03-15,True
+U01236,Delhi,Saket,budget,False,126.06,3,North Indian,2023-02-07,False
+U01237,Pune,Kothrud,budget,False,125.33,3,Street Food,2022-01-21,False
+U01238,Bangalore,Koramangala,frequent,False,414.19,19,Desserts,2022-04-21,False
+U01239,Kolkata,Ballygunge,mid_range,False,253.43,3,Italian,2023-06-28,False
+U01240,Mumbai,Andheri,mid_range,True,255.64,3,Fast Food,2024-01-26,False
+U01241,Pune,Kothrud,mid_range,True,268.5,5,Continental,2023-01-02,False
+U01242,Chennai,OMR,mid_range,False,274.52,3,Biryani,2024-02-01,False
+U01243,Chennai,T Nagar,mid_range,True,188.97,5,Beverages,2024-02-05,False
+U01244,Pune,Koregaon Park,premium,False,875.25,7,Biryani,2024-02-10,False
+U01245,Chennai,Velachery,premium,True,612.19,9,South Indian,2023-06-24,False
+U01246,Hyderabad,Banjara Hills,budget,False,122.27,1,Italian,2024-09-28,False
+U01247,Mumbai,Bandra,mid_range,False,232.16,4,South Indian,2023-06-20,False
+U01248,Mumbai,Thane,mid_range,False,343.2,3,Desserts,2023-05-09,False
+U01249,Pune,Kothrud,occasional,False,186.93,1,Desserts,2022-08-07,False
+U01250,Hyderabad,Jubilee Hills,mid_range,False,194.36,6,Chinese,2022-12-03,True
+U01251,Chennai,OMR,mid_range,True,190.24,3,Desserts,2022-02-16,True
+U01252,Bangalore,Indiranagar,budget,False,113.21,1,North Indian,2023-11-25,False
+U01253,Mumbai,Thane,mid_range,False,166.95,7,North Indian,2022-09-30,False
+U01254,Mumbai,Bandra,budget,False,134.0,3,Continental,2022-11-30,False
+U01255,Hyderabad,Banjara Hills,mid_range,True,320.9,6,Fast Food,2024-04-24,False
+U01256,Bangalore,Whitefield,budget,False,83.66,3,Biryani,2022-12-25,False
+U01257,Mumbai,Bandra,premium,True,822.76,10,Fast Food,2022-09-23,False
+U01258,Bangalore,Jayanagar,budget,True,115.59,1,Fast Food,2022-07-05,False
+U01259,Mumbai,Andheri,mid_range,False,319.07,6,North Indian,2024-04-28,False
+U01260,Bangalore,Whitefield,occasional,True,296.54,1,Biryani,2022-05-23,False
+U01261,Delhi,Lajpat Nagar,budget,True,95.8,1,Continental,2023-05-12,False
+U01262,Chennai,Anna Nagar,mid_range,True,308.51,3,Italian,2023-07-10,False
+U01263,Delhi,Dwarka,mid_range,False,163.33,7,Chinese,2024-01-23,False
+U01264,Bangalore,Whitefield,budget,True,81.74,3,North Indian,2023-11-25,False
+U01265,Mumbai,Bandra,premium,False,582.68,10,South Indian,2024-06-06,True
+U01266,Mumbai,Andheri,budget,False,118.82,3,Chinese,2022-02-19,False
+U01267,Delhi,Connaught Place,mid_range,False,335.24,3,Italian,2022-11-21,False
+U01268,Bangalore,Indiranagar,mid_range,True,165.08,4,Desserts,2022-11-03,True
+U01269,Hyderabad,Jubilee Hills,mid_range,False,283.86,7,Fast Food,2022-06-09,False
+U01270,Delhi,Saket,premium,True,629.97,8,Beverages,2022-11-13,False
+U01271,Hyderabad,Banjara Hills,budget,True,93.19,3,Continental,2022-12-06,False
+U01272,Pune,Hinjewadi,budget,True,147.71,1,Fast Food,2023-07-26,True
+U01273,Chennai,Velachery,premium,True,647.41,4,Desserts,2023-12-28,False
+U01274,Mumbai,Andheri,mid_range,True,261.83,5,Italian,2023-02-22,False
+U01275,Bangalore,Indiranagar,occasional,True,146.0,1,South Indian,2024-02-27,False
+U01276,Mumbai,Dadar,occasional,True,180.14,1,Continental,2023-01-04,False
+U01277,Delhi,Connaught Place,occasional,True,225.42,1,Continental,2022-11-14,False
+U01278,Kolkata,Salt Lake,mid_range,False,302.2,6,Italian,2023-08-16,False
+U01279,Mumbai,Powai,mid_range,False,223.26,3,Chinese,2022-01-26,False
+U01280,Bangalore,Jayanagar,premium,False,777.47,11,Street Food,2022-03-29,False
+U01281,Hyderabad,Jubilee Hills,mid_range,True,198.03,4,Fast Food,2023-04-03,False
+U01282,Hyderabad,Jubilee Hills,budget,True,92.87,2,Chinese,2024-10-29,False
+U01283,Bangalore,HSR Layout,occasional,False,147.87,1,North Indian,2024-03-01,False
+U01284,Mumbai,Powai,occasional,True,245.46,1,Italian,2022-04-07,False
+U01285,Delhi,Saket,mid_range,False,227.29,5,North Indian,2024-07-15,False
+U01286,Bangalore,Jayanagar,budget,True,119.35,1,South Indian,2024-03-12,False
+U01287,Mumbai,Thane,mid_range,False,165.7,7,Chinese,2023-10-31,False
+U01288,Delhi,Connaught Place,occasional,True,134.02,1,Beverages,2024-06-17,False
+U01289,Mumbai,Powai,occasional,False,285.61,1,Street Food,2023-03-19,False
+U01290,Mumbai,Thane,budget,False,105.93,2,Italian,2022-08-31,False
+U01291,Delhi,Lajpat Nagar,budget,False,141.72,3,Italian,2023-07-15,False
+U01292,Mumbai,Thane,occasional,True,253.12,1,Street Food,2023-08-24,False
+U01293,Bangalore,Koramangala,mid_range,True,283.83,5,Continental,2023-08-13,False
+U01294,Hyderabad,Madhapur,mid_range,False,244.14,3,Desserts,2023-09-11,False
+U01295,Chennai,Velachery,frequent,True,257.32,17,South Indian,2024-11-04,False
+U01296,Mumbai,Powai,budget,True,111.78,1,Chinese,2024-09-14,False
+U01297,Mumbai,Andheri,mid_range,False,226.8,7,Italian,2024-08-16,False
+U01298,Mumbai,Andheri,budget,True,132.43,1,Italian,2024-05-27,False
+U01299,Hyderabad,Hitech City,mid_range,False,173.5,4,Street Food,2024-10-30,False
+U01300,Hyderabad,Hitech City,occasional,True,285.74,1,Beverages,2022-04-18,False
+U01301,Mumbai,Powai,mid_range,False,256.7,5,Street Food,2022-10-18,False
+U01302,Kolkata,Park Street,frequent,True,309.81,17,Street Food,2023-06-27,False
+U01303,Mumbai,Powai,mid_range,False,254.66,3,Fast Food,2024-07-15,False
+U01304,Bangalore,HSR Layout,mid_range,True,175.81,5,Chinese,2023-07-08,False
+U01305,Hyderabad,Jubilee Hills,budget,True,145.56,1,Continental,2024-03-30,False
+U01306,Pune,Koregaon Park,mid_range,True,323.91,6,Street Food,2022-06-02,False
+U01307,Hyderabad,Gachibowli,mid_range,False,199.56,3,Beverages,2022-10-04,False
+U01308,Chennai,OMR,budget,True,87.13,3,Continental,2024-03-12,False
+U01309,Delhi,Lajpat Nagar,mid_range,False,189.93,4,Biryani,2022-06-30,True
+U01310,Chennai,T Nagar,mid_range,True,250.34,6,Chinese,2023-01-20,False
+U01311,Mumbai,Bandra,premium,True,456.62,7,Italian,2022-10-18,False
+U01312,Pune,Wakad,premium,False,642.54,8,Biryani,2023-01-19,True
+U01313,Bangalore,Jayanagar,premium,True,809.18,5,Continental,2024-02-15,False
+U01314,Chennai,OMR,budget,False,136.55,3,Continental,2023-02-07,False
+U01315,Bangalore,Jayanagar,budget,False,118.91,3,Chinese,2023-09-01,True
+U01316,Hyderabad,Gachibowli,premium,False,606.01,5,Desserts,2022-04-20,False
+U01317,Bangalore,HSR Layout,mid_range,False,283.15,5,Fast Food,2024-05-31,False
+U01318,Chennai,OMR,budget,True,124.76,2,Italian,2023-02-10,False
+U01319,Mumbai,Thane,occasional,False,283.24,1,Biryani,2023-12-12,False
+U01320,Mumbai,Dadar,premium,False,442.7,7,Street Food,2024-03-05,False
+U01321,Delhi,Rohini,mid_range,False,301.27,6,South Indian,2022-08-18,False
+U01322,Mumbai,Thane,budget,False,114.62,3,Desserts,2024-08-26,False
+U01323,Pune,Hinjewadi,premium,True,533.83,7,Italian,2023-11-06,True
+U01324,Mumbai,Powai,mid_range,True,329.72,7,South Indian,2023-04-15,False
+U01325,Kolkata,Park Street,premium,False,742.86,10,Fast Food,2022-07-19,False
+U01326,Delhi,Connaught Place,premium,True,444.39,10,South Indian,2024-10-28,True
+U01327,Mumbai,Thane,occasional,False,177.71,1,Street Food,2024-04-06,False
+U01328,Chennai,Anna Nagar,mid_range,True,197.87,5,South Indian,2022-08-16,False
+U01329,Hyderabad,Hitech City,budget,False,97.58,1,Desserts,2023-01-05,False
+U01330,Bangalore,HSR Layout,premium,True,467.49,6,North Indian,2024-06-05,False
+U01331,Bangalore,Indiranagar,mid_range,False,264.46,5,Desserts,2024-02-01,False
+U01332,Hyderabad,Hitech City,premium,True,573.36,9,Street Food,2024-04-18,False
+U01333,Delhi,Saket,budget,False,142.55,3,Biryani,2023-04-29,False
+U01334,Kolkata,Ballygunge,budget,False,103.24,3,North Indian,2024-02-24,True
+U01335,Kolkata,Ballygunge,occasional,True,147.36,1,Fast Food,2023-02-28,False
+U01336,Hyderabad,Hitech City,premium,False,572.81,10,Desserts,2022-08-20,False
+U01337,Mumbai,Andheri,occasional,True,164.34,1,North Indian,2023-11-24,False
+U01338,Hyderabad,Gachibowli,premium,True,465.85,10,Continental,2024-12-04,False
+U01339,Mumbai,Powai,mid_range,False,276.76,4,Desserts,2022-12-07,True
+U01340,Mumbai,Dadar,premium,False,677.65,8,North Indian,2023-05-20,False
+U01341,Delhi,Saket,occasional,False,237.98,1,Chinese,2024-01-09,True
+U01342,Bangalore,Whitefield,mid_range,True,322.88,4,Biryani,2023-08-16,True
+U01343,Pune,Kothrud,mid_range,False,288.83,3,Italian,2024-07-12,False
+U01344,Hyderabad,Hitech City,budget,False,106.09,2,South Indian,2024-04-14,False
+U01345,Chennai,T Nagar,mid_range,True,258.7,3,North Indian,2022-03-05,True
+U01346,Bangalore,Koramangala,premium,False,795.07,5,Italian,2024-12-29,False
+U01347,Delhi,Connaught Place,budget,False,127.39,3,Desserts,2024-04-03,True
+U01348,Delhi,Connaught Place,budget,True,119.33,3,Italian,2024-08-03,False
+U01349,Kolkata,Ballygunge,mid_range,True,282.37,4,Continental,2023-12-15,True
+U01350,Mumbai,Andheri,budget,False,136.62,1,Beverages,2024-07-26,False
+U01351,Pune,Wakad,budget,False,119.98,3,Beverages,2022-05-04,False
+U01352,Bangalore,Indiranagar,mid_range,True,225.79,4,Biryani,2023-01-16,False
+U01353,Bangalore,Jayanagar,occasional,True,202.68,1,North Indian,2024-08-17,False
+U01354,Hyderabad,Jubilee Hills,mid_range,False,335.98,5,Continental,2022-08-09,False
+U01355,Bangalore,Jayanagar,budget,False,126.3,3,South Indian,2022-03-27,True
+U01356,Pune,Hinjewadi,budget,True,86.9,1,Fast Food,2024-05-12,True
+U01357,Pune,Hinjewadi,premium,True,754.45,10,Street Food,2024-07-03,False
+U01358,Bangalore,Whitefield,mid_range,False,321.41,5,Biryani,2022-06-28,False
+U01359,Delhi,Connaught Place,occasional,False,136.08,1,Street Food,2024-07-24,False
+U01360,Bangalore,HSR Layout,premium,True,515.37,6,Beverages,2024-01-23,False
+U01361,Pune,Wakad,premium,False,786.13,4,Chinese,2023-07-24,False
+U01362,Mumbai,Powai,budget,False,137.93,2,Fast Food,2024-06-28,True
+U01363,Hyderabad,Jubilee Hills,premium,False,698.03,4,Fast Food,2023-04-05,False
+U01364,Hyderabad,Gachibowli,budget,False,103.62,1,Street Food,2022-08-01,False
+U01365,Chennai,OMR,frequent,True,488.46,17,Chinese,2022-11-08,False
+U01366,Mumbai,Dadar,mid_range,False,241.93,4,Desserts,2023-07-08,False
+U01367,Hyderabad,Gachibowli,mid_range,False,336.69,4,Italian,2023-08-05,False
+U01368,Pune,Koregaon Park,budget,False,91.27,2,Biryani,2024-06-01,False
+U01369,Mumbai,Thane,budget,True,146.06,1,Continental,2024-05-16,False
+U01370,Delhi,Dwarka,premium,False,519.06,11,Fast Food,2023-09-29,False
+U01371,Kolkata,Salt Lake,budget,False,91.98,1,Street Food,2024-05-04,False
+U01372,Mumbai,Bandra,mid_range,True,264.04,7,Italian,2022-07-29,False
+U01373,Pune,Baner,budget,False,113.4,3,Beverages,2022-02-24,False
+U01374,Bangalore,Indiranagar,premium,True,739.59,4,Continental,2024-08-14,False
+U01375,Delhi,Connaught Place,occasional,False,298.71,1,Street Food,2022-03-24,True
+U01376,Pune,Wakad,premium,False,543.7,8,Biryani,2022-09-28,False
+U01377,Bangalore,Jayanagar,premium,False,552.15,4,South Indian,2024-02-01,True
+U01378,Bangalore,Whitefield,budget,True,80.1,2,Fast Food,2023-03-25,False
+U01379,Delhi,Connaught Place,budget,True,138.58,2,Beverages,2024-08-17,False
+U01380,Bangalore,Whitefield,premium,True,899.6,6,Biryani,2022-11-23,False
+U01381,Mumbai,Thane,mid_range,False,206.09,3,North Indian,2022-01-13,True
+U01382,Delhi,Lajpat Nagar,mid_range,False,182.81,4,Beverages,2022-11-26,False
+U01383,Kolkata,Ballygunge,budget,False,135.5,3,Continental,2023-09-25,False
+U01384,Delhi,Dwarka,budget,False,148.26,1,North Indian,2023-02-16,False
+U01385,Hyderabad,Madhapur,budget,True,141.69,1,Beverages,2023-08-09,False
+U01386,Delhi,Dwarka,occasional,False,140.31,1,Street Food,2024-08-17,False
+U01387,Chennai,OMR,budget,True,124.53,1,South Indian,2024-09-26,False
+U01388,Mumbai,Andheri,mid_range,False,235.97,4,Italian,2022-10-19,False
+U01389,Kolkata,Howrah,budget,False,131.58,2,South Indian,2023-05-22,True
+U01390,Bangalore,Whitefield,premium,True,894.64,4,South Indian,2023-08-25,False
+U01391,Delhi,Connaught Place,mid_range,True,221.0,5,Street Food,2024-11-05,True
+U01392,Mumbai,Bandra,occasional,True,210.56,1,Chinese,2024-12-29,False
+U01393,Mumbai,Dadar,occasional,False,251.26,1,Beverages,2022-09-15,True
+U01394,Bangalore,Whitefield,mid_range,False,337.74,7,Italian,2024-03-07,False
+U01395,Delhi,Saket,occasional,False,273.1,1,Desserts,2023-02-18,False
+U01396,Chennai,Velachery,frequent,True,447.77,11,Street Food,2022-01-09,False
+U01397,Bangalore,Koramangala,occasional,False,191.73,1,Chinese,2022-01-11,False
+U01398,Delhi,Lajpat Nagar,occasional,False,204.13,1,Street Food,2023-05-20,True
+U01399,Hyderabad,Banjara Hills,budget,True,147.31,1,Chinese,2023-06-19,False
+U01400,Hyderabad,Madhapur,mid_range,False,169.61,5,South Indian,2022-01-25,False
+U01401,Mumbai,Powai,budget,True,84.0,1,Fast Food,2024-01-23,False
+U01402,Mumbai,Andheri,budget,False,95.36,2,Fast Food,2022-11-18,False
+U01403,Mumbai,Bandra,frequent,False,329.98,17,North Indian,2023-09-06,False
+U01404,Chennai,T Nagar,mid_range,True,297.89,5,Desserts,2022-11-26,False
+U01405,Hyderabad,Jubilee Hills,premium,False,566.85,6,Italian,2022-07-03,False
+U01406,Bangalore,Jayanagar,occasional,True,259.32,1,Chinese,2023-03-22,False
+U01407,Pune,Kothrud,occasional,True,122.31,1,Beverages,2022-09-12,False
+U01408,Chennai,Adyar,frequent,True,343.14,9,South Indian,2023-08-09,False
+U01409,Bangalore,HSR Layout,budget,True,96.49,3,Continental,2022-08-06,False
+U01410,Pune,Baner,budget,False,140.17,3,Beverages,2023-07-11,True
+U01411,Mumbai,Dadar,mid_range,True,246.45,5,Beverages,2022-06-22,False
+U01412,Mumbai,Bandra,budget,False,148.27,3,Chinese,2024-01-05,False
+U01413,Delhi,Saket,budget,True,95.07,3,Italian,2024-04-05,False
+U01414,Mumbai,Dadar,mid_range,True,189.45,4,South Indian,2022-05-01,False
+U01415,Bangalore,Whitefield,premium,True,738.05,7,South Indian,2023-05-28,False
+U01416,Kolkata,Howrah,mid_range,True,336.31,3,Italian,2022-03-19,False
+U01417,Mumbai,Thane,mid_range,False,252.31,7,Fast Food,2023-10-18,False
+U01418,Mumbai,Andheri,premium,False,852.06,5,Biryani,2022-10-17,False
+U01419,Bangalore,Koramangala,budget,False,105.66,2,North Indian,2023-08-01,False
+U01420,Kolkata,Salt Lake,budget,False,91.16,3,Street Food,2023-07-21,False
+U01421,Delhi,Lajpat Nagar,premium,False,857.37,5,North Indian,2024-10-09,True
+U01422,Bangalore,Jayanagar,mid_range,True,174.23,3,Fast Food,2023-08-25,False
+U01423,Mumbai,Andheri,premium,False,854.72,5,Chinese,2023-10-01,False
+U01424,Mumbai,Andheri,budget,False,109.14,2,Chinese,2023-03-16,False
+U01425,Kolkata,New Town,occasional,False,227.82,1,Desserts,2024-11-05,False
+U01426,Kolkata,Ballygunge,mid_range,False,195.35,7,North Indian,2024-05-01,False
+U01427,Mumbai,Powai,mid_range,True,331.68,6,North Indian,2022-11-09,False
+U01428,Kolkata,Ballygunge,mid_range,False,153.88,4,Street Food,2024-07-13,False
+U01429,Hyderabad,Madhapur,occasional,True,233.03,1,Chinese,2023-04-19,False
+U01430,Pune,Baner,mid_range,False,331.92,6,Beverages,2024-06-26,False
+U01431,Bangalore,HSR Layout,mid_range,True,164.38,7,North Indian,2024-06-20,False
+U01432,Bangalore,Whitefield,frequent,False,487.33,8,Street Food,2022-07-26,False
+U01433,Bangalore,Indiranagar,premium,False,666.18,6,Italian,2024-02-07,False
+U01434,Hyderabad,Madhapur,mid_range,False,228.57,3,Continental,2022-11-15,False
+U01435,Mumbai,Andheri,premium,False,689.04,11,Italian,2022-11-22,False
+U01436,Mumbai,Dadar,mid_range,False,250.61,3,Street Food,2022-11-21,False
+U01437,Delhi,Rohini,budget,False,123.4,2,Beverages,2024-03-05,False
+U01438,Hyderabad,Jubilee Hills,mid_range,False,321.19,5,Desserts,2022-09-09,False
+U01439,Mumbai,Dadar,frequent,False,257.85,10,Chinese,2022-01-01,False
+U01440,Hyderabad,Madhapur,frequent,False,430.63,11,Desserts,2024-02-23,False
+U01441,Kolkata,Ballygunge,mid_range,True,303.45,4,Desserts,2022-07-07,False
+U01442,Mumbai,Thane,mid_range,False,214.34,5,Street Food,2022-04-25,False
+U01443,Hyderabad,Gachibowli,budget,True,146.02,3,Chinese,2022-09-18,False
+U01444,Bangalore,Koramangala,frequent,True,262.06,12,South Indian,2023-02-20,True
+U01445,Pune,Kothrud,frequent,False,244.82,14,Continental,2023-06-06,False
+U01446,Mumbai,Powai,mid_range,False,242.12,7,North Indian,2022-02-18,False
+U01447,Hyderabad,Madhapur,occasional,False,287.4,1,Desserts,2024-11-28,False
+U01448,Pune,Koregaon Park,premium,False,645.87,11,Italian,2024-02-24,False
+U01449,Kolkata,Park Street,mid_range,True,311.34,3,South Indian,2022-12-20,False
+U01450,Hyderabad,Banjara Hills,budget,False,102.4,2,South Indian,2022-12-15,True
+U01451,Bangalore,Whitefield,mid_range,True,195.94,3,Beverages,2023-05-07,False
+U01452,Hyderabad,Banjara Hills,premium,False,418.89,9,Desserts,2023-11-17,False
+U01453,Pune,Kothrud,premium,True,531.26,4,Desserts,2022-06-10,False
+U01454,Bangalore,Whitefield,mid_range,True,196.2,7,Biryani,2022-07-26,False
+U01455,Mumbai,Dadar,frequent,False,455.45,13,Street Food,2024-07-30,False
+U01456,Kolkata,New Town,budget,True,109.12,3,Beverages,2022-10-08,False
+U01457,Hyderabad,Jubilee Hills,mid_range,False,190.11,4,South Indian,2023-02-21,True
+U01458,Hyderabad,Jubilee Hills,premium,True,545.93,5,South Indian,2024-08-12,False
+U01459,Mumbai,Powai,premium,False,589.68,11,Biryani,2023-12-28,False
+U01460,Hyderabad,Hitech City,mid_range,False,273.07,5,North Indian,2023-01-10,False
+U01461,Delhi,Lajpat Nagar,budget,True,145.41,1,Fast Food,2024-01-19,False
+U01462,Hyderabad,Banjara Hills,budget,True,94.72,2,Italian,2022-01-22,False
+U01463,Mumbai,Powai,mid_range,False,273.11,3,Fast Food,2024-03-16,False
+U01464,Hyderabad,Madhapur,mid_range,True,230.61,6,Desserts,2023-06-18,False
+U01465,Kolkata,Salt Lake,budget,False,128.86,2,Chinese,2024-06-09,False
+U01466,Mumbai,Thane,premium,True,560.28,4,Beverages,2024-11-11,False
+U01467,Kolkata,Howrah,mid_range,True,235.42,3,Desserts,2024-10-10,False
+U01468,Delhi,Saket,premium,False,873.81,7,North Indian,2024-09-22,False
+U01469,Pune,Koregaon Park,occasional,True,177.11,1,Fast Food,2023-07-15,True
+U01470,Chennai,Adyar,budget,False,114.86,1,Desserts,2023-01-30,False
+U01471,Bangalore,Koramangala,budget,True,136.84,3,Italian,2023-05-25,True
+U01472,Chennai,Adyar,premium,True,736.5,4,South Indian,2024-01-26,False
+U01473,Pune,Koregaon Park,mid_range,False,263.26,6,Street Food,2024-08-25,False
+U01474,Delhi,Rohini,premium,False,468.25,5,Continental,2022-08-15,False
+U01475,Delhi,Connaught Place,occasional,False,278.85,1,Desserts,2024-10-02,False
+U01476,Hyderabad,Gachibowli,occasional,True,255.49,1,North Indian,2024-06-11,False
+U01477,Chennai,OMR,frequent,False,334.03,8,Beverages,2024-12-07,False
+U01478,Chennai,Adyar,mid_range,False,313.88,4,Chinese,2024-08-21,False
+U01479,Chennai,OMR,mid_range,True,258.15,6,Italian,2022-11-03,True
+U01480,Bangalore,HSR Layout,mid_range,False,290.53,7,Biryani,2022-04-27,False
+U01481,Chennai,Adyar,budget,False,117.19,2,North Indian,2022-05-03,False
+U01482,Mumbai,Dadar,mid_range,False,340.74,6,Fast Food,2022-11-15,False
+U01483,Bangalore,Koramangala,budget,True,100.87,1,Street Food,2023-11-04,False
+U01484,Mumbai,Powai,frequent,False,452.77,12,Fast Food,2024-05-30,False
+U01485,Delhi,Connaught Place,mid_range,True,282.09,5,South Indian,2024-09-11,False
+U01486,Delhi,Saket,mid_range,False,189.79,6,Street Food,2023-11-15,False
+U01487,Delhi,Lajpat Nagar,mid_range,True,162.14,5,Fast Food,2022-01-07,False
+U01488,Hyderabad,Madhapur,budget,False,118.26,2,Beverages,2022-07-24,True
+U01489,Delhi,Rohini,budget,False,132.41,3,Fast Food,2022-04-20,False
+U01490,Bangalore,Whitefield,mid_range,True,304.25,3,Italian,2023-02-02,False
+U01491,Delhi,Connaught Place,budget,False,93.59,2,Italian,2023-07-03,False
+U01492,Delhi,Rohini,mid_range,True,336.96,7,Continental,2022-02-17,False
+U01493,Delhi,Connaught Place,occasional,False,271.66,1,Fast Food,2023-01-17,True
+U01494,Mumbai,Bandra,occasional,False,197.3,1,Beverages,2022-07-16,False
+U01495,Hyderabad,Hitech City,premium,False,478.69,4,Beverages,2023-12-10,False
+U01496,Hyderabad,Madhapur,budget,False,146.28,1,Desserts,2023-05-24,False
+U01497,Hyderabad,Hitech City,occasional,True,163.19,1,Chinese,2023-06-27,False
+U01498,Bangalore,Jayanagar,occasional,True,287.13,1,Street Food,2023-04-14,False
+U01499,Delhi,Connaught Place,budget,True,126.69,3,North Indian,2024-11-12,True
+U01500,Pune,Baner,premium,False,572.81,8,Biryani,2022-08-24,False
+U01501,Bangalore,Whitefield,budget,True,82.72,1,Street Food,2023-07-20,False
+U01502,Bangalore,Whitefield,occasional,False,269.62,1,Street Food,2024-03-16,False
+U01503,Mumbai,Bandra,frequent,False,305.19,12,South Indian,2023-09-02,True
+U01504,Delhi,Saket,budget,True,117.35,1,Street Food,2024-10-14,False
+U01505,Delhi,Lajpat Nagar,occasional,False,163.42,1,South Indian,2023-02-18,False
+U01506,Delhi,Connaught Place,mid_range,False,200.1,7,Desserts,2023-05-23,False
+U01507,Bangalore,Jayanagar,frequent,False,283.9,10,Chinese,2022-04-07,True
+U01508,Bangalore,Koramangala,mid_range,True,250.85,7,Beverages,2023-10-29,False
+U01509,Hyderabad,Madhapur,occasional,True,163.44,1,Continental,2022-11-12,True
+U01510,Chennai,OMR,budget,True,104.95,3,Beverages,2022-06-25,False
+U01511,Chennai,Anna Nagar,mid_range,True,260.14,7,Fast Food,2023-08-20,True
+U01512,Hyderabad,Gachibowli,budget,False,147.17,3,Biryani,2023-08-06,False
+U01513,Kolkata,New Town,frequent,False,381.14,13,Chinese,2022-03-25,True
+U01514,Mumbai,Bandra,occasional,False,127.21,1,Chinese,2024-02-04,False
+U01515,Mumbai,Bandra,occasional,False,189.03,1,Desserts,2023-11-15,True
+U01516,Mumbai,Andheri,frequent,False,400.01,11,Biryani,2022-07-26,False
+U01517,Hyderabad,Banjara Hills,budget,False,121.0,2,Fast Food,2023-05-30,False
+U01518,Pune,Wakad,mid_range,True,239.15,7,Fast Food,2024-02-28,False
+U01519,Delhi,Lajpat Nagar,budget,False,98.55,2,Continental,2023-08-03,False
+U01520,Pune,Kothrud,budget,False,117.64,2,North Indian,2023-03-10,True
+U01521,Mumbai,Thane,budget,False,134.88,2,Beverages,2022-12-19,False
+U01522,Kolkata,Salt Lake,mid_range,True,279.21,3,Street Food,2023-10-31,False
+U01523,Delhi,Connaught Place,budget,True,145.29,2,Biryani,2024-10-25,True
+U01524,Mumbai,Bandra,budget,True,131.07,1,Fast Food,2024-01-06,False
+U01525,Bangalore,HSR Layout,budget,True,94.36,2,Fast Food,2022-03-23,True
+U01526,Delhi,Rohini,budget,False,141.48,2,North Indian,2023-05-20,False
+U01527,Delhi,Dwarka,frequent,True,478.96,13,Chinese,2024-09-02,False
+U01528,Delhi,Dwarka,premium,False,645.22,4,Fast Food,2022-04-14,False
+U01529,Chennai,Adyar,frequent,True,440.8,10,Continental,2024-12-18,False
+U01530,Bangalore,Jayanagar,mid_range,False,329.92,7,Fast Food,2024-11-05,True
+U01531,Delhi,Dwarka,budget,False,146.03,2,Fast Food,2022-03-27,False
+U01532,Hyderabad,Gachibowli,premium,True,738.55,10,North Indian,2024-10-19,True
+U01533,Hyderabad,Gachibowli,mid_range,False,176.2,6,Continental,2023-02-02,False
+U01534,Delhi,Lajpat Nagar,budget,True,82.4,2,Italian,2024-07-13,True
+U01535,Delhi,Rohini,budget,False,90.84,1,South Indian,2023-04-04,False
+U01536,Mumbai,Andheri,budget,False,105.55,2,North Indian,2023-04-28,False
+U01537,Mumbai,Powai,budget,False,123.62,1,Chinese,2023-11-26,False
+U01538,Hyderabad,Hitech City,mid_range,False,250.74,3,Chinese,2024-04-28,False
+U01539,Mumbai,Dadar,premium,False,686.99,9,Biryani,2022-02-06,False
+U01540,Bangalore,Whitefield,budget,False,118.97,3,North Indian,2023-10-12,False
+U01541,Hyderabad,Madhapur,budget,False,103.49,3,Desserts,2022-07-24,False
+U01542,Mumbai,Andheri,occasional,True,197.9,1,North Indian,2023-01-14,False
+U01543,Bangalore,Whitefield,budget,False,125.37,1,Italian,2023-01-17,False
+U01544,Delhi,Dwarka,mid_range,False,280.8,6,Fast Food,2023-05-29,False
+U01545,Kolkata,Park Street,occasional,False,175.77,1,North Indian,2023-01-01,False
+U01546,Bangalore,Whitefield,budget,True,86.37,3,Desserts,2022-04-28,True
+U01547,Chennai,Adyar,budget,True,128.25,1,Street Food,2022-06-09,False
+U01548,Bangalore,HSR Layout,mid_range,False,221.34,5,Desserts,2022-02-06,True
+U01549,Mumbai,Andheri,mid_range,False,317.11,3,Chinese,2023-05-30,False
+U01550,Hyderabad,Jubilee Hills,mid_range,False,197.33,7,Italian,2024-11-11,False
+U01551,Kolkata,New Town,occasional,True,121.65,1,Fast Food,2022-05-07,False
+U01552,Hyderabad,Gachibowli,budget,False,147.13,2,Desserts,2024-11-02,False
+U01553,Chennai,T Nagar,mid_range,False,202.33,3,Italian,2024-03-14,True
+U01554,Pune,Koregaon Park,mid_range,False,155.64,4,Street Food,2023-11-30,False
+U01555,Delhi,Dwarka,budget,False,141.7,2,Continental,2023-12-08,False
+U01556,Mumbai,Thane,mid_range,False,294.07,7,Continental,2024-06-24,True
+U01557,Hyderabad,Madhapur,budget,False,108.56,1,Continental,2022-04-28,False
+U01558,Delhi,Rohini,mid_range,False,253.42,7,Street Food,2023-07-07,False
+U01559,Pune,Baner,budget,True,136.31,1,Fast Food,2024-02-03,False
+U01560,Pune,Hinjewadi,mid_range,False,288.51,5,South Indian,2023-10-05,True
+U01561,Delhi,Dwarka,mid_range,False,331.49,3,South Indian,2024-06-30,False
+U01562,Delhi,Connaught Place,occasional,True,216.13,1,Italian,2022-03-21,False
+U01563,Chennai,Adyar,budget,False,108.7,2,Continental,2024-01-27,False
+U01564,Delhi,Dwarka,mid_range,False,164.09,4,Chinese,2023-08-08,False
+U01565,Chennai,Anna Nagar,mid_range,False,214.9,7,Fast Food,2023-02-20,True
+U01566,Bangalore,Whitefield,premium,True,541.33,7,South Indian,2023-01-08,False
+U01567,Hyderabad,Madhapur,mid_range,True,284.26,3,North Indian,2023-11-11,False
+U01568,Mumbai,Powai,premium,False,643.22,9,Biryani,2024-09-02,True
+U01569,Hyderabad,Madhapur,premium,True,833.43,9,Beverages,2023-06-28,False
+U01570,Bangalore,Indiranagar,occasional,False,240.43,1,Street Food,2024-06-22,False
+U01571,Bangalore,Koramangala,mid_range,True,339.16,3,Street Food,2023-03-17,False
+U01572,Mumbai,Powai,mid_range,False,304.93,4,South Indian,2022-04-23,False
+U01573,Chennai,T Nagar,occasional,True,288.05,1,Street Food,2022-03-09,False
+U01574,Pune,Wakad,frequent,True,426.14,10,Continental,2022-02-26,False
+U01575,Mumbai,Andheri,occasional,False,199.75,1,Beverages,2023-02-21,False
+U01576,Mumbai,Thane,mid_range,True,303.99,3,Chinese,2023-01-05,False
+U01577,Mumbai,Bandra,budget,False,147.37,3,North Indian,2024-02-26,False
+U01578,Hyderabad,Jubilee Hills,mid_range,False,204.07,7,Italian,2024-03-24,False
+U01579,Hyderabad,Banjara Hills,premium,False,659.16,7,Beverages,2022-02-25,False
+U01580,Bangalore,HSR Layout,mid_range,False,212.89,5,Chinese,2022-08-31,True
+U01581,Delhi,Rohini,mid_range,True,295.98,5,Street Food,2022-10-28,False
+U01582,Delhi,Dwarka,occasional,True,233.26,1,South Indian,2023-08-23,True
+U01583,Bangalore,Jayanagar,mid_range,False,292.22,3,Desserts,2022-06-08,True
+U01584,Bangalore,Jayanagar,occasional,False,274.75,1,Italian,2022-05-27,False
+U01585,Kolkata,Salt Lake,mid_range,False,202.48,4,Fast Food,2024-10-30,False
+U01586,Mumbai,Dadar,mid_range,False,246.6,7,Biryani,2024-05-30,False
+U01587,Hyderabad,Gachibowli,mid_range,False,225.67,6,South Indian,2022-07-17,False
+U01588,Delhi,Saket,premium,True,448.41,7,Street Food,2023-03-22,False
+U01589,Bangalore,HSR Layout,budget,False,149.42,3,South Indian,2023-01-25,False
+U01590,Hyderabad,Hitech City,budget,False,94.74,2,Continental,2024-05-16,False
+U01591,Hyderabad,Gachibowli,frequent,False,270.09,12,Street Food,2023-07-13,False
+U01592,Kolkata,Howrah,budget,False,134.61,3,South Indian,2022-05-20,False
+U01593,Mumbai,Andheri,mid_range,True,195.62,7,Beverages,2024-03-20,False
+U01594,Mumbai,Dadar,mid_range,True,268.51,4,Beverages,2023-03-11,False
+U01595,Hyderabad,Jubilee Hills,mid_range,False,250.39,6,North Indian,2022-10-15,False
+U01596,Bangalore,Whitefield,mid_range,False,261.98,5,North Indian,2023-02-16,True
+U01597,Delhi,Connaught Place,budget,False,115.35,1,Italian,2023-06-30,False
+U01598,Mumbai,Thane,mid_range,True,312.55,5,South Indian,2023-01-11,False
+U01599,Mumbai,Powai,mid_range,True,176.22,6,North Indian,2022-09-22,False
+U01600,Pune,Wakad,premium,False,866.22,11,Continental,2023-03-13,False
+U01601,Mumbai,Dadar,budget,False,105.83,1,Chinese,2022-01-21,False
+U01602,Delhi,Dwarka,mid_range,False,253.68,3,North Indian,2024-04-25,False
+U01603,Delhi,Lajpat Nagar,budget,False,145.38,1,South Indian,2022-07-07,False
+U01604,Delhi,Saket,budget,False,97.69,2,Beverages,2022-02-18,False
+U01605,Mumbai,Andheri,budget,False,106.82,3,Biryani,2023-12-17,False
+U01606,Bangalore,Jayanagar,budget,False,111.94,1,Desserts,2024-04-27,False
+U01607,Mumbai,Bandra,occasional,False,168.1,1,Fast Food,2024-06-10,False
+U01608,Chennai,Velachery,budget,True,90.32,2,North Indian,2023-06-25,False
+U01609,Delhi,Saket,frequent,True,369.72,16,Fast Food,2022-08-13,False
+U01610,Bangalore,HSR Layout,frequent,True,481.31,18,Desserts,2024-03-18,False
+U01611,Pune,Kothrud,mid_range,False,339.22,4,Italian,2024-02-06,False
+U01612,Hyderabad,Madhapur,budget,True,89.21,1,Beverages,2022-09-27,False
+U01613,Bangalore,Koramangala,mid_range,True,329.02,7,Beverages,2024-09-16,True
+U01614,Delhi,Saket,premium,False,829.66,4,Desserts,2022-04-25,False
+U01615,Delhi,Dwarka,mid_range,True,339.49,5,South Indian,2024-12-12,False
+U01616,Hyderabad,Hitech City,budget,False,80.65,2,Fast Food,2024-07-30,False
+U01617,Kolkata,New Town,mid_range,True,159.21,5,Fast Food,2024-01-24,False
+U01618,Hyderabad,Banjara Hills,occasional,True,180.94,1,Desserts,2024-10-24,True
+U01619,Bangalore,Jayanagar,premium,False,706.59,10,Fast Food,2024-03-01,False
+U01620,Chennai,T Nagar,budget,True,126.33,2,South Indian,2022-07-28,False
+U01621,Bangalore,HSR Layout,premium,True,809.71,11,Beverages,2023-04-30,False
+U01622,Mumbai,Thane,budget,True,88.38,2,Italian,2022-03-20,False
+U01623,Bangalore,Whitefield,budget,True,99.92,1,Continental,2023-03-03,False
+U01624,Kolkata,Park Street,occasional,True,240.34,1,Beverages,2024-03-23,False
+U01625,Mumbai,Dadar,budget,True,91.4,3,Chinese,2023-02-28,False
+U01626,Hyderabad,Gachibowli,budget,True,139.74,3,Chinese,2022-12-28,True
+U01627,Mumbai,Bandra,budget,False,98.57,3,Beverages,2023-10-14,True
+U01628,Bangalore,Indiranagar,occasional,True,177.72,1,South Indian,2024-08-13,False
+U01629,Mumbai,Dadar,premium,True,425.25,4,Continental,2022-02-22,False
+U01630,Bangalore,HSR Layout,mid_range,True,294.07,5,Italian,2023-02-27,False
+U01631,Chennai,Anna Nagar,premium,False,528.15,5,Fast Food,2022-06-23,True
+U01632,Delhi,Lajpat Nagar,budget,False,126.9,1,Chinese,2024-02-01,False
+U01633,Hyderabad,Banjara Hills,mid_range,False,311.18,3,Chinese,2022-04-26,False
+U01634,Chennai,Anna Nagar,mid_range,False,188.3,4,Chinese,2023-12-29,False
+U01635,Pune,Koregaon Park,budget,True,113.94,2,Street Food,2022-11-10,False
+U01636,Delhi,Saket,mid_range,False,214.14,7,South Indian,2022-08-06,False
+U01637,Delhi,Connaught Place,frequent,False,392.47,8,Beverages,2024-10-22,False
+U01638,Mumbai,Thane,budget,False,110.11,3,Continental,2022-01-21,True
+U01639,Kolkata,Howrah,budget,False,101.1,1,Beverages,2023-04-25,False
+U01640,Pune,Hinjewadi,budget,False,133.09,2,Street Food,2022-01-24,False
+U01641,Bangalore,Koramangala,budget,False,119.92,1,Chinese,2023-06-14,False
+U01642,Pune,Wakad,occasional,False,145.29,1,Desserts,2023-07-03,False
+U01643,Bangalore,Jayanagar,mid_range,True,191.56,5,Street Food,2022-12-19,False
+U01644,Hyderabad,Banjara Hills,mid_range,False,258.98,4,South Indian,2022-05-25,False
+U01645,Mumbai,Thane,premium,True,874.21,10,Italian,2023-02-17,False
+U01646,Chennai,Adyar,budget,True,130.57,1,Fast Food,2024-01-07,False
+U01647,Mumbai,Bandra,mid_range,False,171.23,5,Biryani,2024-05-06,False
+U01648,Chennai,Anna Nagar,mid_range,True,182.14,7,Continental,2023-08-05,False
+U01649,Chennai,Anna Nagar,mid_range,True,181.7,5,Street Food,2023-10-08,False
+U01650,Hyderabad,Madhapur,frequent,False,309.24,15,Italian,2022-08-08,False
+U01651,Mumbai,Bandra,premium,False,464.52,7,Biryani,2022-11-11,False
+U01652,Delhi,Rohini,mid_range,False,204.94,7,Italian,2022-06-27,False
+U01653,Delhi,Connaught Place,occasional,True,127.31,1,Beverages,2022-09-30,False
+U01654,Delhi,Rohini,budget,True,138.31,1,Beverages,2022-09-04,False
+U01655,Mumbai,Dadar,budget,False,135.25,1,Chinese,2023-07-23,True
+U01656,Kolkata,Salt Lake,budget,False,147.68,2,North Indian,2023-09-09,True
+U01657,Bangalore,HSR Layout,mid_range,False,210.66,4,Fast Food,2024-10-31,False
+U01658,Delhi,Dwarka,mid_range,False,163.28,7,South Indian,2022-08-03,False
+U01659,Delhi,Saket,mid_range,False,157.86,6,South Indian,2023-12-04,False
+U01660,Bangalore,HSR Layout,occasional,True,199.69,1,Chinese,2024-06-13,True
+U01661,Hyderabad,Banjara Hills,mid_range,False,199.2,5,Beverages,2023-09-06,False
+U01662,Bangalore,Jayanagar,mid_range,False,246.47,6,Chinese,2022-10-07,False
+U01663,Pune,Kothrud,budget,False,84.76,1,Desserts,2022-10-15,False
+U01664,Bangalore,Whitefield,budget,False,95.02,3,Street Food,2022-02-12,True
+U01665,Kolkata,Ballygunge,mid_range,False,187.83,5,Street Food,2022-12-01,False
+U01666,Pune,Kothrud,mid_range,False,193.05,7,Continental,2024-03-26,False
+U01667,Mumbai,Dadar,occasional,False,289.59,1,Beverages,2022-02-22,False
+U01668,Kolkata,Howrah,budget,False,104.66,1,North Indian,2022-08-29,False
+U01669,Mumbai,Powai,budget,False,83.48,1,Desserts,2024-02-13,False
+U01670,Chennai,Adyar,mid_range,True,280.85,5,Desserts,2024-05-07,False
+U01671,Delhi,Saket,budget,True,146.08,2,Beverages,2023-05-14,True
+U01672,Pune,Baner,budget,True,128.57,2,Street Food,2024-02-04,True
+U01673,Pune,Hinjewadi,premium,True,656.29,6,Biryani,2023-03-01,True
+U01674,Chennai,OMR,budget,False,111.85,2,Street Food,2022-06-25,False
+U01675,Chennai,Adyar,mid_range,True,291.33,7,Continental,2023-03-12,False
+U01676,Delhi,Lajpat Nagar,budget,True,103.05,1,Continental,2023-09-28,False
+U01677,Mumbai,Bandra,budget,True,114.74,2,Beverages,2024-11-04,False
+U01678,Delhi,Dwarka,mid_range,False,183.69,6,Fast Food,2022-03-17,False
+U01679,Mumbai,Bandra,occasional,False,297.29,1,Fast Food,2023-07-10,False
+U01680,Hyderabad,Gachibowli,mid_range,True,189.42,7,North Indian,2022-12-27,False
+U01681,Delhi,Connaught Place,premium,True,752.25,7,Fast Food,2023-07-11,True
+U01682,Kolkata,Ballygunge,budget,True,117.84,3,Italian,2022-01-27,False
+U01683,Hyderabad,Gachibowli,premium,False,640.07,6,Italian,2022-12-09,False
+U01684,Chennai,OMR,budget,True,114.53,2,South Indian,2024-06-16,False
+U01685,Mumbai,Andheri,premium,False,494.54,11,Italian,2023-08-30,False
+U01686,Pune,Hinjewadi,mid_range,False,284.84,6,Biryani,2023-05-09,True
+U01687,Pune,Koregaon Park,frequent,True,229.85,15,Biryani,2022-11-09,False
+U01688,Bangalore,Whitefield,mid_range,False,174.19,3,Biryani,2022-11-23,False
+U01689,Hyderabad,Jubilee Hills,budget,True,116.91,2,Italian,2023-02-24,False
+U01690,Chennai,Anna Nagar,budget,False,121.22,1,North Indian,2024-07-03,False
+U01691,Mumbai,Dadar,occasional,True,197.58,1,Street Food,2024-11-25,False
+U01692,Bangalore,HSR Layout,mid_range,True,347.42,5,Beverages,2023-04-26,False
+U01693,Delhi,Dwarka,premium,False,743.72,6,Chinese,2023-03-07,False
+U01694,Mumbai,Bandra,budget,False,86.63,3,South Indian,2024-07-15,False
+U01695,Delhi,Rohini,mid_range,True,207.25,5,Continental,2023-04-13,False
+U01696,Mumbai,Andheri,budget,True,125.49,1,Desserts,2023-08-28,False
+U01697,Mumbai,Bandra,frequent,False,443.08,14,Continental,2022-09-10,True
+U01698,Mumbai,Powai,premium,False,539.11,4,South Indian,2024-03-25,False
+U01699,Kolkata,New Town,frequent,False,248.75,18,Continental,2023-08-06,False
+U01700,Bangalore,Koramangala,budget,True,128.02,1,Street Food,2024-06-04,False
+U01701,Kolkata,Ballygunge,mid_range,True,163.12,6,Continental,2024-05-04,False
+U01702,Bangalore,Koramangala,premium,True,686.2,7,Continental,2022-08-24,False
+U01703,Delhi,Rohini,mid_range,True,222.72,4,Street Food,2024-02-23,False
+U01704,Bangalore,Jayanagar,occasional,True,240.53,1,Street Food,2024-05-26,False
+U01705,Bangalore,Whitefield,frequent,True,252.71,15,Italian,2023-01-14,False
+U01706,Mumbai,Bandra,occasional,False,196.35,1,Street Food,2022-07-09,False
+U01707,Hyderabad,Hitech City,premium,False,527.07,10,Chinese,2022-01-03,False
+U01708,Mumbai,Andheri,budget,False,113.97,2,Fast Food,2023-05-09,False
+U01709,Hyderabad,Gachibowli,budget,False,101.33,1,Chinese,2023-01-21,False
+U01710,Hyderabad,Banjara Hills,frequent,False,225.77,16,Continental,2023-08-31,False
+U01711,Mumbai,Andheri,budget,False,93.74,3,Chinese,2022-07-25,False
+U01712,Mumbai,Dadar,premium,True,595.19,7,South Indian,2024-07-30,False
+U01713,Chennai,T Nagar,premium,False,634.59,6,Beverages,2022-10-10,False
+U01714,Bangalore,Whitefield,mid_range,True,170.12,4,Fast Food,2022-09-05,False
+U01715,Mumbai,Bandra,frequent,True,399.12,15,Beverages,2023-06-11,False
+U01716,Kolkata,Salt Lake,mid_range,False,207.24,5,Desserts,2023-07-01,True
+U01717,Mumbai,Andheri,mid_range,True,188.69,4,Chinese,2022-08-24,True
+U01718,Hyderabad,Gachibowli,budget,False,81.61,3,Beverages,2022-10-25,False
+U01719,Kolkata,Ballygunge,mid_range,True,192.14,4,Street Food,2022-07-05,False
+U01720,Delhi,Lajpat Nagar,budget,True,99.57,1,North Indian,2024-02-26,False
+U01721,Mumbai,Powai,mid_range,True,277.85,3,North Indian,2024-04-23,False
+U01722,Mumbai,Powai,occasional,False,144.16,1,Street Food,2023-05-22,False
+U01723,Delhi,Dwarka,frequent,False,301.9,16,Beverages,2024-02-21,False
+U01724,Mumbai,Andheri,budget,False,119.02,1,Continental,2024-03-16,False
+U01725,Hyderabad,Jubilee Hills,mid_range,False,280.17,3,Street Food,2022-06-01,False
+U01726,Mumbai,Andheri,frequent,False,360.92,13,Fast Food,2024-11-23,False
+U01727,Bangalore,Whitefield,budget,True,98.75,2,Biryani,2024-06-18,False
+U01728,Kolkata,Salt Lake,budget,False,140.99,3,South Indian,2022-08-12,False
+U01729,Chennai,Anna Nagar,budget,True,122.54,2,Continental,2022-07-23,False
+U01730,Hyderabad,Madhapur,mid_range,True,195.04,4,Fast Food,2022-05-18,False
+U01731,Delhi,Dwarka,budget,False,113.56,2,Beverages,2022-06-01,False
+U01732,Hyderabad,Madhapur,frequent,True,474.14,12,Continental,2024-03-30,False
+U01733,Bangalore,HSR Layout,mid_range,True,224.69,4,Continental,2023-05-30,False
+U01734,Bangalore,Koramangala,mid_range,True,317.32,6,Beverages,2024-05-07,False
+U01735,Mumbai,Dadar,budget,False,122.99,2,Street Food,2024-03-28,False
+U01736,Pune,Kothrud,mid_range,False,313.58,3,Beverages,2023-10-25,False
+U01737,Bangalore,Whitefield,premium,False,835.4,8,Chinese,2024-01-22,False
+U01738,Mumbai,Andheri,premium,False,599.13,7,Chinese,2022-01-21,False
+U01739,Delhi,Connaught Place,premium,False,733.71,4,South Indian,2022-12-08,False
+U01740,Delhi,Lajpat Nagar,mid_range,True,324.31,5,North Indian,2023-11-30,False
+U01741,Chennai,Adyar,occasional,True,181.73,1,Italian,2022-01-11,False
+U01742,Chennai,OMR,occasional,True,199.1,1,South Indian,2022-02-06,False
+U01743,Chennai,Adyar,premium,True,601.82,9,South Indian,2024-07-21,False
+U01744,Mumbai,Andheri,budget,False,109.46,3,Biryani,2024-01-20,False
+U01745,Delhi,Connaught Place,budget,False,121.95,3,Italian,2022-10-18,False
+U01746,Bangalore,HSR Layout,budget,True,87.65,2,North Indian,2024-01-24,False
+U01747,Mumbai,Thane,premium,True,568.42,8,Continental,2024-05-17,False
+U01748,Delhi,Dwarka,mid_range,True,322.22,3,Italian,2022-12-02,False
+U01749,Chennai,T Nagar,mid_range,True,164.51,7,Biryani,2022-02-09,False
+U01750,Mumbai,Thane,occasional,True,158.31,1,Desserts,2024-10-18,False
+U01751,Bangalore,Jayanagar,occasional,True,217.72,1,South Indian,2023-01-13,False
+U01752,Mumbai,Bandra,occasional,False,142.52,1,Beverages,2022-04-27,True
+U01753,Mumbai,Bandra,mid_range,False,261.36,7,South Indian,2023-06-23,False
+U01754,Delhi,Saket,premium,True,607.5,6,Street Food,2024-04-21,False
+U01755,Kolkata,Ballygunge,budget,False,122.47,3,Biryani,2022-08-31,False
+U01756,Chennai,T Nagar,budget,True,138.58,3,South Indian,2022-10-23,True
+U01757,Kolkata,Howrah,budget,False,81.58,1,South Indian,2022-09-23,False
+U01758,Bangalore,Whitefield,mid_range,False,271.89,7,Italian,2024-12-21,False
+U01759,Mumbai,Bandra,mid_range,False,207.05,4,Italian,2022-08-05,False
+U01760,Bangalore,Jayanagar,occasional,True,261.66,1,Beverages,2023-09-23,True
+U01761,Bangalore,HSR Layout,budget,False,105.86,2,Fast Food,2024-10-10,False
+U01762,Pune,Kothrud,premium,True,680.17,9,Street Food,2022-06-10,False
+U01763,Mumbai,Andheri,mid_range,False,220.97,6,Beverages,2024-11-29,True
+U01764,Bangalore,Jayanagar,budget,True,120.98,2,Desserts,2024-11-03,False
+U01765,Mumbai,Dadar,mid_range,False,278.1,4,Street Food,2024-08-26,False
+U01766,Delhi,Connaught Place,budget,False,85.93,1,Italian,2022-08-23,False
+U01767,Chennai,OMR,mid_range,True,194.92,5,South Indian,2023-11-26,False
+U01768,Bangalore,Jayanagar,mid_range,True,318.09,6,Continental,2024-04-13,False
+U01769,Delhi,Dwarka,budget,True,135.23,2,South Indian,2024-12-15,True
+U01770,Delhi,Dwarka,budget,True,108.33,2,North Indian,2022-07-17,False
+U01771,Bangalore,Jayanagar,mid_range,True,188.37,3,Beverages,2024-04-18,False
+U01772,Chennai,T Nagar,occasional,True,226.36,1,Street Food,2023-01-06,False
+U01773,Pune,Baner,mid_range,True,183.37,3,Continental,2022-07-12,False
+U01774,Kolkata,Ballygunge,premium,True,789.77,6,North Indian,2023-04-07,False
+U01775,Chennai,T Nagar,premium,False,814.82,9,Desserts,2024-05-19,False
+U01776,Delhi,Rohini,frequent,True,483.7,12,South Indian,2023-05-25,False
+U01777,Hyderabad,Gachibowli,occasional,True,239.15,1,Fast Food,2023-08-12,True
+U01778,Bangalore,Whitefield,mid_range,True,276.12,5,Biryani,2024-12-25,False
+U01779,Delhi,Connaught Place,premium,False,494.32,8,North Indian,2023-03-14,False
+U01780,Pune,Wakad,occasional,False,215.15,1,South Indian,2023-11-05,False
+U01781,Mumbai,Andheri,mid_range,True,297.1,6,South Indian,2023-02-04,False
+U01782,Pune,Wakad,mid_range,False,172.68,6,Street Food,2023-03-07,False
+U01783,Bangalore,Indiranagar,budget,False,115.02,3,Street Food,2024-02-01,True
+U01784,Hyderabad,Jubilee Hills,occasional,False,285.58,1,Fast Food,2024-10-23,False
+U01785,Hyderabad,Madhapur,occasional,False,267.72,1,North Indian,2023-08-17,False
+U01786,Pune,Wakad,budget,False,105.7,2,Italian,2024-04-21,True
+U01787,Hyderabad,Banjara Hills,mid_range,False,179.62,6,Street Food,2022-04-08,False
+U01788,Hyderabad,Jubilee Hills,mid_range,False,151.67,3,Biryani,2022-08-20,False
+U01789,Mumbai,Dadar,budget,False,120.66,3,South Indian,2023-07-04,False
+U01790,Bangalore,Jayanagar,frequent,False,474.99,16,South Indian,2022-01-22,True
+U01791,Mumbai,Dadar,budget,False,127.02,2,Desserts,2022-10-04,False
+U01792,Chennai,Anna Nagar,budget,True,80.09,1,Desserts,2023-07-21,False
+U01793,Bangalore,HSR Layout,mid_range,False,256.91,6,Fast Food,2022-01-17,False
+U01794,Hyderabad,Hitech City,premium,True,608.72,9,North Indian,2022-10-17,False
+U01795,Mumbai,Bandra,budget,False,116.53,1,Chinese,2023-07-17,False
+U01796,Mumbai,Bandra,premium,False,496.01,10,Continental,2023-09-20,False
+U01797,Hyderabad,Jubilee Hills,mid_range,True,294.98,7,Street Food,2024-10-10,True
+U01798,Mumbai,Powai,budget,False,88.23,3,North Indian,2023-12-08,False
+U01799,Mumbai,Andheri,budget,True,94.66,1,South Indian,2023-03-31,False
+U01800,Mumbai,Dadar,mid_range,False,349.48,4,Beverages,2024-10-15,False
+U01801,Kolkata,Salt Lake,budget,True,126.76,1,Desserts,2024-05-09,False
+U01802,Chennai,T Nagar,frequent,True,374.07,18,Continental,2022-08-08,False
+U01803,Delhi,Lajpat Nagar,occasional,False,177.63,1,Street Food,2022-05-24,False
+U01804,Delhi,Connaught Place,frequent,False,256.37,15,Italian,2024-01-11,False
+U01805,Delhi,Saket,budget,False,103.55,1,Italian,2023-09-06,False
+U01806,Chennai,Velachery,frequent,True,293.95,10,Desserts,2024-05-14,False
+U01807,Hyderabad,Madhapur,mid_range,False,330.38,4,North Indian,2024-03-19,False
+U01808,Mumbai,Powai,mid_range,True,199.06,5,Street Food,2023-11-16,True
+U01809,Mumbai,Thane,budget,True,102.44,3,Continental,2024-12-16,True
+U01810,Mumbai,Powai,budget,True,147.99,2,South Indian,2023-08-08,True
+U01811,Hyderabad,Gachibowli,premium,False,830.52,8,North Indian,2022-05-04,False
+U01812,Chennai,T Nagar,mid_range,False,181.45,6,Desserts,2024-06-25,True
+U01813,Delhi,Lajpat Nagar,budget,True,115.94,2,Fast Food,2022-10-03,False
+U01814,Mumbai,Dadar,mid_range,True,327.94,5,Chinese,2024-05-01,False
+U01815,Mumbai,Dadar,budget,True,143.08,3,North Indian,2024-11-14,True
+U01816,Kolkata,Park Street,mid_range,False,247.72,6,Biryani,2024-02-02,False
+U01817,Delhi,Saket,mid_range,False,215.12,7,Street Food,2023-10-15,False
+U01818,Chennai,Velachery,occasional,True,240.12,1,Italian,2023-05-20,False
+U01819,Hyderabad,Jubilee Hills,occasional,False,178.79,1,Biryani,2023-02-04,False
+U01820,Delhi,Saket,mid_range,True,161.27,3,North Indian,2023-01-22,False
+U01821,Mumbai,Powai,mid_range,False,240.0,4,North Indian,2023-11-28,True
+U01822,Mumbai,Powai,mid_range,False,237.66,4,Biryani,2024-04-02,False
+U01823,Hyderabad,Hitech City,occasional,False,149.65,1,Fast Food,2024-01-13,False
+U01824,Chennai,Adyar,mid_range,False,252.91,4,Biryani,2022-08-06,False
+U01825,Hyderabad,Gachibowli,budget,False,102.37,2,South Indian,2023-06-25,False
+U01826,Bangalore,Indiranagar,budget,True,85.06,1,Continental,2024-05-16,False
+U01827,Mumbai,Powai,mid_range,True,164.65,7,Biryani,2023-06-05,False
+U01828,Kolkata,Ballygunge,mid_range,False,300.48,6,Biryani,2023-08-11,False
+U01829,Chennai,Velachery,occasional,True,248.94,1,Street Food,2024-04-24,True
+U01830,Delhi,Dwarka,budget,True,113.39,2,Continental,2023-12-26,False
+U01831,Kolkata,New Town,mid_range,False,157.67,6,Chinese,2023-03-25,False
+U01832,Hyderabad,Jubilee Hills,occasional,False,260.02,1,Biryani,2024-09-07,False
+U01833,Bangalore,HSR Layout,occasional,False,184.35,1,Biryani,2022-06-28,False
+U01834,Chennai,T Nagar,mid_range,False,278.56,6,South Indian,2024-12-26,False
+U01835,Chennai,Adyar,mid_range,True,324.19,4,Italian,2022-05-11,False
+U01836,Hyderabad,Madhapur,mid_range,True,303.95,5,South Indian,2022-01-17,False
+U01837,Mumbai,Bandra,frequent,False,464.85,14,Biryani,2024-09-01,True
+U01838,Delhi,Dwarka,budget,False,116.23,2,Street Food,2022-09-26,False
+U01839,Pune,Wakad,frequent,True,424.79,19,South Indian,2024-03-10,False
+U01840,Delhi,Saket,premium,True,436.78,4,Street Food,2024-06-07,False
+U01841,Delhi,Connaught Place,mid_range,True,337.51,5,Continental,2024-07-29,False
+U01842,Bangalore,Koramangala,budget,True,123.04,2,Street Food,2024-12-21,False
+U01843,Bangalore,Whitefield,mid_range,False,168.73,6,Fast Food,2022-11-18,False
+U01844,Hyderabad,Gachibowli,mid_range,False,299.44,4,Beverages,2024-02-17,False
+U01845,Kolkata,New Town,budget,False,101.44,3,Continental,2022-05-07,False
+U01846,Delhi,Rohini,premium,True,436.18,11,Beverages,2023-03-22,False
+U01847,Mumbai,Thane,frequent,False,277.0,15,Biryani,2024-07-17,False
+U01848,Mumbai,Powai,mid_range,False,337.2,6,Biryani,2023-02-07,False
+U01849,Pune,Kothrud,premium,True,607.21,9,Fast Food,2023-10-10,False
+U01850,Hyderabad,Hitech City,budget,False,104.08,1,North Indian,2023-07-06,False
+U01851,Delhi,Saket,mid_range,True,349.34,6,Beverages,2023-12-09,False
+U01852,Chennai,Adyar,budget,False,125.13,2,South Indian,2024-12-01,False
+U01853,Pune,Koregaon Park,mid_range,False,159.83,3,Fast Food,2022-03-03,False
+U01854,Pune,Wakad,frequent,False,366.25,17,Continental,2023-09-21,False
+U01855,Pune,Hinjewadi,premium,False,668.69,10,Chinese,2024-08-03,False
+U01856,Delhi,Rohini,budget,True,82.34,2,South Indian,2023-06-12,False
+U01857,Chennai,Velachery,mid_range,True,197.41,5,Street Food,2022-03-27,False
+U01858,Bangalore,Koramangala,mid_range,True,164.48,7,Biryani,2023-09-06,False
+U01859,Pune,Koregaon Park,mid_range,False,194.65,7,Continental,2022-12-30,False
+U01860,Hyderabad,Hitech City,occasional,False,196.66,1,Fast Food,2022-06-19,False
+U01861,Chennai,Velachery,occasional,False,219.73,1,Beverages,2024-07-18,False
+U01862,Hyderabad,Madhapur,mid_range,True,151.07,6,Beverages,2023-07-26,False
+U01863,Mumbai,Bandra,mid_range,False,330.61,3,Desserts,2024-10-18,False
+U01864,Bangalore,Koramangala,budget,False,86.73,2,Biryani,2024-06-01,False
+U01865,Kolkata,Salt Lake,budget,False,145.36,2,South Indian,2024-01-29,False
+U01866,Kolkata,Howrah,mid_range,True,255.49,3,Street Food,2022-01-06,False
+U01867,Mumbai,Powai,mid_range,True,150.16,7,Street Food,2023-04-14,False
+U01868,Mumbai,Andheri,premium,True,443.79,9,Biryani,2022-08-05,False
+U01869,Mumbai,Bandra,premium,False,857.31,5,Desserts,2024-09-24,False
+U01870,Hyderabad,Jubilee Hills,budget,False,126.57,1,Desserts,2022-07-11,False
+U01871,Chennai,Anna Nagar,mid_range,False,270.75,3,South Indian,2022-11-10,False
+U01872,Mumbai,Dadar,budget,False,131.52,1,Desserts,2023-07-20,False
+U01873,Bangalore,Whitefield,budget,True,112.44,2,Fast Food,2022-10-16,False
+U01874,Pune,Baner,occasional,False,150.83,1,Desserts,2022-08-18,True
+U01875,Chennai,OMR,budget,False,101.18,2,Beverages,2023-10-19,False
+U01876,Bangalore,Koramangala,mid_range,False,181.66,6,Italian,2022-04-08,False
+U01877,Bangalore,Jayanagar,budget,False,88.97,2,North Indian,2022-03-05,False
+U01878,Bangalore,Indiranagar,occasional,True,164.5,1,Beverages,2023-02-12,False
+U01879,Delhi,Rohini,mid_range,False,202.41,7,Beverages,2024-02-29,False
+U01880,Bangalore,Whitefield,budget,False,142.43,1,Chinese,2023-08-31,False
+U01881,Hyderabad,Gachibowli,mid_range,False,272.77,3,Chinese,2023-04-09,False
+U01882,Pune,Baner,premium,True,595.77,9,Biryani,2023-09-12,True
+U01883,Hyderabad,Jubilee Hills,frequent,True,397.83,15,Chinese,2023-02-05,False
+U01884,Chennai,OMR,budget,True,99.78,2,Biryani,2024-10-22,True
+U01885,Mumbai,Bandra,occasional,False,138.53,1,Beverages,2022-03-02,False
+U01886,Bangalore,Jayanagar,frequent,True,351.17,16,North Indian,2024-01-08,True
+U01887,Mumbai,Dadar,occasional,True,164.81,1,South Indian,2024-09-02,False
+U01888,Delhi,Rohini,mid_range,True,216.84,3,South Indian,2024-05-30,False
+U01889,Hyderabad,Gachibowli,mid_range,False,218.21,7,Italian,2022-07-21,False
+U01890,Kolkata,New Town,mid_range,False,329.46,5,Continental,2022-11-21,False
+U01891,Mumbai,Bandra,premium,False,627.75,4,South Indian,2024-02-25,False
+U01892,Delhi,Connaught Place,mid_range,True,325.84,3,Continental,2022-04-03,False
+U01893,Chennai,T Nagar,premium,True,872.38,7,Desserts,2024-06-07,False
+U01894,Mumbai,Bandra,mid_range,False,218.39,7,Street Food,2024-02-27,False
+U01895,Bangalore,HSR Layout,premium,True,412.2,8,Beverages,2024-03-09,False
+U01896,Chennai,OMR,occasional,True,218.81,1,North Indian,2022-04-20,False
+U01897,Hyderabad,Hitech City,budget,True,110.02,2,Biryani,2024-02-25,False
+U01898,Mumbai,Thane,occasional,False,250.88,1,Continental,2024-01-15,False
+U01899,Delhi,Connaught Place,mid_range,False,337.37,3,Italian,2024-06-28,False
+U01900,Chennai,Velachery,occasional,True,162.04,1,South Indian,2022-02-15,False
+U01901,Bangalore,Whitefield,mid_range,True,157.56,3,Fast Food,2022-01-26,False
+U01902,Mumbai,Powai,mid_range,False,347.27,4,South Indian,2023-02-13,False
+U01903,Chennai,Anna Nagar,occasional,False,140.75,1,Chinese,2022-06-12,False
+U01904,Mumbai,Thane,budget,False,130.36,3,Beverages,2023-09-04,True
+U01905,Chennai,Velachery,occasional,False,166.25,1,Chinese,2024-10-01,False
+U01906,Mumbai,Powai,mid_range,False,194.62,3,South Indian,2023-03-05,False
+U01907,Kolkata,Salt Lake,mid_range,False,170.68,5,Fast Food,2024-07-14,False
+U01908,Delhi,Connaught Place,mid_range,False,195.98,5,Chinese,2022-01-01,False
+U01909,Delhi,Lajpat Nagar,mid_range,False,200.7,7,North Indian,2022-07-04,False
+U01910,Mumbai,Andheri,mid_range,True,331.19,5,Chinese,2022-02-03,False
+U01911,Delhi,Rohini,budget,False,104.81,2,Fast Food,2022-12-26,False
+U01912,Pune,Kothrud,budget,False,108.83,3,Chinese,2024-09-21,False
+U01913,Kolkata,Ballygunge,budget,True,111.61,3,Continental,2022-04-17,False
+U01914,Delhi,Connaught Place,frequent,False,483.23,12,Desserts,2023-10-27,False
+U01915,Bangalore,Whitefield,frequent,False,368.21,9,Biryani,2023-05-10,False
+U01916,Hyderabad,Gachibowli,mid_range,False,190.09,5,South Indian,2024-10-24,False
+U01917,Pune,Koregaon Park,premium,False,503.1,11,Continental,2022-05-15,True
+U01918,Bangalore,Jayanagar,mid_range,False,181.66,5,Biryani,2022-08-21,False
+U01919,Delhi,Dwarka,premium,True,702.85,9,Desserts,2022-02-02,False
+U01920,Delhi,Saket,occasional,False,188.95,1,Continental,2023-04-21,True
+U01921,Hyderabad,Gachibowli,frequent,False,370.5,13,Italian,2022-11-01,False
+U01922,Mumbai,Bandra,mid_range,True,163.45,5,Continental,2024-08-10,True
+U01923,Hyderabad,Banjara Hills,premium,True,810.37,8,North Indian,2023-10-25,False
+U01924,Delhi,Saket,budget,False,138.25,2,Fast Food,2023-11-04,False
+U01925,Chennai,OMR,frequent,True,235.54,8,South Indian,2023-08-06,False
+U01926,Mumbai,Bandra,budget,False,101.23,3,Beverages,2022-04-11,False
+U01927,Bangalore,Koramangala,mid_range,True,308.05,4,Biryani,2023-05-03,False
+U01928,Bangalore,Indiranagar,premium,True,647.83,7,Chinese,2024-12-30,False
+U01929,Hyderabad,Banjara Hills,premium,False,605.26,5,South Indian,2024-07-03,False
+U01930,Mumbai,Bandra,budget,True,89.55,1,Beverages,2024-09-05,False
+U01931,Bangalore,HSR Layout,frequent,False,216.6,10,Desserts,2024-06-20,False
+U01932,Bangalore,Koramangala,budget,True,80.64,2,Continental,2022-04-23,False
+U01933,Bangalore,Whitefield,mid_range,True,213.28,7,Beverages,2022-09-07,False
+U01934,Hyderabad,Madhapur,budget,True,93.56,2,Italian,2022-01-04,True
+U01935,Hyderabad,Madhapur,mid_range,False,221.57,3,South Indian,2022-11-29,False
+U01936,Chennai,Velachery,mid_range,True,317.84,3,South Indian,2022-04-29,False
+U01937,Delhi,Rohini,mid_range,False,338.04,7,South Indian,2023-06-02,False
+U01938,Chennai,OMR,budget,True,117.49,2,Fast Food,2024-01-12,False
+U01939,Bangalore,Indiranagar,budget,True,125.76,2,Desserts,2024-08-15,False
+U01940,Mumbai,Thane,mid_range,False,279.44,3,Fast Food,2024-03-31,False
+U01941,Mumbai,Andheri,premium,True,427.02,7,South Indian,2024-10-24,False
+U01942,Delhi,Connaught Place,occasional,True,218.93,1,Italian,2022-03-01,False
+U01943,Chennai,Velachery,budget,True,87.33,3,Chinese,2022-01-14,False
+U01944,Hyderabad,Hitech City,mid_range,False,192.01,4,Italian,2023-12-26,True
+U01945,Chennai,Adyar,budget,False,102.16,2,Biryani,2022-11-13,True
+U01946,Bangalore,Jayanagar,budget,False,90.53,2,Desserts,2022-10-05,False
+U01947,Bangalore,HSR Layout,premium,True,800.82,7,Continental,2022-12-29,False
+U01948,Mumbai,Powai,mid_range,True,248.12,7,South Indian,2022-10-23,False
+U01949,Delhi,Dwarka,budget,False,129.42,2,Beverages,2023-07-15,False
+U01950,Bangalore,Koramangala,budget,False,98.04,3,Chinese,2023-04-27,False
+U01951,Mumbai,Bandra,budget,False,120.39,1,Continental,2023-07-16,False
+U01952,Delhi,Saket,occasional,True,168.44,1,Street Food,2024-01-07,False
+U01953,Bangalore,Koramangala,frequent,True,213.24,19,Italian,2023-02-28,False
+U01954,Chennai,Adyar,budget,False,89.12,3,Chinese,2022-10-03,False
+U01955,Kolkata,Ballygunge,budget,False,107.63,2,Street Food,2022-07-01,False
+U01956,Kolkata,Howrah,occasional,False,278.52,1,Fast Food,2023-01-18,False
+U01957,Hyderabad,Gachibowli,frequent,False,361.25,8,Street Food,2024-03-23,False
+U01958,Bangalore,Indiranagar,mid_range,False,150.47,4,Continental,2024-04-08,False
+U01959,Hyderabad,Madhapur,budget,False,127.64,1,Desserts,2024-01-01,False
+U01960,Chennai,OMR,budget,False,87.96,2,Italian,2022-09-14,False
+U01961,Mumbai,Bandra,mid_range,False,279.57,6,Chinese,2023-10-06,False
+U01962,Delhi,Lajpat Nagar,mid_range,False,185.69,3,Street Food,2023-09-17,True
+U01963,Pune,Baner,budget,True,145.83,1,Italian,2023-06-15,True
+U01964,Delhi,Dwarka,mid_range,True,320.67,7,Chinese,2023-08-26,False
+U01965,Bangalore,Koramangala,budget,True,134.08,1,Chinese,2023-06-23,False
+U01966,Bangalore,Koramangala,premium,True,810.9,10,Continental,2023-09-12,False
+U01967,Mumbai,Thane,mid_range,False,269.34,4,Italian,2024-02-23,True
+U01968,Delhi,Lajpat Nagar,budget,True,98.38,1,Continental,2022-05-01,False
+U01969,Delhi,Saket,mid_range,True,251.95,5,Street Food,2024-03-31,False
+U01970,Mumbai,Bandra,mid_range,False,221.87,5,Biryani,2022-05-29,False
+U01971,Mumbai,Bandra,frequent,True,309.05,15,Desserts,2022-03-14,False
+U01972,Pune,Wakad,mid_range,True,330.25,3,Biryani,2024-12-04,True
+U01973,Delhi,Lajpat Nagar,budget,False,106.7,1,North Indian,2024-11-13,False
+U01974,Bangalore,Whitefield,premium,False,712.47,9,South Indian,2022-03-08,False
+U01975,Delhi,Dwarka,budget,True,145.23,1,Biryani,2023-05-01,False
+U01976,Kolkata,New Town,occasional,False,291.04,1,Fast Food,2022-07-23,False
+U01977,Delhi,Connaught Place,mid_range,False,270.6,3,Desserts,2023-06-16,True
+U01978,Bangalore,Whitefield,mid_range,False,328.75,5,South Indian,2024-06-28,False
+U01979,Pune,Kothrud,budget,False,126.85,3,Street Food,2024-11-06,False
+U01980,Pune,Hinjewadi,mid_range,True,180.06,3,Continental,2023-11-26,True
+U01981,Mumbai,Dadar,occasional,True,278.2,1,Fast Food,2023-01-23,False
+U01982,Chennai,Anna Nagar,occasional,True,143.22,1,South Indian,2023-10-23,False
+U01983,Bangalore,Whitefield,budget,True,121.88,1,South Indian,2022-12-08,False
+U01984,Bangalore,Jayanagar,budget,True,99.24,1,Chinese,2024-09-23,False
+U01985,Mumbai,Thane,occasional,False,195.66,1,North Indian,2024-08-11,False
+U01986,Mumbai,Andheri,frequent,False,494.8,15,Continental,2023-09-04,False
+U01987,Hyderabad,Madhapur,budget,True,91.31,3,Street Food,2022-12-22,False
+U01988,Bangalore,Indiranagar,mid_range,True,253.25,3,Italian,2022-11-18,False
+U01989,Bangalore,Jayanagar,mid_range,False,334.35,6,Biryani,2022-02-06,True
+U01990,Hyderabad,Madhapur,occasional,False,251.71,1,Desserts,2024-06-12,False
+U01991,Chennai,Anna Nagar,budget,True,94.02,1,North Indian,2023-05-09,False
+U01992,Mumbai,Bandra,budget,True,128.18,1,Chinese,2022-12-23,False
+U01993,Hyderabad,Madhapur,premium,False,619.34,10,Chinese,2023-05-31,False
+U01994,Mumbai,Thane,budget,True,134.88,2,South Indian,2024-06-15,False
+U01995,Chennai,Velachery,mid_range,False,308.44,7,Beverages,2022-05-17,True
+U01996,Hyderabad,Madhapur,mid_range,True,280.96,4,Biryani,2024-07-28,False
+U01997,Kolkata,Park Street,mid_range,False,204.8,4,North Indian,2024-09-09,False
+U01998,Mumbai,Andheri,mid_range,True,173.36,4,South Indian,2024-11-02,False
+U01999,Mumbai,Andheri,mid_range,False,191.9,5,North Indian,2023-03-12,True
+U02000,Delhi,Connaught Place,budget,True,143.59,1,Fast Food,2022-08-26,True

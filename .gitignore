@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ranker_model.txt
+phase3_features/eda_charts/
+phase5_llm/llm_meal_analysis.csv
+phase5_llm/llm_cold_start_profiles.csv
+phase5_llm/model_input_with_llm.csv
+.env
+.env.*
+!.env.example

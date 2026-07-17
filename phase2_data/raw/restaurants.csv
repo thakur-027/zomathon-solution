@@ -1,0 +1,501 @@
+restaurant_id,name,city,zone,cuisine,price_tier,avg_item_price,rating,num_ratings,is_chain,is_pure_veg,avg_prep_time_mins
+R0001,The Food Corner #130,Delhi,Rohini,Street Food,mid,339.0,4.4,192,False,True,42
+R0002,Chai Point,Chennai,Adyar,Biryani,mid,217.0,4.6,3028,True,False,17
+R0003,Spice Garden #136,Pune,Baner,Italian,budget,118.0,5.0,1096,False,False,42
+R0004,The Food Corner #135,Pune,Koregaon Park,Street Food,premium,590.0,3.3,1118,False,True,41
+R0005,Spice Garden #108,Pune,Hinjewadi,Biryani,budget,133.0,4.9,4237,False,False,18
+R0006,Chai Point,Pune,Kothrud,South Indian,budget,116.0,4.2,3390,True,False,31
+R0007,Haldiram's,Bangalore,Whitefield,Beverages,budget,60.0,4.6,4823,True,True,33
+R0008,The Food Corner #118,Mumbai,Andheri,Beverages,budget,129.0,4.3,3485,False,False,25
+R0009,The Food Corner #129,Chennai,Anna Nagar,Fast Food,budget,127.0,4.1,3829,False,False,22
+R0010,McDonald's,Mumbai,Thane,Chinese,budget,106.0,4.4,4527,True,True,26
+R0011,The Food Corner #56,Delhi,Rohini,Italian,budget,141.0,3.6,1015,False,True,32
+R0012,The Food Corner #123,Delhi,Dwarka,North Indian,mid,332.0,4.8,1229,False,False,32
+R0013,The Food Corner #81,Bangalore,Indiranagar,Continental,budget,107.0,3.2,2484,False,False,23
+R0014,Spice Garden #149,Delhi,Lajpat Nagar,Street Food,budget,115.0,3.6,550,False,False,19
+R0015,The Food Corner #130,Mumbai,Andheri,Biryani,budget,150.0,3.1,4604,False,False,35
+R0016,Spice Garden #155,Bangalore,Koramangala,Beverages,budget,87.0,3.5,99,False,False,31
+R0017,The Food Corner #49,Pune,Wakad,Chinese,budget,89.0,3.4,1019,False,False,27
+R0018,Spice Garden #126,Bangalore,HSR Layout,Italian,mid,187.0,3.1,1037,False,False,20
+R0019,The Food Corner #152,Pune,Hinjewadi,Italian,premium,753.0,4.0,4677,False,False,38
+R0020,The Food Corner #9,Mumbai,Powai,Beverages,premium,685.0,3.9,1165,False,True,36
+R0021,Spice Garden #153,Mumbai,Thane,Continental,premium,398.0,3.2,3982,False,False,28
+R0022,Bikanervala,Bangalore,HSR Layout,Chinese,budget,148.0,3.5,1529,True,False,29
+R0023,Domino's,Bangalore,Indiranagar,Desserts,budget,126.0,4.9,4484,True,False,37
+R0024,The Food Corner #154,Hyderabad,Banjara Hills,Continental,budget,137.0,3.2,3174,False,False,28
+R0025,Spice Garden #31,Chennai,Adyar,South Indian,mid,160.0,3.6,3617,False,False,18
+R0026,Spice Garden #81,Chennai,Velachery,Italian,budget,105.0,3.1,1708,False,False,32
+R0027,The Food Corner #27,Kolkata,Salt Lake,Chinese,mid,290.0,3.3,1926,False,False,15
+R0028,The Food Corner #14,Delhi,Saket,Beverages,budget,109.0,4.4,2101,False,False,26
+R0029,Bikanervala,Mumbai,Bandra,Italian,budget,120.0,3.7,4426,True,True,36
+R0030,The Food Corner #39,Bangalore,Koramangala,Continental,premium,718.0,3.9,2865,False,False,23
+R0031,Spice Garden #105,Mumbai,Andheri,North Indian,mid,225.0,3.3,1020,False,False,24
+R0032,Spice Garden #175,Delhi,Rohini,North Indian,mid,320.0,4.4,257,False,False,35
+R0033,The Food Corner #112,Mumbai,Thane,Italian,mid,183.0,4.5,309,False,False,42
+R0034,KFC,Delhi,Connaught Place,Chinese,premium,472.0,3.4,4408,True,False,32
+R0035,Spice Garden #161,Mumbai,Bandra,Chinese,mid,159.0,3.1,832,False,True,31
+R0036,The Food Corner #169,Mumbai,Bandra,Street Food,premium,514.0,3.2,554,False,False,33
+R0037,Burger King,Hyderabad,Jubilee Hills,South Indian,budget,94.0,4.3,1623,True,False,18
+R0038,The Food Corner #177,Hyderabad,Jubilee Hills,Street Food,mid,311.0,3.3,4348,False,False,30
+R0039,Spice Garden #177,Hyderabad,Madhapur,Street Food,mid,281.0,4.0,1809,False,False,21
+R0040,The Food Corner #6,Hyderabad,Jubilee Hills,South Indian,budget,99.0,3.3,3844,False,True,23
+R0041,Spice Garden #67,Mumbai,Powai,Beverages,premium,643.0,3.3,3640,False,False,22
+R0042,The Food Corner #191,Delhi,Dwarka,North Indian,premium,374.0,3.0,4190,False,False,39
+R0043,Spice Garden #190,Mumbai,Andheri,Beverages,mid,186.0,3.6,1451,False,False,21
+R0044,Wow! Momo,Pune,Kothrud,Street Food,budget,116.0,3.2,838,True,False,24
+R0045,The Food Corner #89,Chennai,T Nagar,Chinese,mid,278.0,3.8,3379,False,False,22
+R0046,Domino's,Mumbai,Powai,South Indian,premium,698.0,4.2,2894,True,False,38
+R0047,Spice Garden #164,Delhi,Rohini,Continental,mid,231.0,3.7,4035,False,False,31
+R0048,Spice Garden #124,Kolkata,Salt Lake,Biryani,budget,125.0,4.4,4062,False,False,26
+R0049,The Food Corner #40,Bangalore,Jayanagar,Biryani,mid,287.0,4.5,2142,False,False,28
+R0050,Spice Garden #63,Chennai,Anna Nagar,Fast Food,budget,147.0,4.4,3017,False,False,26
+R0051,Subway,Delhi,Connaught Place,Italian,mid,193.0,4.9,1119,True,False,39
+R0052,The Food Corner #32,Mumbai,Bandra,Desserts,budget,110.0,3.5,1725,False,True,16
+R0053,Spice Garden #127,Chennai,OMR,Desserts,mid,270.0,3.4,2662,False,False,26
+R0054,Spice Garden #73,Hyderabad,Gachibowli,Continental,mid,350.0,4.2,4446,False,True,41
+R0055,Spice Garden #50,Hyderabad,Banjara Hills,Fast Food,budget,78.0,4.2,337,False,False,28
+R0056,Spice Garden #26,Bangalore,Jayanagar,North Indian,budget,107.0,4.0,835,False,False,21
+R0057,Spice Garden #149,Bangalore,Whitefield,Continental,budget,91.0,3.0,2366,False,False,43
+R0058,Spice Garden #197,Chennai,OMR,Street Food,budget,107.0,4.1,2888,False,False,40
+R0059,The Food Corner #117,Delhi,Dwarka,Continental,budget,81.0,4.9,3687,False,True,40
+R0060,The Food Corner #16,Delhi,Saket,Biryani,premium,371.0,3.7,2678,False,False,27
+R0061,Spice Garden #128,Pune,Kothrud,Desserts,mid,265.0,4.9,1315,False,False,35
+R0062,Spice Garden #82,Delhi,Saket,North Indian,premium,501.0,3.7,3033,False,False,18
+R0063,Burger King,Bangalore,Indiranagar,Italian,premium,432.0,3.3,3065,True,False,15
+R0064,Chai Point,Hyderabad,Madhapur,Street Food,budget,89.0,3.8,120,True,False,31
+R0065,The Food Corner #171,Kolkata,Salt Lake,Italian,budget,64.0,4.0,4980,False,True,17
+R0066,Burger King,Bangalore,HSR Layout,Biryani,budget,146.0,4.3,2510,True,False,44
+R0067,Pizza Hut,Bangalore,Whitefield,Fast Food,mid,266.0,4.0,661,True,False,31
+R0068,The Food Corner #192,Pune,Wakad,Italian,mid,313.0,4.1,3573,False,False,22
+R0069,KFC,Chennai,T Nagar,Fast Food,budget,98.0,3.0,3752,True,True,17
+R0070,The Food Corner #57,Chennai,OMR,Street Food,budget,141.0,3.5,2626,False,False,41
+R0071,The Food Corner #65,Bangalore,Jayanagar,Desserts,mid,247.0,3.6,240,False,False,24
+R0072,The Food Corner #41,Delhi,Lajpat Nagar,Chinese,mid,265.0,5.0,1797,False,True,16
+R0073,Bikanervala,Hyderabad,Hitech City,Continental,premium,571.0,3.6,2175,True,False,36
+R0074,Spice Garden #158,Pune,Hinjewadi,Beverages,budget,126.0,4.8,1678,False,False,18
+R0075,The Food Corner #56,Pune,Baner,North Indian,premium,605.0,3.6,3422,False,False,43
+R0076,Spice Garden #12,Mumbai,Andheri,South Indian,budget,84.0,3.2,3046,False,False,43
+R0077,Spice Garden #47,Bangalore,Whitefield,South Indian,mid,179.0,3.5,66,False,True,28
+R0078,Haldiram's,Bangalore,HSR Layout,Street Food,premium,623.0,3.5,4960,True,False,25
+R0079,The Food Corner #60,Kolkata,Howrah,Continental,premium,570.0,5.0,1647,False,False,28
+R0080,Bikanervala,Hyderabad,Gachibowli,Continental,budget,69.0,4.3,1116,True,False,27
+R0081,Spice Garden #124,Delhi,Rohini,Continental,budget,96.0,4.9,3189,False,False,41
+R0082,Spice Garden #111,Mumbai,Powai,North Indian,mid,253.0,4.7,3501,False,True,43
+R0083,The Food Corner #100,Bangalore,Indiranagar,Desserts,budget,134.0,4.2,2309,False,False,18
+R0084,Spice Garden #181,Mumbai,Dadar,Chinese,mid,165.0,4.4,2300,False,False,16
+R0085,Spice Garden #25,Pune,Baner,Continental,premium,507.0,4.2,2823,False,False,16
+R0086,Spice Garden #26,Chennai,Anna Nagar,Beverages,budget,134.0,4.3,4254,False,False,25
+R0087,Spice Garden #145,Bangalore,Jayanagar,Chinese,mid,280.0,3.5,333,False,False,36
+R0088,The Food Corner #55,Bangalore,HSR Layout,North Indian,budget,86.0,3.8,3038,False,False,19
+R0089,The Food Corner #107,Pune,Kothrud,Continental,premium,730.0,4.2,4882,False,False,23
+R0090,The Food Corner #136,Delhi,Lajpat Nagar,Street Food,premium,572.0,3.1,652,False,False,34
+R0091,The Food Corner #146,Delhi,Saket,North Indian,mid,250.0,4.0,1413,False,False,35
+R0092,The Food Corner #42,Kolkata,Salt Lake,Chinese,budget,148.0,4.7,3402,False,True,31
+R0093,Spice Garden #147,Chennai,Adyar,Fast Food,mid,339.0,4.0,4125,False,False,26
+R0094,Wow! Momo,Chennai,T Nagar,Fast Food,mid,222.0,4.1,4636,True,True,42
+R0095,Spice Garden #5,Mumbai,Thane,Street Food,budget,73.0,3.4,850,False,False,32
+R0096,Domino's,Mumbai,Powai,Italian,premium,497.0,4.6,809,True,True,17
+R0097,The Food Corner #22,Mumbai,Powai,South Indian,premium,364.0,3.7,1543,False,True,19
+R0098,Spice Garden #69,Delhi,Dwarka,Street Food,mid,154.0,4.9,4850,False,True,42
+R0099,Spice Garden #136,Chennai,OMR,Fast Food,mid,229.0,5.0,3984,False,False,35
+R0100,The Food Corner #174,Delhi,Lajpat Nagar,Street Food,budget,145.0,4.8,864,False,False,34
+R0101,Spice Garden #188,Hyderabad,Hitech City,Biryani,mid,324.0,3.2,4948,False,False,28
+R0102,The Food Corner #193,Delhi,Lajpat Nagar,Fast Food,budget,106.0,3.7,422,False,True,30
+R0103,The Food Corner #8,Delhi,Saket,Desserts,budget,111.0,4.9,3048,False,False,40
+R0104,Spice Garden #188,Kolkata,Salt Lake,Continental,budget,61.0,4.6,2941,False,False,33
+R0105,Spice Garden #24,Delhi,Saket,Desserts,budget,79.0,4.8,3841,False,False,23
+R0106,Haldiram's,Delhi,Connaught Place,Italian,budget,62.0,4.1,3369,True,False,31
+R0107,Spice Garden #27,Delhi,Rohini,Street Food,mid,301.0,4.0,2239,False,False,36
+R0108,The Food Corner #93,Mumbai,Dadar,Biryani,mid,179.0,3.2,2499,False,False,21
+R0109,The Food Corner #89,Bangalore,Koramangala,Fast Food,mid,324.0,4.7,4017,False,False,24
+R0110,Spice Garden #100,Delhi,Dwarka,Continental,budget,118.0,4.5,872,False,True,18
+R0111,Spice Garden #186,Hyderabad,Banjara Hills,Biryani,budget,81.0,3.1,271,False,False,24
+R0112,The Food Corner #85,Chennai,T Nagar,Biryani,mid,182.0,3.4,3987,False,False,17
+R0113,Spice Garden #148,Bangalore,Whitefield,Desserts,mid,276.0,4.1,1437,False,True,38
+R0114,Spice Garden #38,Mumbai,Powai,South Indian,premium,755.0,4.4,3938,False,False,23
+R0115,Spice Garden #198,Hyderabad,Madhapur,Chinese,budget,125.0,3.3,2210,False,False,27
+R0116,Wow! Momo,Mumbai,Thane,South Indian,mid,220.0,3.5,3320,True,False,15
+R0117,The Food Corner #32,Hyderabad,Jubilee Hills,Street Food,budget,113.0,3.4,1975,False,False,29
+R0118,Wow! Momo,Hyderabad,Jubilee Hills,Street Food,mid,212.0,3.4,4743,True,True,29
+R0119,Subway,Mumbai,Bandra,South Indian,premium,800.0,4.8,3001,True,False,25
+R0120,Chai Point,Chennai,OMR,Chinese,premium,687.0,4.4,4630,True,True,42
+R0121,Chai Point,Pune,Hinjewadi,Fast Food,premium,626.0,4.5,4043,True,False,24
+R0122,Spice Garden #61,Chennai,Anna Nagar,Biryani,budget,98.0,4.6,2648,False,True,39
+R0123,Spice Garden #66,Delhi,Rohini,Biryani,mid,274.0,3.7,1716,False,False,21
+R0124,Spice Garden #50,Bangalore,Indiranagar,South Indian,mid,218.0,4.5,3131,False,False,15
+R0125,The Food Corner #3,Pune,Wakad,South Indian,mid,156.0,5.0,3935,False,False,21
+R0126,Spice Garden #192,Delhi,Saket,North Indian,budget,96.0,4.4,4807,False,True,19
+R0127,Spice Garden #174,Chennai,T Nagar,Chinese,premium,769.0,3.8,2164,False,True,40
+R0128,The Food Corner #87,Mumbai,Bandra,Desserts,premium,632.0,4.4,2802,False,False,43
+R0129,Spice Garden #188,Mumbai,Bandra,Biryani,budget,68.0,4.8,3218,False,False,43
+R0130,The Food Corner #188,Chennai,T Nagar,Desserts,budget,140.0,3.3,1604,False,False,37
+R0131,KFC,Chennai,Adyar,Continental,budget,84.0,3.5,1130,True,False,30
+R0132,Pizza Hut,Chennai,Anna Nagar,Fast Food,mid,199.0,4.8,3984,True,True,42
+R0133,The Food Corner #110,Kolkata,Howrah,South Indian,budget,87.0,4.9,137,False,True,39
+R0134,The Food Corner #62,Mumbai,Bandra,North Indian,premium,610.0,4.0,2750,False,True,22
+R0135,Haldiram's,Delhi,Rohini,North Indian,mid,259.0,3.7,2753,True,False,36
+R0136,Wow! Momo,Pune,Kothrud,Street Food,mid,248.0,3.6,3009,True,False,16
+R0137,McDonald's,Mumbai,Thane,Continental,mid,294.0,4.0,2468,True,False,22
+R0138,Spice Garden #24,Hyderabad,Gachibowli,Fast Food,budget,88.0,4.9,2472,False,False,42
+R0139,Spice Garden #20,Bangalore,Whitefield,Fast Food,premium,702.0,3.3,4197,False,True,28
+R0140,Spice Garden #71,Mumbai,Powai,Italian,mid,185.0,3.8,1797,False,True,18
+R0141,Burger King,Delhi,Rohini,South Indian,premium,702.0,4.8,90,True,False,38
+R0142,The Food Corner #44,Bangalore,Jayanagar,Street Food,mid,283.0,3.7,2188,False,False,29
+R0143,Wow! Momo,Pune,Wakad,Chinese,mid,287.0,4.5,88,True,False,21
+R0144,The Food Corner #35,Hyderabad,Gachibowli,Chinese,budget,103.0,3.8,3134,False,True,34
+R0145,KFC,Hyderabad,Gachibowli,Beverages,mid,283.0,4.6,3729,True,True,22
+R0146,The Food Corner #112,Bangalore,Whitefield,Fast Food,mid,166.0,5.0,2201,False,False,41
+R0147,The Food Corner #65,Delhi,Dwarka,Desserts,mid,320.0,3.8,3987,False,True,25
+R0148,Spice Garden #72,Mumbai,Powai,Continental,mid,161.0,4.7,2140,False,True,42
+R0149,Spice Garden #168,Delhi,Rohini,North Indian,budget,73.0,5.0,258,False,False,41
+R0150,The Food Corner #115,Mumbai,Andheri,South Indian,premium,610.0,5.0,649,False,True,16
+R0151,Burger King,Mumbai,Powai,Continental,premium,683.0,3.9,654,True,True,23
+R0152,Spice Garden #84,Bangalore,Whitefield,Biryani,budget,67.0,4.0,2573,False,False,20
+R0153,The Food Corner #3,Delhi,Lajpat Nagar,Italian,premium,764.0,3.6,3759,False,False,37
+R0154,The Food Corner #117,Mumbai,Dadar,North Indian,budget,148.0,3.6,2206,False,False,40
+R0155,The Food Corner #180,Bangalore,Whitefield,Continental,mid,271.0,4.0,263,False,False,15
+R0156,Spice Garden #154,Bangalore,HSR Layout,Continental,budget,103.0,3.4,1626,False,False,17
+R0157,The Food Corner #105,Mumbai,Andheri,Italian,premium,684.0,4.4,2868,False,True,44
+R0158,Burger King,Kolkata,Howrah,Continental,budget,90.0,4.1,2174,True,False,24
+R0159,The Food Corner #61,Mumbai,Bandra,Street Food,mid,249.0,4.8,318,False,True,19
+R0160,Wow! Momo,Pune,Kothrud,North Indian,budget,142.0,4.6,2458,True,True,26
+R0161,The Food Corner #74,Mumbai,Andheri,Biryani,budget,146.0,3.6,2627,False,False,37
+R0162,The Food Corner #52,Pune,Wakad,North Indian,mid,335.0,4.0,4828,False,False,15
+R0163,Chai Point,Mumbai,Thane,Italian,budget,84.0,4.5,4307,True,False,23
+R0164,Spice Garden #154,Chennai,OMR,Biryani,mid,196.0,3.4,4610,False,False,35
+R0165,The Food Corner #45,Delhi,Dwarka,Chinese,premium,484.0,3.1,872,False,False,27
+R0166,Spice Garden #9,Chennai,Adyar,South Indian,mid,238.0,4.7,3685,False,False,42
+R0167,Burger King,Delhi,Saket,Fast Food,premium,491.0,3.3,2645,True,False,33
+R0168,Spice Garden #170,Mumbai,Bandra,Chinese,budget,94.0,4.8,4003,False,False,21
+R0169,The Food Corner #146,Chennai,Anna Nagar,Street Food,budget,116.0,4.8,3881,False,False,40
+R0170,Spice Garden #57,Mumbai,Dadar,North Indian,mid,303.0,3.9,2149,False,True,30
+R0171,The Food Corner #15,Pune,Kothrud,Biryani,budget,126.0,4.6,4633,False,False,22
+R0172,Chai Point,Mumbai,Powai,South Indian,premium,716.0,3.7,3652,True,False,40
+R0173,Spice Garden #158,Bangalore,Jayanagar,South Indian,budget,63.0,4.7,3517,False,True,40
+R0174,The Food Corner #173,Hyderabad,Banjara Hills,Italian,premium,371.0,4.6,700,False,False,33
+R0175,The Food Corner #154,Delhi,Rohini,Italian,budget,131.0,3.2,1684,False,False,21
+R0176,McDonald's,Mumbai,Thane,Italian,mid,257.0,4.2,4864,True,True,37
+R0177,The Food Corner #107,Chennai,Velachery,Desserts,budget,112.0,4.3,1217,False,True,18
+R0178,The Food Corner #44,Chennai,Velachery,North Indian,budget,65.0,3.0,4126,False,False,24
+R0179,Spice Garden #136,Pune,Baner,Beverages,mid,201.0,5.0,248,False,False,39
+R0180,The Food Corner #137,Delhi,Rohini,Street Food,budget,117.0,3.8,1405,False,False,15
+R0181,The Food Corner #199,Bangalore,HSR Layout,Continental,mid,322.0,4.0,3555,False,True,31
+R0182,The Food Corner #98,Delhi,Lajpat Nagar,Street Food,mid,333.0,3.4,852,False,True,35
+R0183,Chai Point,Delhi,Saket,Fast Food,budget,105.0,4.2,750,True,False,27
+R0184,Spice Garden #117,Chennai,Anna Nagar,Italian,premium,595.0,4.6,552,False,False,33
+R0185,The Food Corner #171,Delhi,Lajpat Nagar,Fast Food,mid,317.0,4.2,4614,False,False,40
+R0186,Spice Garden #27,Bangalore,Jayanagar,Street Food,mid,258.0,4.6,2463,False,False,27
+R0187,Chai Point,Delhi,Rohini,Desserts,mid,253.0,4.5,4769,True,False,23
+R0188,The Food Corner #47,Hyderabad,Banjara Hills,Fast Food,mid,331.0,3.5,3017,False,True,19
+R0189,Spice Garden #88,Pune,Hinjewadi,North Indian,budget,131.0,3.9,2920,False,True,37
+R0190,Wow! Momo,Hyderabad,Jubilee Hills,Biryani,budget,142.0,3.3,4808,True,False,15
+R0191,The Food Corner #124,Bangalore,Jayanagar,Beverages,mid,194.0,3.1,4896,False,False,16
+R0192,The Food Corner #171,Chennai,T Nagar,Beverages,budget,107.0,3.1,3517,False,False,25
+R0193,Chai Point,Hyderabad,Jubilee Hills,Street Food,budget,136.0,4.9,1468,True,False,42
+R0194,The Food Corner #198,Mumbai,Andheri,Continental,mid,172.0,5.0,1148,False,False,18
+R0195,Spice Garden #195,Mumbai,Andheri,Italian,mid,309.0,3.2,3219,False,True,23
+R0196,Spice Garden #76,Mumbai,Powai,Street Food,budget,76.0,3.7,432,False,True,19
+R0197,Pizza Hut,Bangalore,Indiranagar,Fast Food,budget,133.0,3.2,3990,True,True,19
+R0198,Spice Garden #17,Chennai,Anna Nagar,Desserts,budget,115.0,4.7,1443,False,True,39
+R0199,The Food Corner #95,Delhi,Connaught Place,Biryani,budget,77.0,4.0,3377,False,False,22
+R0200,The Food Corner #160,Delhi,Lajpat Nagar,Beverages,budget,103.0,4.2,1702,False,True,16
+R0201,Spice Garden #57,Pune,Koregaon Park,Chinese,budget,121.0,4.1,4321,False,True,21
+R0202,Spice Garden #98,Pune,Kothrud,Beverages,premium,635.0,4.4,4373,False,False,31
+R0203,McDonald's,Hyderabad,Madhapur,Biryani,mid,235.0,3.6,2444,True,False,40
+R0204,The Food Corner #27,Delhi,Rohini,North Indian,budget,141.0,3.3,2088,False,False,41
+R0205,Spice Garden #161,Mumbai,Dadar,Fast Food,budget,107.0,3.0,2035,False,False,25
+R0206,The Food Corner #16,Mumbai,Andheri,South Indian,mid,251.0,3.9,1312,False,False,29
+R0207,Spice Garden #78,Mumbai,Thane,Desserts,budget,66.0,4.8,1761,False,False,39
+R0208,The Food Corner #13,Delhi,Dwarka,Continental,mid,334.0,3.6,399,False,True,17
+R0209,The Food Corner #155,Bangalore,HSR Layout,Chinese,premium,430.0,3.4,4076,False,True,27
+R0210,Spice Garden #105,Mumbai,Powai,Street Food,mid,256.0,4.9,490,False,False,32
+R0211,The Food Corner #12,Mumbai,Andheri,Italian,budget,132.0,3.2,2858,False,False,34
+R0212,Wow! Momo,Mumbai,Andheri,Italian,mid,193.0,3.1,2612,True,False,34
+R0213,Chai Point,Hyderabad,Madhapur,Italian,premium,587.0,4.8,3202,True,True,17
+R0214,The Food Corner #43,Hyderabad,Madhapur,Chinese,mid,198.0,4.4,1434,False,False,16
+R0215,The Food Corner #178,Bangalore,HSR Layout,Biryani,mid,302.0,3.8,337,False,False,19
+R0216,The Food Corner #174,Delhi,Connaught Place,Continental,budget,111.0,4.5,2105,False,False,34
+R0217,Spice Garden #32,Delhi,Connaught Place,Beverages,budget,137.0,4.5,1047,False,True,19
+R0218,The Food Corner #163,Mumbai,Thane,Street Food,mid,329.0,3.1,2383,False,False,27
+R0219,Spice Garden #71,Delhi,Saket,South Indian,premium,642.0,4.4,1472,False,False,42
+R0220,The Food Corner #67,Pune,Hinjewadi,Continental,mid,295.0,4.3,123,False,False,42
+R0221,Pizza Hut,Kolkata,New Town,Street Food,mid,260.0,4.9,1512,True,True,22
+R0222,The Food Corner #89,Hyderabad,Jubilee Hills,South Indian,budget,95.0,4.9,3244,False,False,41
+R0223,Spice Garden #167,Pune,Hinjewadi,Desserts,budget,118.0,3.8,2255,False,True,30
+R0224,The Food Corner #141,Hyderabad,Hitech City,Biryani,mid,332.0,4.2,479,False,True,32
+R0225,Bikanervala,Mumbai,Bandra,Desserts,budget,98.0,3.3,1521,True,False,39
+R0226,Wow! Momo,Kolkata,Park Street,Biryani,mid,213.0,3.1,3531,True,False,40
+R0227,Spice Garden #193,Mumbai,Andheri,Fast Food,budget,95.0,3.9,3230,False,False,30
+R0228,Spice Garden #161,Hyderabad,Madhapur,Beverages,mid,237.0,4.4,4991,False,False,15
+R0229,Spice Garden #89,Delhi,Lajpat Nagar,North Indian,mid,165.0,4.1,1780,False,True,22
+R0230,The Food Corner #37,Delhi,Lajpat Nagar,North Indian,mid,250.0,3.9,85,False,False,42
+R0231,The Food Corner #74,Hyderabad,Banjara Hills,Biryani,budget,104.0,4.6,1070,False,False,35
+R0232,Spice Garden #176,Bangalore,Jayanagar,North Indian,mid,268.0,4.6,2047,False,True,16
+R0233,The Food Corner #81,Delhi,Dwarka,Chinese,premium,513.0,4.5,2810,False,False,38
+R0234,Burger King,Delhi,Saket,Street Food,mid,273.0,3.2,3167,True,False,19
+R0235,The Food Corner #148,Delhi,Saket,Continental,budget,139.0,4.6,2585,False,False,40
+R0236,The Food Corner #197,Kolkata,New Town,Desserts,budget,146.0,4.8,4764,False,False,29
+R0237,The Food Corner #171,Chennai,Adyar,Fast Food,budget,113.0,3.1,4315,False,False,28
+R0238,The Food Corner #150,Bangalore,Koramangala,Beverages,budget,64.0,3.8,195,False,True,40
+R0239,Subway,Mumbai,Dadar,Beverages,mid,344.0,5.0,4565,True,False,43
+R0240,The Food Corner #114,Chennai,Adyar,Fast Food,mid,291.0,4.2,4718,False,False,44
+R0241,The Food Corner #49,Mumbai,Powai,Italian,budget,90.0,4.0,1076,False,False,17
+R0242,Spice Garden #99,Mumbai,Thane,Italian,budget,73.0,3.4,3715,False,False,21
+R0243,Spice Garden #127,Delhi,Lajpat Nagar,Italian,budget,73.0,4.1,1336,False,False,18
+R0244,Spice Garden #143,Pune,Kothrud,Fast Food,premium,425.0,3.9,2896,False,False,25
+R0245,The Food Corner #87,Mumbai,Dadar,North Indian,mid,159.0,3.3,370,False,False,41
+R0246,Spice Garden #153,Mumbai,Andheri,South Indian,mid,330.0,3.9,4145,False,False,40
+R0247,Spice Garden #116,Bangalore,Koramangala,Fast Food,budget,109.0,3.3,2343,False,False,26
+R0248,Spice Garden #153,Delhi,Connaught Place,North Indian,mid,290.0,4.5,1662,False,True,29
+R0249,Subway,Bangalore,HSR Layout,Continental,budget,135.0,4.9,526,True,False,20
+R0250,Pizza Hut,Bangalore,HSR Layout,Fast Food,budget,131.0,3.9,3214,True,False,40
+R0251,The Food Corner #155,Bangalore,HSR Layout,Desserts,mid,327.0,4.3,1876,False,True,38
+R0252,Bikanervala,Mumbai,Thane,North Indian,mid,343.0,3.9,832,True,True,15
+R0253,Burger King,Mumbai,Powai,Beverages,budget,100.0,3.3,4678,True,True,32
+R0254,The Food Corner #47,Chennai,T Nagar,Biryani,budget,146.0,4.9,1997,False,False,28
+R0255,Burger King,Pune,Koregaon Park,Biryani,budget,125.0,3.3,3381,True,False,43
+R0256,Wow! Momo,Delhi,Lajpat Nagar,Fast Food,budget,66.0,3.2,4724,True,False,38
+R0257,The Food Corner #171,Mumbai,Andheri,Desserts,mid,286.0,3.9,1643,False,False,21
+R0258,Spice Garden #141,Mumbai,Powai,Desserts,premium,659.0,4.3,1797,False,False,24
+R0259,Spice Garden #148,Hyderabad,Hitech City,Biryani,budget,142.0,3.7,2083,False,False,23
+R0260,Spice Garden #63,Hyderabad,Gachibowli,North Indian,budget,94.0,3.4,306,False,False,16
+R0261,The Food Corner #95,Delhi,Dwarka,Continental,budget,113.0,4.6,3041,False,True,22
+R0262,The Food Corner #148,Hyderabad,Jubilee Hills,Fast Food,mid,152.0,3.7,1467,False,False,36
+R0263,The Food Corner #80,Hyderabad,Madhapur,Continental,budget,90.0,3.4,4164,False,False,15
+R0264,Spice Garden #195,Kolkata,Park Street,Italian,mid,162.0,3.7,159,False,False,34
+R0265,The Food Corner #4,Mumbai,Bandra,South Indian,budget,107.0,3.4,2602,False,False,44
+R0266,Spice Garden #177,Mumbai,Bandra,Chinese,mid,313.0,4.0,1107,False,False,16
+R0267,The Food Corner #197,Mumbai,Thane,Italian,premium,443.0,4.3,4400,False,False,21
+R0268,KFC,Pune,Baner,Street Food,premium,587.0,4.6,4783,True,True,39
+R0269,Spice Garden #149,Chennai,Velachery,Beverages,premium,442.0,3.5,2092,False,False,30
+R0270,McDonald's,Bangalore,Koramangala,Chinese,mid,174.0,3.3,2231,True,False,36
+R0271,Spice Garden #148,Mumbai,Andheri,Beverages,premium,580.0,3.0,4542,False,False,18
+R0272,The Food Corner #167,Delhi,Saket,Fast Food,budget,67.0,3.5,3608,False,False,35
+R0273,Spice Garden #41,Delhi,Dwarka,Italian,budget,113.0,3.0,1671,False,False,41
+R0274,Burger King,Bangalore,Jayanagar,Desserts,budget,63.0,3.7,3708,True,False,31
+R0275,The Food Corner #28,Delhi,Connaught Place,Biryani,mid,171.0,3.3,2744,False,True,43
+R0276,Subway,Mumbai,Bandra,Biryani,premium,597.0,4.2,3934,True,True,18
+R0277,The Food Corner #184,Chennai,Velachery,Continental,budget,113.0,3.8,4830,False,False,43
+R0278,The Food Corner #47,Delhi,Connaught Place,Chinese,mid,156.0,3.2,3334,False,False,40
+R0279,Pizza Hut,Bangalore,Indiranagar,Street Food,mid,265.0,3.8,2216,True,True,17
+R0280,Spice Garden #104,Mumbai,Thane,Italian,premium,727.0,3.4,3936,False,False,23
+R0281,Wow! Momo,Chennai,Anna Nagar,Biryani,mid,294.0,4.4,4447,True,False,36
+R0282,Spice Garden #139,Bangalore,HSR Layout,North Indian,premium,409.0,3.7,4372,False,False,29
+R0283,Wow! Momo,Pune,Koregaon Park,Desserts,budget,113.0,3.3,4501,True,True,34
+R0284,Subway,Bangalore,Whitefield,Beverages,budget,121.0,3.7,4846,True,False,17
+R0285,KFC,Kolkata,Salt Lake,Fast Food,mid,157.0,3.4,3442,True,False,26
+R0286,Domino's,Pune,Hinjewadi,Continental,budget,137.0,4.6,2320,True,False,29
+R0287,The Food Corner #117,Bangalore,Indiranagar,Chinese,budget,142.0,5.0,3761,False,False,43
+R0288,The Food Corner #181,Kolkata,Howrah,South Indian,mid,320.0,3.1,1636,False,True,34
+R0289,The Food Corner #102,Delhi,Rohini,Biryani,mid,315.0,4.4,1264,False,True,22
+R0290,Pizza Hut,Delhi,Dwarka,Continental,mid,299.0,3.5,1695,True,True,26
+R0291,Spice Garden #125,Mumbai,Dadar,North Indian,budget,117.0,3.1,1400,False,False,35
+R0292,Spice Garden #26,Bangalore,HSR Layout,North Indian,mid,286.0,3.0,3248,False,False,27
+R0293,The Food Corner #144,Hyderabad,Banjara Hills,Street Food,budget,133.0,4.8,414,False,False,29
+R0294,The Food Corner #73,Chennai,T Nagar,Chinese,budget,120.0,3.7,3989,False,True,25
+R0295,Spice Garden #116,Mumbai,Thane,Street Food,mid,216.0,5.0,4664,False,False,31
+R0296,Pizza Hut,Bangalore,Whitefield,Chinese,budget,94.0,3.9,3249,True,False,35
+R0297,Spice Garden #27,Mumbai,Andheri,Biryani,budget,141.0,3.4,1676,False,True,38
+R0298,Spice Garden #52,Hyderabad,Jubilee Hills,Italian,mid,153.0,4.6,3251,False,False,41
+R0299,The Food Corner #13,Mumbai,Powai,Fast Food,budget,123.0,4.9,1695,False,True,26
+R0300,Burger King,Pune,Kothrud,Beverages,premium,780.0,4.6,1031,True,False,34
+R0301,Bikanervala,Delhi,Connaught Place,Beverages,mid,291.0,4.5,2445,True,False,44
+R0302,Spice Garden #52,Delhi,Saket,Italian,premium,797.0,3.7,2086,False,False,32
+R0303,KFC,Pune,Hinjewadi,North Indian,budget,122.0,3.1,3602,True,True,43
+R0304,McDonald's,Bangalore,Jayanagar,Desserts,mid,157.0,3.4,971,True,False,30
+R0305,The Food Corner #83,Mumbai,Thane,Fast Food,budget,134.0,3.9,3796,False,True,17
+R0306,Spice Garden #81,Bangalore,HSR Layout,Biryani,mid,207.0,4.9,3708,False,False,44
+R0307,The Food Corner #10,Mumbai,Dadar,Italian,budget,100.0,4.4,3832,False,False,41
+R0308,Bikanervala,Kolkata,Park Street,Fast Food,budget,88.0,4.7,4045,True,True,23
+R0309,The Food Corner #46,Bangalore,Whitefield,Beverages,premium,471.0,3.6,4506,False,False,44
+R0310,Pizza Hut,Delhi,Rohini,Fast Food,budget,99.0,4.4,4327,True,False,21
+R0311,The Food Corner #189,Bangalore,HSR Layout,Chinese,budget,94.0,4.7,1524,False,False,33
+R0312,Spice Garden #148,Mumbai,Bandra,Continental,budget,117.0,4.0,4708,False,False,19
+R0313,Spice Garden #165,Chennai,Velachery,Chinese,mid,313.0,3.9,4459,False,False,33
+R0314,Spice Garden #147,Pune,Hinjewadi,Italian,budget,87.0,4.4,2118,False,False,24
+R0315,The Food Corner #132,Pune,Baner,Biryani,budget,79.0,4.1,3817,False,False,34
+R0316,McDonald's,Delhi,Rohini,South Indian,budget,120.0,5.0,2902,True,False,26
+R0317,Domino's,Delhi,Lajpat Nagar,Street Food,mid,284.0,3.9,452,True,False,22
+R0318,The Food Corner #135,Mumbai,Thane,Street Food,mid,330.0,3.4,1197,False,False,44
+R0319,Chai Point,Hyderabad,Hitech City,South Indian,budget,61.0,3.9,662,True,True,17
+R0320,Spice Garden #119,Bangalore,Koramangala,Fast Food,budget,137.0,3.5,1926,False,False,33
+R0321,Wow! Momo,Bangalore,Jayanagar,South Indian,budget,107.0,4.1,1663,True,False,41
+R0322,The Food Corner #180,Pune,Wakad,Street Food,budget,116.0,3.3,3067,False,False,25
+R0323,The Food Corner #172,Mumbai,Bandra,North Indian,budget,68.0,4.9,4838,False,False,22
+R0324,Spice Garden #20,Mumbai,Andheri,Beverages,mid,237.0,4.7,1784,False,False,40
+R0325,Spice Garden #90,Mumbai,Andheri,Street Food,mid,195.0,3.3,3598,False,False,27
+R0326,Haldiram's,Delhi,Saket,Street Food,premium,464.0,3.3,2969,True,False,40
+R0327,Spice Garden #91,Mumbai,Bandra,North Indian,budget,105.0,4.0,4985,False,True,37
+R0328,Spice Garden #19,Bangalore,HSR Layout,Street Food,mid,312.0,4.5,2200,False,False,37
+R0329,Haldiram's,Delhi,Lajpat Nagar,Fast Food,mid,299.0,3.4,2430,True,False,24
+R0330,The Food Corner #55,Mumbai,Powai,North Indian,mid,268.0,3.1,1860,False,True,32
+R0331,Spice Garden #96,Chennai,Velachery,Beverages,premium,593.0,4.1,3251,False,True,26
+R0332,The Food Corner #185,Mumbai,Dadar,Biryani,budget,98.0,4.4,802,False,False,21
+R0333,Spice Garden #149,Hyderabad,Jubilee Hills,Chinese,budget,148.0,3.5,2522,False,False,40
+R0334,Spice Garden #20,Delhi,Connaught Place,Biryani,mid,262.0,4.5,1391,False,True,25
+R0335,Spice Garden #5,Bangalore,Koramangala,North Indian,budget,83.0,4.9,554,False,False,24
+R0336,Subway,Kolkata,New Town,North Indian,budget,81.0,3.3,3532,True,False,17
+R0337,The Food Corner #92,Mumbai,Powai,Italian,budget,115.0,4.0,2019,False,False,44
+R0338,The Food Corner #110,Bangalore,Whitefield,Continental,budget,107.0,3.1,4099,False,False,21
+R0339,Spice Garden #55,Pune,Wakad,Continental,mid,152.0,3.4,4197,False,False,43
+R0340,Spice Garden #172,Bangalore,Koramangala,North Indian,budget,135.0,3.2,3687,False,False,18
+R0341,Spice Garden #146,Delhi,Lajpat Nagar,Chinese,budget,123.0,3.8,2472,False,True,43
+R0342,The Food Corner #34,Delhi,Connaught Place,Italian,mid,282.0,4.6,4534,False,False,22
+R0343,The Food Corner #130,Hyderabad,Banjara Hills,South Indian,mid,164.0,4.2,723,False,False,22
+R0344,The Food Corner #80,Pune,Baner,Desserts,premium,513.0,3.4,642,False,True,20
+R0345,Wow! Momo,Mumbai,Powai,Chinese,budget,144.0,3.1,2829,True,False,27
+R0346,The Food Corner #54,Mumbai,Thane,North Indian,premium,738.0,4.1,3718,False,True,26
+R0347,Spice Garden #69,Delhi,Dwarka,North Indian,mid,207.0,3.3,2602,False,False,17
+R0348,The Food Corner #60,Delhi,Dwarka,Chinese,mid,181.0,3.7,4228,False,False,20
+R0349,Bikanervala,Delhi,Rohini,Fast Food,budget,100.0,4.0,3188,True,False,36
+R0350,Spice Garden #140,Delhi,Connaught Place,Italian,mid,221.0,4.8,4559,False,True,33
+R0351,Spice Garden #99,Mumbai,Andheri,North Indian,premium,657.0,3.2,2550,False,True,25
+R0352,Spice Garden #58,Mumbai,Andheri,Desserts,premium,785.0,4.3,2843,False,False,18
+R0353,Burger King,Kolkata,New Town,South Indian,budget,93.0,3.0,4343,True,False,29
+R0354,Spice Garden #84,Mumbai,Thane,Biryani,budget,66.0,4.3,1762,False,False,16
+R0355,Bikanervala,Mumbai,Andheri,Beverages,mid,330.0,4.1,2395,True,False,29
+R0356,The Food Corner #133,Delhi,Dwarka,Desserts,premium,367.0,4.6,349,False,True,31
+R0357,Subway,Kolkata,Howrah,Beverages,budget,146.0,4.1,4274,True,False,16
+R0358,The Food Corner #169,Chennai,Velachery,Street Food,mid,283.0,3.7,1956,False,False,21
+R0359,KFC,Chennai,Adyar,Fast Food,mid,338.0,3.5,2535,True,True,40
+R0360,McDonald's,Mumbai,Andheri,Desserts,mid,190.0,3.2,256,True,False,30
+R0361,Burger King,Pune,Wakad,Continental,mid,158.0,4.1,343,True,False,19
+R0362,Spice Garden #152,Delhi,Rohini,Fast Food,budget,104.0,4.8,1923,False,True,30
+R0363,The Food Corner #92,Delhi,Rohini,Continental,premium,553.0,4.0,3808,False,False,39
+R0364,The Food Corner #147,Bangalore,Koramangala,South Indian,mid,216.0,4.5,2138,False,False,33
+R0365,The Food Corner #189,Chennai,OMR,South Indian,mid,342.0,3.6,1822,False,False,16
+R0366,Spice Garden #99,Chennai,Anna Nagar,South Indian,budget,134.0,3.9,2913,False,False,29
+R0367,Spice Garden #90,Pune,Hinjewadi,Fast Food,mid,282.0,3.6,4771,False,False,18
+R0368,Chai Point,Pune,Hinjewadi,South Indian,budget,75.0,3.2,4423,True,True,16
+R0369,Haldiram's,Delhi,Lajpat Nagar,Chinese,budget,126.0,3.8,3476,True,False,41
+R0370,The Food Corner #20,Bangalore,HSR Layout,Beverages,mid,295.0,4.5,578,False,False,37
+R0371,The Food Corner #65,Mumbai,Bandra,Beverages,mid,235.0,3.8,2183,False,False,24
+R0372,Burger King,Pune,Kothrud,Italian,mid,335.0,4.3,1974,True,True,36
+R0373,Domino's,Mumbai,Dadar,Continental,budget,75.0,4.5,4838,True,False,38
+R0374,Haldiram's,Pune,Wakad,Beverages,mid,203.0,3.6,1410,True,False,43
+R0375,The Food Corner #144,Delhi,Saket,North Indian,budget,66.0,4.6,912,False,False,19
+R0376,Domino's,Delhi,Rohini,Beverages,mid,309.0,3.7,3266,True,False,32
+R0377,Spice Garden #95,Mumbai,Bandra,North Indian,budget,116.0,3.5,2412,False,False,43
+R0378,Spice Garden #72,Delhi,Connaught Place,Italian,mid,213.0,3.4,4370,False,True,18
+R0379,The Food Corner #46,Pune,Kothrud,Street Food,mid,183.0,3.4,3544,False,False,15
+R0380,Burger King,Mumbai,Powai,Fast Food,budget,64.0,4.5,2017,True,False,32
+R0381,Pizza Hut,Delhi,Saket,Desserts,budget,75.0,4.8,117,True,False,34
+R0382,Spice Garden #4,Mumbai,Powai,Street Food,mid,241.0,3.5,1692,False,False,20
+R0383,Spice Garden #134,Delhi,Saket,Italian,mid,199.0,3.2,1070,False,False,34
+R0384,Spice Garden #197,Mumbai,Powai,Beverages,mid,202.0,3.6,3193,False,False,34
+R0385,Spice Garden #121,Delhi,Connaught Place,Beverages,mid,325.0,4.3,1520,False,True,28
+R0386,The Food Corner #30,Pune,Wakad,Continental,budget,106.0,3.7,1432,False,False,41
+R0387,The Food Corner #187,Bangalore,Whitefield,Fast Food,budget,126.0,4.1,2980,False,False,40
+R0388,Spice Garden #137,Delhi,Lajpat Nagar,Italian,budget,63.0,4.5,1386,False,True,24
+R0389,Spice Garden #169,Bangalore,HSR Layout,South Indian,budget,93.0,3.8,3216,False,True,32
+R0390,Subway,Mumbai,Thane,Desserts,mid,246.0,5.0,1292,True,True,23
+R0391,Chai Point,Delhi,Dwarka,Street Food,budget,77.0,3.6,1755,True,False,26
+R0392,Chai Point,Bangalore,Indiranagar,Chinese,premium,404.0,5.0,3249,True,False,24
+R0393,McDonald's,Delhi,Rohini,Chinese,mid,324.0,3.4,2644,True,True,38
+R0394,Spice Garden #134,Hyderabad,Jubilee Hills,Chinese,premium,773.0,3.2,3987,False,True,38
+R0395,The Food Corner #136,Bangalore,Indiranagar,Italian,premium,385.0,4.5,1729,False,False,35
+R0396,Spice Garden #185,Chennai,Velachery,South Indian,budget,91.0,4.4,1365,False,False,33
+R0397,The Food Corner #156,Kolkata,Park Street,Biryani,mid,342.0,4.6,4876,False,True,20
+R0398,Pizza Hut,Mumbai,Powai,Chinese,budget,67.0,3.7,617,True,False,28
+R0399,Spice Garden #32,Delhi,Saket,Street Food,budget,118.0,4.9,2754,False,False,39
+R0400,Domino's,Delhi,Dwarka,Biryani,mid,344.0,3.2,2501,True,False,22
+R0401,The Food Corner #40,Mumbai,Powai,Desserts,budget,148.0,3.1,1798,False,False,37
+R0402,Spice Garden #158,Chennai,Velachery,Continental,premium,562.0,3.6,4741,False,False,28
+R0403,Spice Garden #82,Chennai,Adyar,South Indian,mid,183.0,4.6,697,False,True,25
+R0404,The Food Corner #9,Bangalore,Whitefield,Continental,mid,190.0,4.3,2243,False,True,38
+R0405,Wow! Momo,Bangalore,HSR Layout,Street Food,budget,140.0,3.9,2858,True,False,30
+R0406,The Food Corner #162,Mumbai,Thane,Fast Food,mid,332.0,3.5,174,False,False,34
+R0407,Subway,Bangalore,Indiranagar,Fast Food,budget,115.0,3.1,1587,True,False,20
+R0408,Domino's,Chennai,Velachery,Chinese,mid,303.0,3.7,4625,True,False,29
+R0409,The Food Corner #129,Bangalore,Whitefield,Street Food,budget,127.0,3.9,4857,False,True,29
+R0410,Subway,Delhi,Dwarka,Continental,mid,282.0,4.4,2020,True,False,28
+R0411,Spice Garden #189,Hyderabad,Banjara Hills,Italian,budget,134.0,4.3,2812,False,False,35
+R0412,The Food Corner #116,Delhi,Rohini,Biryani,budget,122.0,4.9,1867,False,False,26
+R0413,Spice Garden #114,Bangalore,Whitefield,Chinese,mid,257.0,3.2,864,False,False,16
+R0414,Pizza Hut,Bangalore,Indiranagar,Biryani,budget,81.0,3.7,3151,True,False,22
+R0415,Spice Garden #69,Delhi,Rohini,Beverages,mid,299.0,4.0,4201,False,False,33
+R0416,The Food Corner #46,Hyderabad,Gachibowli,Beverages,budget,103.0,4.3,1704,False,False,28
+R0417,Spice Garden #79,Pune,Wakad,Beverages,budget,87.0,4.0,181,False,False,19
+R0418,The Food Corner #34,Mumbai,Powai,Fast Food,mid,310.0,4.8,280,False,True,38
+R0419,The Food Corner #184,Kolkata,Howrah,North Indian,budget,123.0,4.2,444,False,False,41
+R0420,The Food Corner #112,Bangalore,Indiranagar,Street Food,budget,144.0,3.1,3623,False,False,23
+R0421,Spice Garden #192,Hyderabad,Gachibowli,Fast Food,mid,183.0,3.2,1031,False,False,27
+R0422,Haldiram's,Pune,Baner,Street Food,budget,118.0,4.5,982,True,False,23
+R0423,The Food Corner #161,Bangalore,Whitefield,Desserts,budget,82.0,4.4,1459,False,False,28
+R0424,The Food Corner #83,Pune,Baner,Continental,budget,141.0,3.3,3005,False,False,19
+R0425,The Food Corner #43,Mumbai,Dadar,Beverages,budget,69.0,3.1,4678,False,False,16
+R0426,Wow! Momo,Mumbai,Andheri,Beverages,mid,281.0,4.2,4700,True,True,21
+R0427,The Food Corner #142,Hyderabad,Madhapur,Desserts,budget,131.0,4.3,2791,False,False,30
+R0428,Spice Garden #112,Pune,Kothrud,South Indian,mid,221.0,3.3,2988,False,False,25
+R0429,The Food Corner #192,Pune,Hinjewadi,North Indian,budget,146.0,3.9,3470,False,False,25
+R0430,Pizza Hut,Hyderabad,Madhapur,South Indian,budget,137.0,3.6,2554,True,False,37
+R0431,The Food Corner #150,Bangalore,Indiranagar,Fast Food,budget,87.0,4.9,3083,False,False,26
+R0432,The Food Corner #188,Delhi,Dwarka,South Indian,mid,152.0,3.4,4029,False,False,27
+R0433,The Food Corner #107,Kolkata,Park Street,Street Food,premium,483.0,4.5,3873,False,False,22
+R0434,Spice Garden #42,Delhi,Rohini,Italian,mid,206.0,4.0,4530,False,False,38
+R0435,The Food Corner #71,Chennai,Anna Nagar,Street Food,premium,750.0,3.0,761,False,False,30
+R0436,The Food Corner #30,Bangalore,HSR Layout,Chinese,budget,147.0,4.0,3026,False,False,35
+R0437,The Food Corner #72,Hyderabad,Gachibowli,Fast Food,budget,66.0,3.2,1521,False,False,15
+R0438,Burger King,Delhi,Connaught Place,Beverages,budget,102.0,4.3,3749,True,True,27
+R0439,Spice Garden #40,Kolkata,Ballygunge,Fast Food,budget,109.0,4.1,3236,False,False,25
+R0440,Chai Point,Bangalore,HSR Layout,South Indian,budget,68.0,3.0,4799,True,False,43
+R0441,Domino's,Kolkata,Salt Lake,Biryani,budget,94.0,3.4,1192,True,False,18
+R0442,Spice Garden #32,Mumbai,Dadar,Fast Food,budget,89.0,4.6,4031,False,False,18
+R0443,The Food Corner #82,Bangalore,Indiranagar,Continental,budget,108.0,3.6,2618,False,True,29
+R0444,The Food Corner #60,Hyderabad,Gachibowli,Fast Food,budget,120.0,4.0,1658,False,False,41
+R0445,Spice Garden #104,Chennai,Anna Nagar,Street Food,budget,123.0,3.6,4683,False,False,17
+R0446,The Food Corner #95,Pune,Baner,Biryani,premium,412.0,4.8,3872,False,False,38
+R0447,Wow! Momo,Mumbai,Powai,North Indian,budget,133.0,4.1,1947,True,True,33
+R0448,KFC,Mumbai,Andheri,Street Food,mid,286.0,4.4,2242,True,False,43
+R0449,Spice Garden #85,Bangalore,HSR Layout,Biryani,mid,328.0,3.2,4122,False,False,35
+R0450,Burger King,Mumbai,Thane,Biryani,budget,100.0,3.1,1141,True,False,16
+R0451,The Food Corner #68,Kolkata,Ballygunge,Fast Food,budget,140.0,3.5,749,False,False,20
+R0452,The Food Corner #28,Delhi,Dwarka,Desserts,budget,138.0,3.6,4142,False,False,36
+R0453,Spice Garden #60,Bangalore,HSR Layout,Italian,mid,238.0,4.4,1951,False,False,38
+R0454,The Food Corner #150,Mumbai,Thane,Desserts,budget,94.0,4.1,2228,False,True,22
+R0455,Pizza Hut,Bangalore,Jayanagar,Biryani,budget,144.0,3.7,782,True,True,31
+R0456,The Food Corner #169,Delhi,Rohini,Fast Food,budget,124.0,4.3,562,False,False,19
+R0457,Chai Point,Mumbai,Thane,Italian,premium,768.0,3.3,2737,True,True,16
+R0458,The Food Corner #52,Delhi,Connaught Place,Beverages,budget,132.0,3.1,4146,False,False,40
+R0459,Domino's,Delhi,Saket,Continental,mid,272.0,4.7,3806,True,True,26
+R0460,The Food Corner #63,Kolkata,Howrah,South Indian,mid,173.0,4.1,481,False,False,19
+R0461,The Food Corner #30,Mumbai,Thane,Italian,premium,481.0,4.3,4544,False,True,24
+R0462,Spice Garden #29,Bangalore,Koramangala,Beverages,mid,344.0,3.6,857,False,False,42
+R0463,The Food Corner #34,Kolkata,Park Street,Beverages,mid,214.0,3.7,1329,False,False,23
+R0464,Spice Garden #68,Chennai,Anna Nagar,Continental,premium,392.0,3.2,2271,False,False,34
+R0465,The Food Corner #64,Kolkata,New Town,Chinese,mid,292.0,4.7,904,False,False,22
+R0466,The Food Corner #14,Kolkata,Salt Lake,North Indian,budget,126.0,4.2,3262,False,False,15
+R0467,The Food Corner #35,Bangalore,Jayanagar,Continental,budget,86.0,3.2,2636,False,False,38
+R0468,The Food Corner #90,Hyderabad,Jubilee Hills,North Indian,mid,210.0,4.6,4890,False,False,20
+R0469,Spice Garden #30,Mumbai,Thane,Chinese,mid,244.0,3.9,2818,False,False,38
+R0470,The Food Corner #88,Bangalore,HSR Layout,Chinese,mid,154.0,4.5,4388,False,False,36
+R0471,Bikanervala,Chennai,Velachery,Continental,mid,308.0,3.0,3390,True,False,25
+R0472,The Food Corner #146,Bangalore,HSR Layout,North Indian,mid,213.0,3.1,3278,False,False,17
+R0473,Spice Garden #158,Hyderabad,Jubilee Hills,Desserts,budget,137.0,3.3,1669,False,False,42
+R0474,The Food Corner #172,Chennai,T Nagar,South Indian,mid,311.0,3.4,325,False,False,29
+R0475,Spice Garden #12,Delhi,Connaught Place,Desserts,budget,120.0,4.5,4153,False,True,25
+R0476,The Food Corner #4,Pune,Wakad,North Indian,premium,496.0,4.4,3913,False,False,38
+R0477,Spice Garden #131,Bangalore,Indiranagar,Street Food,mid,253.0,4.2,764,False,True,19
+R0478,Spice Garden #2,Mumbai,Thane,Street Food,mid,239.0,4.8,2130,False,False,42
+R0479,The Food Corner #183,Pune,Hinjewadi,Beverages,budget,90.0,3.5,859,False,False,40
+R0480,Spice Garden #112,Delhi,Dwarka,Street Food,budget,136.0,4.8,3776,False,False,30
+R0481,The Food Corner #98,Chennai,OMR,Street Food,budget,104.0,4.8,4028,False,True,35
+R0482,Spice Garden #38,Bangalore,Jayanagar,South Indian,mid,317.0,3.9,911,False,True,42
+R0483,McDonald's,Delhi,Lajpat Nagar,Chinese,mid,171.0,3.2,86,True,True,21
+R0484,The Food Corner #18,Chennai,Adyar,Beverages,budget,73.0,4.5,3861,False,False,20
+R0485,Spice Garden #177,Bangalore,Whitefield,Chinese,mid,345.0,3.7,2131,False,False,23
+R0486,The Food Corner #160,Delhi,Rohini,North Indian,mid,268.0,4.6,504,False,False,21
+R0487,Spice Garden #33,Mumbai,Powai,Continental,budget,106.0,3.3,4589,False,False,17
+R0488,The Food Corner #79,Pune,Hinjewadi,Beverages,mid,255.0,4.1,3358,False,False,25
+R0489,Spice Garden #31,Mumbai,Thane,Italian,mid,193.0,4.0,4357,False,False,41
+R0490,Spice Garden #36,Pune,Kothrud,Beverages,mid,294.0,3.2,3261,False,True,26
+R0491,The Food Corner #43,Delhi,Saket,Biryani,mid,167.0,3.7,2705,False,True,35
+R0492,Spice Garden #17,Hyderabad,Jubilee Hills,Chinese,mid,265.0,3.2,1031,False,False,39
+R0493,Spice Garden #147,Pune,Baner,North Indian,premium,607.0,3.9,4441,False,False,25
+R0494,The Food Corner #11,Mumbai,Andheri,Street Food,budget,142.0,4.7,201,False,False,43
+R0495,Spice Garden #93,Bangalore,Whitefield,Biryani,mid,255.0,3.5,3344,False,False,40
+R0496,The Food Corner #195,Chennai,Adyar,Fast Food,budget,72.0,4.5,649,False,False,44
+R0497,Spice Garden #70,Chennai,T Nagar,Italian,budget,112.0,3.4,1372,False,False,16
+R0498,Haldiram's,Bangalore,Koramangala,Desserts,budget,68.0,4.3,1561,True,True,15
+R0499,Spice Garden #192,Hyderabad,Banjara Hills,Chinese,budget,78.0,4.8,2308,False,False,41
+R0500,Spice Garden #196,Chennai,Velachery,Desserts,premium,364.0,3.6,281,False,False,38

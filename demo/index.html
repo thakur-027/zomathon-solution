@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MealMind — AI Cart Recommendation Demo</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div>
+    <span class="logo">Meal<span>Mind</span></span>
+    <span class="badge">LIVE DEMO</span>
+  </div>
+  <div class="header-right">
+    <div class="stat-pill">Model AUC <b>0.79</b></div>
+    <div class="stat-pill">NDCG@10 <b>0.56</b></div>
+    <div class="stat-pill">Avg AOV Lift <b>₹449</b></div>
+    <div class="stat-pill">Accept Rate <b>21%</b></div>
+  </div>
+</header>
+
+<div class="app">
+
+  <div class="panel">
+    <div class="panel-header">
+      <div class="panel-title">Step 1</div>
+      <div class="panel-sub">Set Context & Build Cart</div>
+    </div>
+
+    <div class="context-section">
+      <div class="context-label">Restaurant</div>
+      <select class="custom-select" id="restaurant" aria-label="Select Restaurant" onchange="updateContext()">
+        <option value="north">🍛 Spice Garden (North Indian)</option>
+        <option value="south">🥥 Dakshin (South Indian)</option>
+        <option value="italian">🍕 La Piazza (Italian)</option>
+        <option value="chinese">🥡 Dragon Palace (Chinese)</option>
+      </select>
+    </div>
+
+    <div class="context-section">
+      <div class="context-label">Meal Time</div>
+      <div class="toggle-row" id="meal-time-btns">
+        <button class="toggle-btn" onclick="setMealTime('breakfast')">Breakfast</button>
+        <button class="toggle-btn" onclick="setMealTime('lunch')">Lunch</button>
+        <button class="toggle-btn active" onclick="setMealTime('dinner')">Dinner</button>
+        <button class="toggle-btn" onclick="setMealTime('late_night')">Late Night</button>
+      </div>
+    </div>
+
+    <div class="context-section">
+      <div class="context-label">User Segment</div>
+      <div class="toggle-row" id="segment-btns">
+        <button class="toggle-btn" onclick="setSegment('budget')">Budget</button>
+        <button class="toggle-btn active" onclick="setSegment('mid_range')">Mid-range</button>
+        <button class="toggle-btn" onclick="setSegment('premium')">Premium</button>
+      </div>
+    </div>
+
+    <div class="context-section">
+      <div class="context-label">Dietary Preference</div>
+      <div class="toggle-row" id="veg-btns">
+        <button class="toggle-btn active" onclick="setVeg(false)">🍗 Non-Veg</button>
+        <button class="toggle-btn" onclick="setVeg(true)">🥦 Vegetarian</button>
+      </div>
+    </div>
+
+    <div class="menu-grid" id="menu-grid">
+      </div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-header">
+      <div class="panel-title">Step 2</div>
+      <div class="panel-sub">Your Current Cart</div>
+    </div>
+    <div class="cart-area">
+
+      <div class="completeness-bar">
+        <div class="completeness-title">Meal Completeness</div>
+        <div class="components-row" id="components-row">
+          <span class="comp-badge missing">Main Course</span>
+          <span class="comp-badge missing">Starter</span>
+          <span class="comp-badge missing">Side Dish</span>
+          <span class="comp-badge missing">Dessert</span>
+          <span class="comp-badge missing">Beverage</span>
+        </div>
+      </div>
+
+      <div id="cart-items">
+        <div class="cart-empty">
+          <span class="icon">🛒</span>
+          Add items from the menu to get started
+        </div>
+      </div>
+
+      <div id="cart-total">
+        <div class="cart-total">
+          <span class="cart-total-label">Cart Total</span>
+          <span class="cart-total-value" id="total-value">₹0</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-header">
+      <div class="panel-title">Step 3</div>
+      <div class="panel-sub">MealMind Recommendations</div>
+    </div>
+    <div class="reco-area">
+
+      <div class="latency-bar">
+        <div class="latency-dot"></div>
+        <span>Model inference</span>
+        <span class="latency-time" id="latency-display">— ms</span>
+      </div>
+
+      <div class="metrics-strip">
+        <div class="metric-chip">Stage 1 <b>Retrieval</b></div>
+        <div class="metric-chip">Stage 2 <b>LambdaRank</b></div>
+        <div class="metric-chip">LLM <b>Gemini</b></div>
+      </div>
+
+      <div id="llm-insight" class="llm-insight">
+        <div class="llm-header">
+          <div class="llm-dot"></div>
+          Gemini Analysis
+        </div>
+        <div class="llm-text" id="llm-text"></div>
+      </div>
+
+      <div id="reco-list">
+        <div class="reco-empty">
+          🤖 Add items to your cart to see<br>AI-powered recommendations
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

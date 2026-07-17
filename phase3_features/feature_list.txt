@@ -1,0 +1,37 @@
+# CSAO Model — Final Feature List (Phase 3 output)
+# Total features: 34
+
+01. cart_size                                corr=+0.0090
+02. cart_total_value                         corr=+0.0067
+03. cart_avg_price                           corr=+0.0023
+04. has_main_course                          corr=+0.0022
+05. has_starter                              corr=+0.0019
+06. has_side_dish                            corr=-0.0001
+07. has_dessert                              corr=+0.0022
+08. has_beverage                             corr=+0.0039
+09. has_snack                                corr=+0.0024
+10. cart_is_complete                         corr=+0.0043
+11. meal_completeness_score                  corr=+0.0061
+12. cand_price                               corr=+0.0030
+13. cand_is_veg                              corr=+0.0006
+14. cand_popularity                          corr=+0.0009
+15. cand_category_encoded                    corr=-0.0039
+16. popularity_score                         corr=-0.0009
+17. price_ratio                              corr=-0.0001
+18. cooccur_score                            corr=+0.2824
+19. cooccur_log                              corr=+0.3050
+20. is_complementary_category                corr=-0.0050
+21. veg_match                                corr=+0.0016
+22. veg_mismatch                             corr=-0.0001
+23. affordability                            corr=+0.0001
+24. upsell_pct                               corr=-0.0036
+25. user_is_veg                              corr=+0.0015
+26. user_avg_spend                           corr=+0.0012
+27. segment_encoded                          corr=+0.0004
+28. is_tier1_city                            corr=-0.0007
+29. meal_time_encoded                        corr=+0.0007
+30. is_weekend                               corr=-0.0009
+31. is_dinner_or_late                        corr=-0.0000
+32. step                                     corr=+0.0090
+33. step_ratio                               corr=+0.0090
+34. weekend_premium                          corr=+0.0011
