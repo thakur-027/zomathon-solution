@@ -1,6 +1,6 @@
-# 🍽️ MealMind — AI-Powered Cart Add-On Recommendation System
+# 🍽️ MealMind - AI-Powered Cart Add-On Recommendation System
 
-> **Zomathon Hackathon 2026 — Problem Statement 2**  
+> **Zomathon Hackathon 2026 - Problem Statement 2**  
 > Built for Zomato's Cart Super Add-On (CSAO) Rail Challenge
 
 ---
